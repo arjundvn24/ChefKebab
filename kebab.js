@@ -4,7 +4,7 @@ const noobjsonData = require('./noob.json');
 const easyjsonData = require('./easy.json');
 const mediumjsonData = require('./medium.json');
 const hardjsonData = require('./hard.json');
-client.login('ODY0NTcxMTMyMzU0NjI1NTM2.YO3YnA.ugtXaHRzYMHJWNoOfPECnr3vQRQ');
+client.login('');
 client.on('ready', () => {
 	console.log(`Logged in as ${client.user.tag}!`);
 });
