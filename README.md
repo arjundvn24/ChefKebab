@@ -7,3 +7,6 @@ The bot reduce your efforts to scavenge through the net to find a question for y
 !kebab
 ```
 to initiate the bot
+**NO API-KEY NEEDED!**
+
+## Installation | How to use the Bot
