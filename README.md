@@ -15,3 +15,5 @@ to initiate the bot
  **3.** Download this repo and unzip it    |    or git clone it <br/>
  **4.** Install all of the packages with **`npm install`**     |  the packages are   **`npm install node.js @discordjs/opus discord.js math.js `**
  <br/>
+
+ **5.** start the bot with **`node kebab.js`**<br/>
