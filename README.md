@@ -10,7 +10,8 @@ to initiate the bot
 **NO API-KEY NEEDED!**
 
 ## Installation | How to use the Bot
- **1.** Install [node.js v14](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
- **2.** Install [discord.js@latest](https://discord.js.org/#/) 
- **3.** Download this repo and unzip it    |    or git clone it
- **4.** Install all of the packages with **`npm install`**     |  the packages are   **`npm install node.js @discordjs/opus discord.js math.js **
+ **1.** Install [node.js v14](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher <br/>
+ **2.** Install [discord.js@latest](https://discord.js.org/#/) <br/>
+ **3.** Download this repo and unzip it    |    or git clone it <br/>
+ **4.** Install all of the packages with **`npm install`**     |  the packages are   **`npm install node.js @discordjs/opus discord.js math.js `**
+ <br/>
