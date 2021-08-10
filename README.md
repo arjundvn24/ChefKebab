@@ -18,4 +18,13 @@ to initiate the bot
 
  **5.** start the bot with **`node kebab.js`**<br/>
 ## **TUTORIAL** 
+Using !kebab
 <img src="https://github.com/arjundvn24/my-images/blob/main/Capture.PNG" >
+
+Choosing a level of difficulty
+
+<img src="https://github.com/arjundvn24/my-images/blob/main/Capture1.PNG" >
+
+The problem in the example:
+
+<img src="https://github.com/arjundvn24/my-images/blob/main/capture3.PNG" >
