@@ -1,0 +1,6911 @@
+[
+    {
+      "problemCode": "TREEMX",
+      "problemName": "Tree MEX",
+      "link": "https://www.codechef.com/problems/TREEMX",
+      "subs": "0",
+      "acc": "0"
+    },
+    {
+      "problemCode": "DRGRAC",
+      "problemName": "Drag Racing",
+      "link": "https://www.codechef.com/problems/DRGRAC",
+      "subs": "0",
+      "acc": "0"
+    },
+    {
+      "problemCode": "MINIMAX2",
+      "problemName": "Game of Theory",
+      "link": "https://www.codechef.com/problems/MINIMAX2",
+      "subs": "0",
+      "acc": "0"
+    },
+    {
+      "problemCode": "PROMLIV",
+      "problemName": "I Promised to Fight for the Living",
+      "link": "https://www.codechef.com/problems/PROMLIV",
+      "subs": "0",
+      "acc": "0"
+    },
+    {
+      "problemCode": "SATY0000",
+      "problemName": "Conquer Beyond the Wall",
+      "link": "https://www.codechef.com/problems/SATY0000",
+      "subs": "0",
+      "acc": "0"
+    },
+    {
+      "problemCode": "UWCOI21G",
+      "problemName": "Roman Routing",
+      "link": "https://www.codechef.com/problems/UWCOI21G",
+      "subs": "3",
+      "acc": "6.25"
+    },
+    {
+      "problemCode": "SUMDIGIT",
+      "problemName": "Sum of Digits",
+      "link": "https://www.codechef.com/problems/SUMDIGIT",
+      "subs": "4",
+      "acc": "35.71"
+    },
+    {
+      "problemCode": "UWCOI21E",
+      "problemName": "City Mapping 2",
+      "link": "https://www.codechef.com/problems/UWCOI21E",
+      "subs": "7",
+      "acc": "29.03"
+    },
+    {
+      "problemCode": "CARPD",
+      "problemName": "Cheapest Travel Plan",
+      "link": "https://www.codechef.com/problems/CARPD",
+      "subs": "7",
+      "acc": "13.41"
+    },
+    {
+      "problemCode": "ADDONSEG",
+      "problemName": "Adding on Segments",
+      "link": "https://www.codechef.com/problems/ADDONSEG",
+      "subs": "8",
+      "acc": "21.62"
+    },
+    {
+      "problemCode": "MORPH21",
+      "problemName": "Isomorphic Morphism",
+      "link": "https://www.codechef.com/problems/MORPH21",
+      "subs": "8",
+      "acc": "28.57"
+    },
+    {
+      "problemCode": "ANTUTREE",
+      "problemName": "On Graphs, Probability Theory and Cakes",
+      "link": "https://www.codechef.com/problems/ANTUTREE",
+      "subs": "8",
+      "acc": "82.35"
+    },
+    {
+      "problemCode": "ARCRT",
+      "problemName": "Sequence Creation",
+      "link": "https://www.codechef.com/problems/ARCRT",
+      "subs": "8",
+      "acc": "43.75"
+    },
+    {
+      "problemCode": "GPHLBL",
+      "problemName": "Graph Labelling",
+      "link": "https://www.codechef.com/problems/GPHLBL",
+      "subs": "10",
+      "acc": "100"
+    },
+    {
+      "problemCode": "MVCN2TST",
+      "problemName": "Move the Coins - Creating Tests",
+      "link": "https://www.codechef.com/problems/MVCN2TST",
+      "subs": "11",
+      "acc": "37.14"
+    },
+    {
+      "problemCode": "PERFSQRS",
+      "problemName": "Ppeerrffeecctt Ssqquuaarreess",
+      "link": "https://www.codechef.com/problems/PERFSQRS",
+      "subs": "11",
+      "acc": "66.67"
+    },
+    {
+      "problemCode": "DCRTIT",
+      "problemName": "Decorate It",
+      "link": "https://www.codechef.com/problems/DCRTIT",
+      "subs": "12",
+      "acc": "13.54"
+    },
+    {
+      "problemCode": "PERMDIST",
+      "problemName": "Permutation Distance",
+      "link": "https://www.codechef.com/problems/PERMDIST",
+      "subs": "12",
+      "acc": "9.62"
+    },
+    {
+      "problemCode": "COMPLEXG",
+      "problemName": "A Complex Graph Problem",
+      "link": "https://www.codechef.com/problems/COMPLEXG",
+      "subs": "12",
+      "acc": "50"
+    },
+    {
+      "problemCode": "JMPFVR",
+      "problemName": "Jumping Fever",
+      "link": "https://www.codechef.com/problems/JMPFVR",
+      "subs": "12",
+      "acc": "50"
+    },
+    {
+      "problemCode": "SHENQ",
+      "problemName": "Quest for Dragon Balls",
+      "link": "https://www.codechef.com/problems/SHENQ",
+      "subs": "12",
+      "acc": "9.6"
+    },
+    {
+      "problemCode": "CHEFPART",
+      "problemName": "Chefina and Swaps",
+      "link": "https://www.codechef.com/problems/CHEFPART",
+      "subs": "12",
+      "acc": "41.18"
+    },
+    {
+      "problemCode": "RB2CNF",
+      "problemName": "Red-Black Boolean Expression",
+      "link": "https://www.codechef.com/problems/RB2CNF",
+      "subs": "12",
+      "acc": "22.67"
+    },
+    {
+      "problemCode": "XORPALIN",
+      "problemName": "XOR-ed Palindromes",
+      "link": "https://www.codechef.com/problems/XORPALIN",
+      "subs": "12",
+      "acc": "16.79"
+    },
+    {
+      "problemCode": "JRNTREE",
+      "problemName": "TreeLand Journey",
+      "link": "https://www.codechef.com/problems/JRNTREE",
+      "subs": "13",
+      "acc": "5.91"
+    },
+    {
+      "problemCode": "MATCUT",
+      "problemName": "Mathison and the cubic tree",
+      "link": "https://www.codechef.com/problems/MATCUT",
+      "subs": "13",
+      "acc": "40.78"
+    },
+    {
+      "problemCode": "SUBWAY",
+      "problemName": "Subway Ride",
+      "link": "https://www.codechef.com/problems/SUBWAY",
+      "subs": "13",
+      "acc": "14.95"
+    },
+    {
+      "problemCode": "TREEWLK2",
+      "problemName": "Tree Walk",
+      "link": "https://www.codechef.com/problems/TREEWLK2",
+      "subs": "13",
+      "acc": "11.92"
+    },
+    {
+      "problemCode": "ELEPPOND",
+      "problemName": "Elephants in a Pond",
+      "link": "https://www.codechef.com/problems/ELEPPOND",
+      "subs": "13",
+      "acc": "19.44"
+    },
+    {
+      "problemCode": "NINENINE",
+      "problemName": "Jake and His Halloween challenge",
+      "link": "https://www.codechef.com/problems/NINENINE",
+      "subs": "13",
+      "acc": "27.78"
+    },
+    {
+      "problemCode": "ADAROKS",
+      "problemName": "Ada Rooks",
+      "link": "https://www.codechef.com/problems/ADAROKS",
+      "subs": "13",
+      "acc": "30"
+    },
+    {
+      "problemCode": "CLMTRO",
+      "problemName": "Metro",
+      "link": "https://www.codechef.com/problems/CLMTRO",
+      "subs": "13",
+      "acc": "25"
+    },
+    {
+      "problemCode": "CLTREE",
+      "problemName": "Paths",
+      "link": "https://www.codechef.com/problems/CLTREE",
+      "subs": "13",
+      "acc": "25.93"
+    },
+    {
+      "problemCode": "CNVX4HUL",
+      "problemName": "Points and Convex Hulls",
+      "link": "https://www.codechef.com/problems/CNVX4HUL",
+      "subs": "13",
+      "acc": "20.69"
+    },
+    {
+      "problemCode": "TFB2DW",
+      "problemName": "The Frictionless Bisected 2-Dimensional World",
+      "link": "https://www.codechef.com/problems/TFB2DW",
+      "subs": "13",
+      "acc": "39.02"
+    },
+    {
+      "problemCode": "OPTSPL",
+      "problemName": "Optimal Splitting",
+      "link": "https://www.codechef.com/problems/OPTSPL",
+      "subs": "13",
+      "acc": "17.11"
+    },
+    {
+      "problemCode": "EDGY",
+      "problemName": "Edgy",
+      "link": "https://www.codechef.com/problems/EDGY",
+      "subs": "13",
+      "acc": "31.25"
+    },
+    {
+      "problemCode": "WINHERE",
+      "problemName": "Winter Is Here",
+      "link": "https://www.codechef.com/problems/WINHERE",
+      "subs": "13",
+      "acc": "12.17"
+    },
+    {
+      "problemCode": "ENETIRE",
+      "problemName": "Our Enemy does not Tire",
+      "link": "https://www.codechef.com/problems/ENETIRE",
+      "subs": "13",
+      "acc": "48.28"
+    },
+    {
+      "problemCode": "ADAPWN",
+      "problemName": "Ada Pawns",
+      "link": "https://www.codechef.com/problems/ADAPWN",
+      "subs": "13",
+      "acc": "17.72"
+    },
+    {
+      "problemCode": "EXUNF",
+      "problemName": "Dipole Moment",
+      "link": "https://www.codechef.com/problems/EXUNF",
+      "subs": "13",
+      "acc": "61.54"
+    },
+    {
+      "problemCode": "DFNC",
+      "problemName": "D-Function",
+      "link": "https://www.codechef.com/problems/DFNC",
+      "subs": "13",
+      "acc": "13.76"
+    },
+    {
+      "problemCode": "TWEGRA",
+      "problemName": "Tweedle Graph",
+      "link": "https://www.codechef.com/problems/TWEGRA",
+      "subs": "13",
+      "acc": "43.33"
+    },
+    {
+      "problemCode": "SMTOUR",
+      "problemName": "Beautiful Walk",
+      "link": "https://www.codechef.com/problems/SMTOUR",
+      "subs": "13",
+      "acc": "14.58"
+    },
+    {
+      "problemCode": "COLPOLLY",
+      "problemName": "What is this, a crossover episode",
+      "link": "https://www.codechef.com/problems/COLPOLLY",
+      "subs": "13",
+      "acc": "16.05"
+    },
+    {
+      "problemCode": "CCDSAP",
+      "problemName": "CCDSAP Exam",
+      "link": "https://www.codechef.com/problems/CCDSAP",
+      "subs": "13",
+      "acc": "18.68"
+    },
+    {
+      "problemCode": "ICM2005",
+      "problemName": "Swap Sort",
+      "link": "https://www.codechef.com/problems/ICM2005",
+      "subs": "13",
+      "acc": "11.19"
+    },
+    {
+      "problemCode": "UWCOI20G",
+      "problemName": "Optimal Memory Address",
+      "link": "https://www.codechef.com/problems/UWCOI20G",
+      "subs": "13",
+      "acc": "35.71"
+    },
+    {
+      "problemCode": "RESTCH",
+      "problemName": "Chef, Chefina and Restoration",
+      "link": "https://www.codechef.com/problems/RESTCH",
+      "subs": "13",
+      "acc": "9.15"
+    },
+    {
+      "problemCode": "CLMARKS",
+      "problemName": "Phineas and Marks",
+      "link": "https://www.codechef.com/problems/CLMARKS",
+      "subs": "13",
+      "acc": "23.53"
+    },
+    {
+      "problemCode": "SPPSTR",
+      "problemName": "Special power strings",
+      "link": "https://www.codechef.com/problems/SPPSTR",
+      "subs": "13",
+      "acc": "27.69"
+    },
+    {
+      "problemCode": "KGCD",
+      "problemName": "The Chosen One",
+      "link": "https://www.codechef.com/problems/KGCD",
+      "subs": "13",
+      "acc": "14.63"
+    },
+    {
+      "problemCode": "CIRCOLOR",
+      "problemName": "Circle Coloring",
+      "link": "https://www.codechef.com/problems/CIRCOLOR",
+      "subs": "13",
+      "acc": "47.37"
+    },
+    {
+      "problemCode": "LABEL",
+      "problemName": "Tree Labelling",
+      "link": "https://www.codechef.com/problems/LABEL",
+      "subs": "14",
+      "acc": "18.87"
+    },
+    {
+      "problemCode": "CIRCLEQ",
+      "problemName": "The New Restaurant",
+      "link": "https://www.codechef.com/problems/CIRCLEQ",
+      "subs": "14",
+      "acc": "27.87"
+    },
+    {
+      "problemCode": "CATCHSM",
+      "problemName": "Catch Spider-Chef",
+      "link": "https://www.codechef.com/problems/CATCHSM",
+      "subs": "14",
+      "acc": "17.95"
+    },
+    {
+      "problemCode": "REFUELS",
+      "problemName": "Racing Refuels",
+      "link": "https://www.codechef.com/problems/REFUELS",
+      "subs": "14",
+      "acc": "14.68"
+    },
+    {
+      "problemCode": "SHDWCMP",
+      "problemName": "Company Club Membership",
+      "link": "https://www.codechef.com/problems/SHDWCMP",
+      "subs": "14",
+      "acc": "8.06"
+    },
+    {
+      "problemCode": "CLERVT",
+      "problemName": "The Kingdom of Ererraveth",
+      "link": "https://www.codechef.com/problems/CLERVT",
+      "subs": "14",
+      "acc": "18.48"
+    },
+    {
+      "problemCode": "GDIST",
+      "problemName": "Grammar Distance",
+      "link": "https://www.codechef.com/problems/GDIST",
+      "subs": "14",
+      "acc": "65.22"
+    },
+    {
+      "problemCode": "DATAPIPE",
+      "problemName": "Data Pipelines",
+      "link": "https://www.codechef.com/problems/DATAPIPE",
+      "subs": "14",
+      "acc": "19.77"
+    },
+    {
+      "problemCode": "ALIENCOW",
+      "problemName": "Chef and Alien Invasion",
+      "link": "https://www.codechef.com/problems/ALIENCOW",
+      "subs": "14",
+      "acc": "16.84"
+    },
+    {
+      "problemCode": "CIRCBIN",
+      "problemName": "Bins in a Circle",
+      "link": "https://www.codechef.com/problems/CIRCBIN",
+      "subs": "14",
+      "acc": "58.33"
+    },
+    {
+      "problemCode": "XYPRESQ",
+      "problemName": "The Prestige",
+      "link": "https://www.codechef.com/problems/XYPRESQ",
+      "subs": "14",
+      "acc": "16.04"
+    },
+    {
+      "problemCode": "PTREE",
+      "problemName": "Perfect Tree Problem",
+      "link": "https://www.codechef.com/problems/PTREE",
+      "subs": "14",
+      "acc": "13.52"
+    },
+    {
+      "problemCode": "SWAPSIGN",
+      "problemName": "Misplaced Signs",
+      "link": "https://www.codechef.com/problems/SWAPSIGN",
+      "subs": "14",
+      "acc": "23.62"
+    },
+    {
+      "problemCode": "GCDS",
+      "problemName": "GCD Subsequences",
+      "link": "https://www.codechef.com/problems/GCDS",
+      "subs": "14",
+      "acc": "16.37"
+    },
+    {
+      "problemCode": "THCOM",
+      "problemName": "They are COMING",
+      "link": "https://www.codechef.com/problems/THCOM",
+      "subs": "14",
+      "acc": "15.63"
+    },
+    {
+      "problemCode": "BOFP",
+      "problemName": "Beauty of Pairs",
+      "link": "https://www.codechef.com/problems/BOFP",
+      "subs": "14",
+      "acc": "35"
+    },
+    {
+      "problemCode": "MGICMENU",
+      "problemName": "Magical Menu",
+      "link": "https://www.codechef.com/problems/MGICMENU",
+      "subs": "14",
+      "acc": "32.56"
+    },
+    {
+      "problemCode": "MAGPER",
+      "problemName": "Magic Permutations",
+      "link": "https://www.codechef.com/problems/MAGPER",
+      "subs": "14",
+      "acc": "21.43"
+    },
+    {
+      "problemCode": "BLWHTREE",
+      "problemName": "Black-and-White Tree",
+      "link": "https://www.codechef.com/problems/BLWHTREE",
+      "subs": "14",
+      "acc": "25"
+    },
+    {
+      "problemCode": "SRVR",
+      "problemName": "Servers",
+      "link": "https://www.codechef.com/problems/SRVR",
+      "subs": "14",
+      "acc": "45.45"
+    },
+    {
+      "problemCode": "CUPACO",
+      "problemName": "Cumulative Palindrome Count",
+      "link": "https://www.codechef.com/problems/CUPACO",
+      "subs": "14",
+      "acc": "29.82"
+    },
+    {
+      "problemCode": "GRUMARS",
+      "problemName": "Gru and his Robbery of Mars",
+      "link": "https://www.codechef.com/problems/GRUMARS",
+      "subs": "14",
+      "acc": "28.57"
+    },
+    {
+      "problemCode": "RECNDARY",
+      "problemName": "Chef and Array",
+      "link": "https://www.codechef.com/problems/RECNDARY",
+      "subs": "14",
+      "acc": "34.62"
+    },
+    {
+      "problemCode": "COOLSBST",
+      "problemName": "Cool Subsets",
+      "link": "https://www.codechef.com/problems/COOLSBST",
+      "subs": "14",
+      "acc": "40"
+    },
+    {
+      "problemCode": "RNDRATIO",
+      "problemName": "Mysterious Ratio",
+      "link": "https://www.codechef.com/problems/RNDRATIO",
+      "subs": "14",
+      "acc": "9.76"
+    },
+    {
+      "problemCode": "XORCOUNT",
+      "problemName": "Xor Counting",
+      "link": "https://www.codechef.com/problems/XORCOUNT",
+      "subs": "14",
+      "acc": "33.9"
+    },
+    {
+      "problemCode": "SAFETR",
+      "problemName": "Safety in Treeland",
+      "link": "https://www.codechef.com/problems/SAFETR",
+      "subs": "14",
+      "acc": "22.89"
+    },
+    {
+      "problemCode": "MINMXSTR",
+      "problemName": "Min-Max String",
+      "link": "https://www.codechef.com/problems/MINMXSTR",
+      "subs": "14",
+      "acc": "14.6"
+    },
+    {
+      "problemCode": "CHEFMOD",
+      "problemName": "Chef and Modular Sequence",
+      "link": "https://www.codechef.com/problems/CHEFMOD",
+      "subs": "14",
+      "acc": "18.64"
+    },
+    {
+      "problemCode": "CHEFSSM",
+      "problemName": "Chef and the Combination Lock",
+      "link": "https://www.codechef.com/problems/CHEFSSM",
+      "subs": "14",
+      "acc": "20.95"
+    },
+    {
+      "problemCode": "SWARM",
+      "problemName": "Swarm of Polygons",
+      "link": "https://www.codechef.com/problems/SWARM",
+      "subs": "15",
+      "acc": "5.54"
+    },
+    {
+      "problemCode": "FFUNCT",
+      "problemName": "Fun and Functions",
+      "link": "https://www.codechef.com/problems/FFUNCT",
+      "subs": "15",
+      "acc": "31.91"
+    },
+    {
+      "problemCode": "ISONUM",
+      "problemName": "Number Isomorphism",
+      "link": "https://www.codechef.com/problems/ISONUM",
+      "subs": "15",
+      "acc": "13.11"
+    },
+    {
+      "problemCode": "ANKINTER",
+      "problemName": "Intervals and subarrays",
+      "link": "https://www.codechef.com/problems/ANKINTER",
+      "subs": "15",
+      "acc": "5.7"
+    },
+    {
+      "problemCode": "SEATR",
+      "problemName": "Sereja and Tree",
+      "link": "https://www.codechef.com/problems/SEATR",
+      "subs": "15",
+      "acc": "40.48"
+    },
+    {
+      "problemCode": "KOL1501",
+      "problemName": "In a planet far far away",
+      "link": "https://www.codechef.com/problems/KOL1501",
+      "subs": "15",
+      "acc": "15.15"
+    },
+    {
+      "problemCode": "CHN11",
+      "problemName": "Animesh has a war with tribal leader Malvika",
+      "link": "https://www.codechef.com/problems/CHN11",
+      "subs": "15",
+      "acc": "7.86"
+    },
+    {
+      "problemCode": "CHN06",
+      "problemName": "King Animesh decides to have a voyage to the sun",
+      "link": "https://www.codechef.com/problems/CHN06",
+      "subs": "15",
+      "acc": "38.46"
+    },
+    {
+      "problemCode": "RAINFALL",
+      "problemName": "Rain vs City",
+      "link": "https://www.codechef.com/problems/RAINFALL",
+      "subs": "15",
+      "acc": "25.86"
+    },
+    {
+      "problemCode": "SEQUAT2",
+      "problemName": "Sebi and the equation 2",
+      "link": "https://www.codechef.com/problems/SEQUAT2",
+      "subs": "15",
+      "acc": "12.32"
+    },
+    {
+      "problemCode": "OPTSSET",
+      "problemName": "Optimal Subset",
+      "link": "https://www.codechef.com/problems/OPTSSET",
+      "subs": "15",
+      "acc": "13.49"
+    },
+    {
+      "problemCode": "SEGSM",
+      "problemName": "Subsegment Sum",
+      "link": "https://www.codechef.com/problems/SEGSM",
+      "subs": "15",
+      "acc": "12.6"
+    },
+    {
+      "problemCode": "PWNCHESS",
+      "problemName": "Pawn Chess",
+      "link": "https://www.codechef.com/problems/PWNCHESS",
+      "subs": "15",
+      "acc": "10.5"
+    },
+    {
+      "problemCode": "PROC18F",
+      "problemName": "The Illusionist",
+      "link": "https://www.codechef.com/problems/PROC18F",
+      "subs": "15",
+      "acc": "44.83"
+    },
+    {
+      "problemCode": "ADASHOP",
+      "problemName": "Ada Bishop",
+      "link": "https://www.codechef.com/problems/ADASHOP",
+      "subs": "15",
+      "acc": "28.57"
+    },
+    {
+      "problemCode": "SHMIRZ",
+      "problemName": "Shops in Mirzapur",
+      "link": "https://www.codechef.com/problems/SHMIRZ",
+      "subs": "15",
+      "acc": "16.22"
+    },
+    {
+      "problemCode": "BSTN",
+      "problemName": "Bus Station",
+      "link": "https://www.codechef.com/problems/BSTN",
+      "subs": "15",
+      "acc": "36.73"
+    },
+    {
+      "problemCode": "MAGARR",
+      "problemName": "Magic Array",
+      "link": "https://www.codechef.com/problems/MAGARR",
+      "subs": "15",
+      "acc": "17.12"
+    },
+    {
+      "problemCode": "RAFFLE",
+      "problemName": "Chef Raffle",
+      "link": "https://www.codechef.com/problems/RAFFLE",
+      "subs": "15",
+      "acc": "45"
+    },
+    {
+      "problemCode": "MTRXOP",
+      "problemName": "Chef and Rotation",
+      "link": "https://www.codechef.com/problems/MTRXOP",
+      "subs": "15",
+      "acc": "31.48"
+    },
+    {
+      "problemCode": "SUBNUM",
+      "problemName": "Subset Numbering",
+      "link": "https://www.codechef.com/problems/SUBNUM",
+      "subs": "15",
+      "acc": "3.65"
+    },
+    {
+      "problemCode": "COLORDIS",
+      "problemName": "Nearest Color",
+      "link": "https://www.codechef.com/problems/COLORDIS",
+      "subs": "15",
+      "acc": "16.55"
+    },
+    {
+      "problemCode": "SECRECP",
+      "problemName": "The Secret Recipe",
+      "link": "https://www.codechef.com/problems/SECRECP",
+      "subs": "15",
+      "acc": "18.31"
+    },
+    {
+      "problemCode": "EQMD",
+      "problemName": "Equal Median",
+      "link": "https://www.codechef.com/problems/EQMD",
+      "subs": "15",
+      "acc": "31.19"
+    },
+    {
+      "problemCode": "PALMACH",
+      "problemName": "Palindromes Machine",
+      "link": "https://www.codechef.com/problems/PALMACH",
+      "subs": "15",
+      "acc": "36.96"
+    },
+    {
+      "problemCode": "APPLE42",
+      "problemName": "Apples and Oranges",
+      "link": "https://www.codechef.com/problems/APPLE42",
+      "subs": "15",
+      "acc": "14.05"
+    },
+    {
+      "problemCode": "RNG97",
+      "problemName": "Random Number Generator",
+      "link": "https://www.codechef.com/problems/RNG97",
+      "subs": "15",
+      "acc": "64"
+    },
+    {
+      "problemCode": "UWCOI20E",
+      "problemName": "Escape",
+      "link": "https://www.codechef.com/problems/UWCOI20E",
+      "subs": "15",
+      "acc": "9.95"
+    },
+    {
+      "problemCode": "GCDMASK",
+      "problemName": "GCD of the Submasks",
+      "link": "https://www.codechef.com/problems/GCDMASK",
+      "subs": "15",
+      "acc": "13.42"
+    },
+    {
+      "problemCode": "CENS20B",
+      "problemName": "Cherry and Squares",
+      "link": "https://www.codechef.com/problems/CENS20B",
+      "subs": "15",
+      "acc": "25"
+    },
+    {
+      "problemCode": "ROTATPOL",
+      "problemName": "Rotate the Polyline",
+      "link": "https://www.codechef.com/problems/ROTATPOL",
+      "subs": "15",
+      "acc": "17.97"
+    },
+    {
+      "problemCode": "SQUAGAME",
+      "problemName": "Squares Game",
+      "link": "https://www.codechef.com/problems/SQUAGAME",
+      "subs": "16",
+      "acc": "19.39"
+    },
+    {
+      "problemCode": "CIELNUM3",
+      "problemName": "Ciel Numbers III",
+      "link": "https://www.codechef.com/problems/CIELNUM3",
+      "subs": "16",
+      "acc": "25"
+    },
+    {
+      "problemCode": "BMASTER",
+      "problemName": "Blade Master",
+      "link": "https://www.codechef.com/problems/BMASTER",
+      "subs": "16",
+      "acc": "17.95"
+    },
+    {
+      "problemCode": "ARIGEOM",
+      "problemName": "Arigeom Beats",
+      "link": "https://www.codechef.com/problems/ARIGEOM",
+      "subs": "16",
+      "acc": "9.23"
+    },
+    {
+      "problemCode": "HOB",
+      "problemName": "Hotel Balifornia",
+      "link": "https://www.codechef.com/problems/HOB",
+      "subs": "16",
+      "acc": "17.89"
+    },
+    {
+      "problemCode": "AMROOK",
+      "problemName": "Rook Placement",
+      "link": "https://www.codechef.com/problems/AMROOK",
+      "subs": "16",
+      "acc": "29.85"
+    },
+    {
+      "problemCode": "GERALD06",
+      "problemName": "Chef and Strange Graph",
+      "link": "https://www.codechef.com/problems/GERALD06",
+      "subs": "16",
+      "acc": "23.19"
+    },
+    {
+      "problemCode": "ORDERAAM",
+      "problemName": "Chef and the Orders",
+      "link": "https://www.codechef.com/problems/ORDERAAM",
+      "subs": "16",
+      "acc": "13.87"
+    },
+    {
+      "problemCode": "TREEP",
+      "problemName": "Period on tree",
+      "link": "https://www.codechef.com/problems/TREEP",
+      "subs": "16",
+      "acc": "19"
+    },
+    {
+      "problemCode": "KCONNECT",
+      "problemName": "Chef And A Complete Graph",
+      "link": "https://www.codechef.com/problems/KCONNECT",
+      "subs": "16",
+      "acc": "35.29"
+    },
+    {
+      "problemCode": "MINSHIFT",
+      "problemName": "Cyclic Shifts",
+      "link": "https://www.codechef.com/problems/MINSHIFT",
+      "subs": "16",
+      "acc": "12.89"
+    },
+    {
+      "problemCode": "SUMPP",
+      "problemName": "Provinces of ChefLand",
+      "link": "https://www.codechef.com/problems/SUMPP",
+      "subs": "16",
+      "acc": "13.49"
+    },
+    {
+      "problemCode": "YFG",
+      "problemName": "Y Figures",
+      "link": "https://www.codechef.com/problems/YFG",
+      "subs": "16",
+      "acc": "28.79"
+    },
+    {
+      "problemCode": "LCSTSUB",
+      "problemName": "Longest Constrained Subsequence",
+      "link": "https://www.codechef.com/problems/LCSTSUB",
+      "subs": "16",
+      "acc": "22.34"
+    },
+    {
+      "problemCode": "CHEFGORO",
+      "problemName": "Chef Goro",
+      "link": "https://www.codechef.com/problems/CHEFGORO",
+      "subs": "16",
+      "acc": "52.5"
+    },
+    {
+      "problemCode": "PRINDRAG",
+      "problemName": "Princess and Dragons",
+      "link": "https://www.codechef.com/problems/PRINDRAG",
+      "subs": "16",
+      "acc": "5.61"
+    },
+    {
+      "problemCode": "STCFOTT",
+      "problemName": "Selinas the Chefs Falling on the Tree",
+      "link": "https://www.codechef.com/problems/STCFOTT",
+      "subs": "16",
+      "acc": "30"
+    },
+    {
+      "problemCode": "CHAQOT",
+      "problemName": "Chef and Queries on a Tree",
+      "link": "https://www.codechef.com/problems/CHAQOT",
+      "subs": "16",
+      "acc": "25"
+    },
+    {
+      "problemCode": "ADAFUN",
+      "problemName": "Ada Function",
+      "link": "https://www.codechef.com/problems/ADAFUN",
+      "subs": "16",
+      "acc": "37.93"
+    },
+    {
+      "problemCode": "PPAP",
+      "problemName": "Probability",
+      "link": "https://www.codechef.com/problems/PPAP",
+      "subs": "16",
+      "acc": "30.77"
+    },
+    {
+      "problemCode": "INFDIV",
+      "problemName": "Make it Zero",
+      "link": "https://www.codechef.com/problems/INFDIV",
+      "subs": "16",
+      "acc": "30.19"
+    },
+    {
+      "problemCode": "INTERVCH",
+      "problemName": "Digit Bounded Numbers",
+      "link": "https://www.codechef.com/problems/INTERVCH",
+      "subs": "16",
+      "acc": "27.27"
+    },
+    {
+      "problemCode": "PERMLIST",
+      "problemName": "Create Permutation",
+      "link": "https://www.codechef.com/problems/PERMLIST",
+      "subs": "16",
+      "acc": "29.81"
+    },
+    {
+      "problemCode": "STICK2",
+      "problemName": "Stick and polygon",
+      "link": "https://www.codechef.com/problems/STICK2",
+      "subs": "16",
+      "acc": "36"
+    },
+    {
+      "problemCode": "SEGDIR2",
+      "problemName": "Direct Segments",
+      "link": "https://www.codechef.com/problems/SEGDIR2",
+      "subs": "16",
+      "acc": "61.29"
+    },
+    {
+      "problemCode": "TREESUB",
+      "problemName": "Maximum GCD Subset",
+      "link": "https://www.codechef.com/problems/TREESUB",
+      "subs": "16",
+      "acc": "11.26"
+    },
+    {
+      "problemCode": "DGMATRIX",
+      "problemName": "Digit Matrix",
+      "link": "https://www.codechef.com/problems/DGMATRIX",
+      "subs": "16",
+      "acc": "37.35"
+    },
+    {
+      "problemCode": "SWEETRQ",
+      "problemName": "Sweet Rectangles",
+      "link": "https://www.codechef.com/problems/SWEETRQ",
+      "subs": "16",
+      "acc": "52.27"
+    },
+    {
+      "problemCode": "PART",
+      "problemName": "Partition Ways",
+      "link": "https://www.codechef.com/problems/PART",
+      "subs": "16",
+      "acc": "50.88"
+    },
+    {
+      "problemCode": "F2",
+      "problemName": "Bytelandian Robots",
+      "link": "https://www.codechef.com/problems/F2",
+      "subs": "17",
+      "acc": "36"
+    },
+    {
+      "problemCode": "HAPPY",
+      "problemName": "Happy Days",
+      "link": "https://www.codechef.com/problems/HAPPY",
+      "subs": "17",
+      "acc": "7.47"
+    },
+    {
+      "problemCode": "COLLTIME",
+      "problemName": "Time of collisions",
+      "link": "https://www.codechef.com/problems/COLLTIME",
+      "subs": "17",
+      "acc": "12.58"
+    },
+    {
+      "problemCode": "SEQUENCE",
+      "problemName": "Integer Sequences",
+      "link": "https://www.codechef.com/problems/SEQUENCE",
+      "subs": "17",
+      "acc": "27.27"
+    },
+    {
+      "problemCode": "CROWNS",
+      "problemName": "Icing Crowns",
+      "link": "https://www.codechef.com/problems/CROWNS",
+      "subs": "17",
+      "acc": "45"
+    },
+    {
+      "problemCode": "COOKOFF2",
+      "problemName": "The Grand Cook Off",
+      "link": "https://www.codechef.com/problems/COOKOFF2",
+      "subs": "17",
+      "acc": "38.18"
+    },
+    {
+      "problemCode": "RESTOCK",
+      "problemName": "Restock",
+      "link": "https://www.codechef.com/problems/RESTOCK",
+      "subs": "17",
+      "acc": "22.63"
+    },
+    {
+      "problemCode": "MEANMEDI",
+      "problemName": "Mean Mean Medians",
+      "link": "https://www.codechef.com/problems/MEANMEDI",
+      "subs": "17",
+      "acc": "24.59"
+    },
+    {
+      "problemCode": "GAPFILL",
+      "problemName": "Gap Filler Game",
+      "link": "https://www.codechef.com/problems/GAPFILL",
+      "subs": "17",
+      "acc": "28.33"
+    },
+    {
+      "problemCode": "FLOORSMV",
+      "problemName": "Moving between Floors",
+      "link": "https://www.codechef.com/problems/FLOORSMV",
+      "subs": "17",
+      "acc": "37.5"
+    },
+    {
+      "problemCode": "GUESSMID",
+      "problemName": "Guess the Middle",
+      "link": "https://www.codechef.com/problems/GUESSMID",
+      "subs": "17",
+      "acc": "20"
+    },
+    {
+      "problemCode": "PEAKS",
+      "problemName": "Peaks",
+      "link": "https://www.codechef.com/problems/PEAKS",
+      "subs": "17",
+      "acc": "10.1"
+    },
+    {
+      "problemCode": "EXAMCOPY",
+      "problemName": "Exam Copy",
+      "link": "https://www.codechef.com/problems/EXAMCOPY",
+      "subs": "17",
+      "acc": "13.97"
+    },
+    {
+      "problemCode": "SBSTCNT",
+      "problemName": "Weird Queries",
+      "link": "https://www.codechef.com/problems/SBSTCNT",
+      "subs": "17",
+      "acc": "36.36"
+    },
+    {
+      "problemCode": "CHEFAFD",
+      "problemName": "Chef and Finding Direction",
+      "link": "https://www.codechef.com/problems/CHEFAFD",
+      "subs": "17",
+      "acc": "15.91"
+    },
+    {
+      "problemCode": "BALANPOL",
+      "problemName": "Chef and Balanced Polygons",
+      "link": "https://www.codechef.com/problems/BALANPOL",
+      "subs": "17",
+      "acc": "25"
+    },
+    {
+      "problemCode": "THREECOL",
+      "problemName": "Bear and Three Colours",
+      "link": "https://www.codechef.com/problems/THREECOL",
+      "subs": "17",
+      "acc": "20.48"
+    },
+    {
+      "problemCode": "CHEFPCHF",
+      "problemName": "Chef and Programming Contest by His Friend",
+      "link": "https://www.codechef.com/problems/CHEFPCHF",
+      "subs": "17",
+      "acc": "50.94"
+    },
+    {
+      "problemCode": "L56KTH",
+      "problemName": "Chef and Function",
+      "link": "https://www.codechef.com/problems/L56KTH",
+      "subs": "17",
+      "acc": "3.68"
+    },
+    {
+      "problemCode": "CHEFLAKE",
+      "problemName": "Searching for the Recipe",
+      "link": "https://www.codechef.com/problems/CHEFLAKE",
+      "subs": "17",
+      "acc": "21.82"
+    },
+    {
+      "problemCode": "KPERFMAT",
+      "problemName": "K Perfect Matchings",
+      "link": "https://www.codechef.com/problems/KPERFMAT",
+      "subs": "17",
+      "acc": "25.68"
+    },
+    {
+      "problemCode": "NQNF",
+      "problemName": "No Queries No Fun",
+      "link": "https://www.codechef.com/problems/NQNF",
+      "subs": "17",
+      "acc": "8.86"
+    },
+    {
+      "problemCode": "STTT",
+      "problemName": "Standard Tree Task",
+      "link": "https://www.codechef.com/problems/STTT",
+      "subs": "17",
+      "acc": "27.03"
+    },
+    {
+      "problemCode": "TREF",
+      "problemName": "Tree Flow",
+      "link": "https://www.codechef.com/problems/TREF",
+      "subs": "17",
+      "acc": "22.12"
+    },
+    {
+      "problemCode": "NMN",
+      "problemName": "F - Random Strings",
+      "link": "https://www.codechef.com/problems/NMN",
+      "subs": "17",
+      "acc": "7.46"
+    },
+    {
+      "problemCode": "KTH97",
+      "problemName": "Kth Numbers",
+      "link": "https://www.codechef.com/problems/KTH97",
+      "subs": "17",
+      "acc": "28.93"
+    },
+    {
+      "problemCode": "MINDIST",
+      "problemName": "Minimize the Distance",
+      "link": "https://www.codechef.com/problems/MINDIST",
+      "subs": "17",
+      "acc": "15.08"
+    },
+    {
+      "problemCode": "LNDNCK",
+      "problemName": "Nicks Landing",
+      "link": "https://www.codechef.com/problems/LNDNCK",
+      "subs": "17",
+      "acc": "16.31"
+    },
+    {
+      "problemCode": "POLCON",
+      "problemName": "Polygon Containment",
+      "link": "https://www.codechef.com/problems/POLCON",
+      "subs": "17",
+      "acc": "32.39"
+    },
+    {
+      "problemCode": "ICM2001",
+      "problemName": "Yet Another Mod Mod Mod",
+      "link": "https://www.codechef.com/problems/ICM2001",
+      "subs": "17",
+      "acc": "20.88"
+    },
+    {
+      "problemCode": "CLBIT",
+      "problemName": "Perry learns Binary",
+      "link": "https://www.codechef.com/problems/CLBIT",
+      "subs": "17",
+      "acc": "17.9"
+    },
+    {
+      "problemCode": "RANDKNAP",
+      "problemName": "Random Knapsack",
+      "link": "https://www.codechef.com/problems/RANDKNAP",
+      "subs": "17",
+      "acc": "9.61"
+    },
+    {
+      "problemCode": "SEGCOMPR",
+      "problemName": "Compress all Subsegments",
+      "link": "https://www.codechef.com/problems/SEGCOMPR",
+      "subs": "17",
+      "acc": "21.98"
+    },
+    {
+      "problemCode": "CUTSQRS",
+      "problemName": "Cutting off Squares",
+      "link": "https://www.codechef.com/problems/CUTSQRS",
+      "subs": "18",
+      "acc": "21.21"
+    },
+    {
+      "problemCode": "MENU",
+      "problemName": "Menu",
+      "link": "https://www.codechef.com/problems/MENU",
+      "subs": "18",
+      "acc": "17.12"
+    },
+    {
+      "problemCode": "MMATCH",
+      "problemName": "The Cursed Room",
+      "link": "https://www.codechef.com/problems/MMATCH",
+      "subs": "18",
+      "acc": "32.22"
+    },
+    {
+      "problemCode": "F3",
+      "problemName": "Curry Stained Napkin",
+      "link": "https://www.codechef.com/problems/F3",
+      "subs": "18",
+      "acc": "14.81"
+    },
+    {
+      "problemCode": "ECODE",
+      "problemName": "Exit code",
+      "link": "https://www.codechef.com/problems/ECODE",
+      "subs": "18",
+      "acc": "7.66"
+    },
+    {
+      "problemCode": "GRIDCHEF",
+      "problemName": "Chefs Bad Day",
+      "link": "https://www.codechef.com/problems/GRIDCHEF",
+      "subs": "18",
+      "acc": "27.55"
+    },
+    {
+      "problemCode": "GLASS",
+      "problemName": "Glass Measurement",
+      "link": "https://www.codechef.com/problems/GLASS",
+      "subs": "18",
+      "acc": "24.51"
+    },
+    {
+      "problemCode": "SEEDS",
+      "problemName": "Seeding The Pattern",
+      "link": "https://www.codechef.com/problems/SEEDS",
+      "subs": "18",
+      "acc": "26.03"
+    },
+    {
+      "problemCode": "TERM",
+      "problemName": "Counting Terms",
+      "link": "https://www.codechef.com/problems/TERM",
+      "subs": "18",
+      "acc": "28.4"
+    },
+    {
+      "problemCode": "ENERGY",
+      "problemName": "Dance Floor Energy",
+      "link": "https://www.codechef.com/problems/ENERGY",
+      "subs": "18",
+      "acc": "42.86"
+    },
+    {
+      "problemCode": "PERMDIG",
+      "problemName": "Permute Digits",
+      "link": "https://www.codechef.com/problems/PERMDIG",
+      "subs": "18",
+      "acc": "16.36"
+    },
+    {
+      "problemCode": "CIELBTL",
+      "problemName": "Ciel and Battle Arena",
+      "link": "https://www.codechef.com/problems/CIELBTL",
+      "subs": "18",
+      "acc": "37.5"
+    },
+    {
+      "problemCode": "LUCKYCOM",
+      "problemName": "Little Elephant and CNSes",
+      "link": "https://www.codechef.com/problems/LUCKYCOM",
+      "subs": "18",
+      "acc": "21.65"
+    },
+    {
+      "problemCode": "MAXGAME",
+      "problemName": "Game Count",
+      "link": "https://www.codechef.com/problems/MAXGAME",
+      "subs": "18",
+      "acc": "30.67"
+    },
+    {
+      "problemCode": "ZENCALC",
+      "problemName": "Peaceful Calculator",
+      "link": "https://www.codechef.com/problems/ZENCALC",
+      "subs": "18",
+      "acc": "30.88"
+    },
+    {
+      "problemCode": "GRIDCOL",
+      "problemName": "Chef and The Colored Grid",
+      "link": "https://www.codechef.com/problems/GRIDCOL",
+      "subs": "18",
+      "acc": "9.58"
+    },
+    {
+      "problemCode": "STRDIG",
+      "problemName": "Chef and The String of Digits",
+      "link": "https://www.codechef.com/problems/STRDIG",
+      "subs": "18",
+      "acc": "9.69"
+    },
+    {
+      "problemCode": "AGENTS",
+      "problemName": "Special Agents",
+      "link": "https://www.codechef.com/problems/AGENTS",
+      "subs": "18",
+      "acc": "36.36"
+    },
+    {
+      "problemCode": "ANKMARKS",
+      "problemName": "VS and his marking scheme",
+      "link": "https://www.codechef.com/problems/ANKMARKS",
+      "subs": "18",
+      "acc": "14.48"
+    },
+    {
+      "problemCode": "SEGTREE2",
+      "problemName": "Segment Tree",
+      "link": "https://www.codechef.com/problems/SEGTREE2",
+      "subs": "18",
+      "acc": "29.33"
+    },
+    {
+      "problemCode": "REGIONS",
+      "problemName": "Dividing into Regions",
+      "link": "https://www.codechef.com/problems/REGIONS",
+      "subs": "18",
+      "acc": "30.77"
+    },
+    {
+      "problemCode": "MCKTUR",
+      "problemName": "Mock Turtle",
+      "link": "https://www.codechef.com/problems/MCKTUR",
+      "subs": "18",
+      "acc": "36.07"
+    },
+    {
+      "problemCode": "XRGRD",
+      "problemName": "Xor Grid",
+      "link": "https://www.codechef.com/problems/XRGRD",
+      "subs": "18",
+      "acc": "32.2"
+    },
+    {
+      "problemCode": "SPCLN",
+      "problemName": "Cleaning the Space",
+      "link": "https://www.codechef.com/problems/SPCLN",
+      "subs": "18",
+      "acc": "47.27"
+    },
+    {
+      "problemCode": "ROBAGAIN",
+      "problemName": "Robots Again",
+      "link": "https://www.codechef.com/problems/ROBAGAIN",
+      "subs": "18",
+      "acc": "22.4"
+    },
+    {
+      "problemCode": "BICONT",
+      "problemName": "Edge Addition",
+      "link": "https://www.codechef.com/problems/BICONT",
+      "subs": "18",
+      "acc": "52.63"
+    },
+    {
+      "problemCode": "MDN",
+      "problemName": "Median",
+      "link": "https://www.codechef.com/problems/MDN",
+      "subs": "18",
+      "acc": "21.69"
+    },
+    {
+      "problemCode": "RECOVER",
+      "problemName": "Recover Square",
+      "link": "https://www.codechef.com/problems/RECOVER",
+      "subs": "18",
+      "acc": "27.03"
+    },
+    {
+      "problemCode": "VASTLIFE",
+      "problemName": "Another Game of Life",
+      "link": "https://www.codechef.com/problems/VASTLIFE",
+      "subs": "18",
+      "acc": "25.74"
+    },
+    {
+      "problemCode": "MMC",
+      "problemName": "Mouse Meets Cheese",
+      "link": "https://www.codechef.com/problems/MMC",
+      "subs": "18",
+      "acc": "55.26"
+    },
+    {
+      "problemCode": "FRICAN",
+      "problemName": "Friends and Candies",
+      "link": "https://www.codechef.com/problems/FRICAN",
+      "subs": "18",
+      "acc": "14.96"
+    },
+    {
+      "problemCode": "BEAUAR",
+      "problemName": "Beauty and The Array",
+      "link": "https://www.codechef.com/problems/BEAUAR",
+      "subs": "18",
+      "acc": "28.42"
+    },
+    {
+      "problemCode": "COPAIR",
+      "problemName": "Coloured Pairings",
+      "link": "https://www.codechef.com/problems/COPAIR",
+      "subs": "18",
+      "acc": "8.91"
+    },
+    {
+      "problemCode": "J1",
+      "problemName": "SudokuX",
+      "link": "https://www.codechef.com/problems/J1",
+      "subs": "19",
+      "acc": "13.64"
+    },
+    {
+      "problemCode": "F5",
+      "problemName": "Magic sequence",
+      "link": "https://www.codechef.com/problems/F5",
+      "subs": "19",
+      "acc": "16.18"
+    },
+    {
+      "problemCode": "E2",
+      "problemName": "Lights Off",
+      "link": "https://www.codechef.com/problems/E2",
+      "subs": "19",
+      "acc": "4.36"
+    },
+    {
+      "problemCode": "SUMSLOPE",
+      "problemName": "Summing Slopes",
+      "link": "https://www.codechef.com/problems/SUMSLOPE",
+      "subs": "19",
+      "acc": "4.69"
+    },
+    {
+      "problemCode": "ODDBIN",
+      "problemName": "Odd Binomial Coefficients",
+      "link": "https://www.codechef.com/problems/ODDBIN",
+      "subs": "19",
+      "acc": "20.95"
+    },
+    {
+      "problemCode": "RESTEXP",
+      "problemName": "Restaurant Expansion",
+      "link": "https://www.codechef.com/problems/RESTEXP",
+      "subs": "19",
+      "acc": "25.49"
+    },
+    {
+      "problemCode": "PUZZLES",
+      "problemName": "Newspaper Puzzle",
+      "link": "https://www.codechef.com/problems/PUZZLES",
+      "subs": "19",
+      "acc": "38.78"
+    },
+    {
+      "problemCode": "BLOCKDRO",
+      "problemName": "Block Drop",
+      "link": "https://www.codechef.com/problems/BLOCKDRO",
+      "subs": "19",
+      "acc": "7.97"
+    },
+    {
+      "problemCode": "PDSNUM",
+      "problemName": "PDS Number",
+      "link": "https://www.codechef.com/problems/PDSNUM",
+      "subs": "19",
+      "acc": "16.2"
+    },
+    {
+      "problemCode": "POSTAL",
+      "problemName": "The Postal Service",
+      "link": "https://www.codechef.com/problems/POSTAL",
+      "subs": "19",
+      "acc": "15.27"
+    },
+    {
+      "problemCode": "NONPALIN",
+      "problemName": "First non-Palindrome",
+      "link": "https://www.codechef.com/problems/NONPALIN",
+      "subs": "19",
+      "acc": "13.95"
+    },
+    {
+      "problemCode": "GRAPLANE",
+      "problemName": "Graph on a Plane",
+      "link": "https://www.codechef.com/problems/GRAPLANE",
+      "subs": "19",
+      "acc": "34.43"
+    },
+    {
+      "problemCode": "FLY",
+      "problemName": "Fly-overs",
+      "link": "https://www.codechef.com/problems/FLY",
+      "subs": "19",
+      "acc": "24.05"
+    },
+    {
+      "problemCode": "COTA",
+      "problemName": "Chef of The Ancient",
+      "link": "https://www.codechef.com/problems/COTA",
+      "subs": "19",
+      "acc": "44"
+    },
+    {
+      "problemCode": "GRIDCONN",
+      "problemName": "Yet another substring problem",
+      "link": "https://www.codechef.com/problems/GRIDCONN",
+      "subs": "19",
+      "acc": "20"
+    },
+    {
+      "problemCode": "CHEFDOMA",
+      "problemName": "Chef and Dominating Subarrays",
+      "link": "https://www.codechef.com/problems/CHEFDOMA",
+      "subs": "19",
+      "acc": "5.76"
+    },
+    {
+      "problemCode": "GAMCOUNT",
+      "problemName": "Counting Games",
+      "link": "https://www.codechef.com/problems/GAMCOUNT",
+      "subs": "19",
+      "acc": "27.06"
+    },
+    {
+      "problemCode": "LTM40EF",
+      "problemName": "Chef and Words",
+      "link": "https://www.codechef.com/problems/LTM40EF",
+      "subs": "19",
+      "acc": "7.48"
+    },
+    {
+      "problemCode": "CHNGSEQ",
+      "problemName": "Chang and Beautiful Sequences",
+      "link": "https://www.codechef.com/problems/CHNGSEQ",
+      "subs": "19",
+      "acc": "42.55"
+    },
+    {
+      "problemCode": "ARCTR",
+      "problemName": "Archi and Tree",
+      "link": "https://www.codechef.com/problems/ARCTR",
+      "subs": "19",
+      "acc": "13.38"
+    },
+    {
+      "problemCode": "XORTABLE",
+      "problemName": "Xor Table",
+      "link": "https://www.codechef.com/problems/XORTABLE",
+      "subs": "19",
+      "acc": "22.83"
+    },
+    {
+      "problemCode": "CYCLECOL",
+      "problemName": "CyclesAndColorings",
+      "link": "https://www.codechef.com/problems/CYCLECOL",
+      "subs": "19",
+      "acc": "24.42"
+    },
+    {
+      "problemCode": "MEXRNG",
+      "problemName": "MEX and Ranges",
+      "link": "https://www.codechef.com/problems/MEXRNG",
+      "subs": "19",
+      "acc": "17.18"
+    },
+    {
+      "problemCode": "PROC18E",
+      "problemName": "Good Speech",
+      "link": "https://www.codechef.com/problems/PROC18E",
+      "subs": "19",
+      "acc": "27.27"
+    },
+    {
+      "problemCode": "SNKAPT",
+      "problemName": "Snake and Apple Tree",
+      "link": "https://www.codechef.com/problems/SNKAPT",
+      "subs": "19",
+      "acc": "43.86"
+    },
+    {
+      "problemCode": "GUESSAGE",
+      "problemName": "Guess My Age",
+      "link": "https://www.codechef.com/problems/GUESSAGE",
+      "subs": "19",
+      "acc": "27.4"
+    },
+    {
+      "problemCode": "IDXSUM",
+      "problemName": "Zawad and Index Sum",
+      "link": "https://www.codechef.com/problems/IDXSUM",
+      "subs": "19",
+      "acc": "41.18"
+    },
+    {
+      "problemCode": "SUBMATCH",
+      "problemName": "Substring Matching",
+      "link": "https://www.codechef.com/problems/SUBMATCH",
+      "subs": "19",
+      "acc": "49.5"
+    },
+    {
+      "problemCode": "WGTNKLC",
+      "problemName": "Weighted Necklace",
+      "link": "https://www.codechef.com/problems/WGTNKLC",
+      "subs": "19",
+      "acc": "42.86"
+    },
+    {
+      "problemCode": "MKIT",
+      "problemName": "Make It",
+      "link": "https://www.codechef.com/problems/MKIT",
+      "subs": "19",
+      "acc": "19.92"
+    },
+    {
+      "problemCode": "LCMCONST",
+      "problemName": "LCM Constraints",
+      "link": "https://www.codechef.com/problems/LCMCONST",
+      "subs": "19",
+      "acc": "14.62"
+    },
+    {
+      "problemCode": "INVXOR",
+      "problemName": "Inverse of a Function",
+      "link": "https://www.codechef.com/problems/INVXOR",
+      "subs": "19",
+      "acc": "11.21"
+    },
+    {
+      "problemCode": "CURSQURS",
+      "problemName": "Curious Queries",
+      "link": "https://www.codechef.com/problems/CURSQURS",
+      "subs": "19",
+      "acc": "26.47"
+    },
+    {
+      "problemCode": "WEIRDMUL",
+      "problemName": "Weird Product",
+      "link": "https://www.codechef.com/problems/WEIRDMUL",
+      "subs": "19",
+      "acc": "20.91"
+    },
+    {
+      "problemCode": "MODPARRS",
+      "problemName": "Linear Combination",
+      "link": "https://www.codechef.com/problems/MODPARRS",
+      "subs": "19",
+      "acc": "36.67"
+    },
+    {
+      "problemCode": "N3",
+      "problemName": "K-important Strings",
+      "link": "https://www.codechef.com/problems/N3",
+      "subs": "20",
+      "acc": "26.83"
+    },
+    {
+      "problemCode": "CLOSESTQ",
+      "problemName": "Closest points queries",
+      "link": "https://www.codechef.com/problems/CLOSESTQ",
+      "subs": "20",
+      "acc": "9.88"
+    },
+    {
+      "problemCode": "ANDGRAPH",
+      "problemName": "AND Graph",
+      "link": "https://www.codechef.com/problems/ANDGRAPH",
+      "subs": "20",
+      "acc": "25.93"
+    },
+    {
+      "problemCode": "BCYCLES",
+      "problemName": "BiCycles",
+      "link": "https://www.codechef.com/problems/BCYCLES",
+      "subs": "20",
+      "acc": "38.89"
+    },
+    {
+      "problemCode": "BRKTREE",
+      "problemName": "Breaking the Tree",
+      "link": "https://www.codechef.com/problems/BRKTREE",
+      "subs": "20",
+      "acc": "15.19"
+    },
+    {
+      "problemCode": "ENIG10",
+      "problemName": "Xorangements",
+      "link": "https://www.codechef.com/problems/ENIG10",
+      "subs": "20",
+      "acc": "50"
+    },
+    {
+      "problemCode": "CPCOMP",
+      "problemName": "Coprime Components",
+      "link": "https://www.codechef.com/problems/CPCOMP",
+      "subs": "20",
+      "acc": "7.05"
+    },
+    {
+      "problemCode": "TRANSACT",
+      "problemName": "Inequality Reduction",
+      "link": "https://www.codechef.com/problems/TRANSACT",
+      "subs": "20",
+      "acc": "26.97"
+    },
+    {
+      "problemCode": "CNTIT",
+      "problemName": "Count It",
+      "link": "https://www.codechef.com/problems/CNTIT",
+      "subs": "20",
+      "acc": "56.1"
+    },
+    {
+      "problemCode": "KARRAY",
+      "problemName": "The Gifting Problem",
+      "link": "https://www.codechef.com/problems/KARRAY",
+      "subs": "20",
+      "acc": "24.21"
+    },
+    {
+      "problemCode": "CLUNQUE",
+      "problemName": "Unique Substring",
+      "link": "https://www.codechef.com/problems/CLUNQUE",
+      "subs": "20",
+      "acc": "19.21"
+    },
+    {
+      "problemCode": "EQLGIFTS",
+      "problemName": "Equal Gifts",
+      "link": "https://www.codechef.com/problems/EQLGIFTS",
+      "subs": "20",
+      "acc": "21.62"
+    },
+    {
+      "problemCode": "PHRASES",
+      "problemName": "Relevant Phrases of Annihilation",
+      "link": "https://www.codechef.com/problems/PHRASES",
+      "subs": "21",
+      "acc": "5.04"
+    },
+    {
+      "problemCode": "B1",
+      "problemName": "Spaghetti Monsters",
+      "link": "https://www.codechef.com/problems/B1",
+      "subs": "21",
+      "acc": "15.6"
+    },
+    {
+      "problemCode": "AX",
+      "problemName": "Place the mines!",
+      "link": "https://www.codechef.com/problems/AX",
+      "subs": "21",
+      "acc": "28"
+    },
+    {
+      "problemCode": "G1",
+      "problemName": "A Bowling Game",
+      "link": "https://www.codechef.com/problems/G1",
+      "subs": "21",
+      "acc": "29.63"
+    },
+    {
+      "problemCode": "G2",
+      "problemName": "Smart Frog",
+      "link": "https://www.codechef.com/problems/G2",
+      "subs": "21",
+      "acc": "6.52"
+    },
+    {
+      "problemCode": "H5",
+      "problemName": "Paragraph Formatting",
+      "link": "https://www.codechef.com/problems/H5",
+      "subs": "21",
+      "acc": "16.05"
+    },
+    {
+      "problemCode": "VOTING",
+      "problemName": "Closest Ranking",
+      "link": "https://www.codechef.com/problems/VOTING",
+      "subs": "21",
+      "acc": "46"
+    },
+    {
+      "problemCode": "BALANCED",
+      "problemName": "Balanced Walks",
+      "link": "https://www.codechef.com/problems/BALANCED",
+      "subs": "21",
+      "acc": "38.46"
+    },
+    {
+      "problemCode": "NETWORK",
+      "problemName": "Wireless Network",
+      "link": "https://www.codechef.com/problems/NETWORK",
+      "subs": "21",
+      "acc": "26.83"
+    },
+    {
+      "problemCode": "ARITHPR",
+      "problemName": "Longest Arithmetic Progressions",
+      "link": "https://www.codechef.com/problems/ARITHPR",
+      "subs": "21",
+      "acc": "20.51"
+    },
+    {
+      "problemCode": "FALLDOWN",
+      "problemName": "Remys last tour",
+      "link": "https://www.codechef.com/problems/FALLDOWN",
+      "subs": "21",
+      "acc": "29.89"
+    },
+    {
+      "problemCode": "LUCKFILL",
+      "problemName": "Little Elephant and Filling",
+      "link": "https://www.codechef.com/problems/LUCKFILL",
+      "subs": "21",
+      "acc": "12.37"
+    },
+    {
+      "problemCode": "UNFRIEND",
+      "problemName": "Rebuilding Byteland",
+      "link": "https://www.codechef.com/problems/UNFRIEND",
+      "subs": "21",
+      "acc": "32.43"
+    },
+    {
+      "problemCode": "SUBTREE",
+      "problemName": "Festivals",
+      "link": "https://www.codechef.com/problems/SUBTREE",
+      "subs": "21",
+      "acc": "34.65"
+    },
+    {
+      "problemCode": "TRANSFIG",
+      "problemName": "Transfiguring Trees",
+      "link": "https://www.codechef.com/problems/TRANSFIG",
+      "subs": "21",
+      "acc": "21.5"
+    },
+    {
+      "problemCode": "SEADIV",
+      "problemName": "Sereja and Dividing",
+      "link": "https://www.codechef.com/problems/SEADIV",
+      "subs": "21",
+      "acc": "10.77"
+    },
+    {
+      "problemCode": "DEVHAND",
+      "problemName": "Devu and his three Hands",
+      "link": "https://www.codechef.com/problems/DEVHAND",
+      "subs": "21",
+      "acc": "18.7"
+    },
+    {
+      "problemCode": "VISITALL",
+      "problemName": "How to Operate a Robot",
+      "link": "https://www.codechef.com/problems/VISITALL",
+      "subs": "21",
+      "acc": "27.27"
+    },
+    {
+      "problemCode": "ANCOIMP",
+      "problemName": "Anticommutative implication",
+      "link": "https://www.codechef.com/problems/ANCOIMP",
+      "subs": "21",
+      "acc": "16.45"
+    },
+    {
+      "problemCode": "CHEFVEC",
+      "problemName": "Chef and Vectors",
+      "link": "https://www.codechef.com/problems/CHEFVEC",
+      "subs": "21",
+      "acc": "36.17"
+    },
+    {
+      "problemCode": "TABLECOV",
+      "problemName": "Table Covering",
+      "link": "https://www.codechef.com/problems/TABLECOV",
+      "subs": "21",
+      "acc": "31.88"
+    },
+    {
+      "problemCode": "CHEFLIQD",
+      "problemName": "Chef and Liquid Ingredients",
+      "link": "https://www.codechef.com/problems/CHEFLIQD",
+      "subs": "21",
+      "acc": "32.94"
+    },
+    {
+      "problemCode": "SELECT",
+      "problemName": "Sebi and the black money",
+      "link": "https://www.codechef.com/problems/SELECT",
+      "subs": "21",
+      "acc": "39.68"
+    },
+    {
+      "problemCode": "CODIE",
+      "problemName": "Codie Bird",
+      "link": "https://www.codechef.com/problems/CODIE",
+      "subs": "21",
+      "acc": "59.26"
+    },
+    {
+      "problemCode": "CHEFLMN",
+      "problemName": "Delivery Problems",
+      "link": "https://www.codechef.com/problems/CHEFLMN",
+      "subs": "21",
+      "acc": "33.8"
+    },
+    {
+      "problemCode": "RECIPES",
+      "problemName": "Chef and Recipes",
+      "link": "https://www.codechef.com/problems/RECIPES",
+      "subs": "21",
+      "acc": "23.02"
+    },
+    {
+      "problemCode": "IAI",
+      "problemName": "Intervals and Intersections",
+      "link": "https://www.codechef.com/problems/IAI",
+      "subs": "21",
+      "acc": "12.56"
+    },
+    {
+      "problemCode": "EXUNE",
+      "problemName": "Anay and Polynomial",
+      "link": "https://www.codechef.com/problems/EXUNE",
+      "subs": "21",
+      "acc": "18.03"
+    },
+    {
+      "problemCode": "MORTGAGE",
+      "problemName": "Mortgage",
+      "link": "https://www.codechef.com/problems/MORTGAGE",
+      "subs": "21",
+      "acc": "18.03"
+    },
+    {
+      "problemCode": "PRDRAW",
+      "problemName": "Drawing",
+      "link": "https://www.codechef.com/problems/PRDRAW",
+      "subs": "21",
+      "acc": "30.95"
+    },
+    {
+      "problemCode": "E4",
+      "problemName": "Quadratic Equations",
+      "link": "https://www.codechef.com/problems/E4",
+      "subs": "22",
+      "acc": "14.57"
+    },
+    {
+      "problemCode": "TWOCHEFS",
+      "problemName": "Two Chefs",
+      "link": "https://www.codechef.com/problems/TWOCHEFS",
+      "subs": "22",
+      "acc": "21.55"
+    },
+    {
+      "problemCode": "SOCIAL",
+      "problemName": "Dinner Party Socializing",
+      "link": "https://www.codechef.com/problems/SOCIAL",
+      "subs": "22",
+      "acc": "27.84"
+    },
+    {
+      "problemCode": "NI03",
+      "problemName": "Weapons",
+      "link": "https://www.codechef.com/problems/NI03",
+      "subs": "22",
+      "acc": "44.9"
+    },
+    {
+      "problemCode": "FUNAGP",
+      "problemName": "Fun with AGp",
+      "link": "https://www.codechef.com/problems/FUNAGP",
+      "subs": "22",
+      "acc": "12.5"
+    },
+    {
+      "problemCode": "SEASTONE",
+      "problemName": "Sereja and Stones",
+      "link": "https://www.codechef.com/problems/SEASTONE",
+      "subs": "22",
+      "acc": "15.32"
+    },
+    {
+      "problemCode": "AMDRUNK",
+      "problemName": "Drunk Man in Large City",
+      "link": "https://www.codechef.com/problems/AMDRUNK",
+      "subs": "22",
+      "acc": "30.21"
+    },
+    {
+      "problemCode": "RAWPOWER",
+      "problemName": "K - Raw Power",
+      "link": "https://www.codechef.com/problems/RAWPOWER",
+      "subs": "22",
+      "acc": "21.71"
+    },
+    {
+      "problemCode": "FINDA",
+      "problemName": "Finding the matrix",
+      "link": "https://www.codechef.com/problems/FINDA",
+      "subs": "22",
+      "acc": "27.37"
+    },
+    {
+      "problemCode": "SAFPAR",
+      "problemName": "Safe Partition",
+      "link": "https://www.codechef.com/problems/SAFPAR",
+      "subs": "22",
+      "acc": "10.21"
+    },
+    {
+      "problemCode": "XTGR",
+      "problemName": "X and Two Groups",
+      "link": "https://www.codechef.com/problems/XTGR",
+      "subs": "22",
+      "acc": "6.19"
+    },
+    {
+      "problemCode": "EVILAND",
+      "problemName": "Chef in Evil Land",
+      "link": "https://www.codechef.com/problems/EVILAND",
+      "subs": "22",
+      "acc": "26.85"
+    },
+    {
+      "problemCode": "GRAPHTRE",
+      "problemName": "Families of Chefland",
+      "link": "https://www.codechef.com/problems/GRAPHTRE",
+      "subs": "22",
+      "acc": "37.33"
+    },
+    {
+      "problemCode": "DAND",
+      "problemName": "The Inexplicable Giant Floating Baby Head",
+      "link": "https://www.codechef.com/problems/DAND",
+      "subs": "22",
+      "acc": "11.42"
+    },
+    {
+      "problemCode": "SUBMAXA",
+      "problemName": "Sweetest Candy ",
+      "link": "https://www.codechef.com/problems/SUBMAXA",
+      "subs": "22",
+      "acc": "25.41"
+    },
+    {
+      "problemCode": "COMMCHA",
+      "problemName": "Communication Channel",
+      "link": "https://www.codechef.com/problems/COMMCHA",
+      "subs": "22",
+      "acc": "30.34"
+    },
+    {
+      "problemCode": "D3",
+      "problemName": "The battlefield",
+      "link": "https://www.codechef.com/problems/D3",
+      "subs": "23",
+      "acc": "59.09"
+    },
+    {
+      "problemCode": "PAINTING",
+      "problemName": "Crease Painting",
+      "link": "https://www.codechef.com/problems/PAINTING",
+      "subs": "23",
+      "acc": "28.43"
+    },
+    {
+      "problemCode": "TANDC",
+      "problemName": "Tracy and Charlie",
+      "link": "https://www.codechef.com/problems/TANDC",
+      "subs": "23",
+      "acc": "22.3"
+    },
+    {
+      "problemCode": "SBSWAP",
+      "problemName": "Subtree swapping",
+      "link": "https://www.codechef.com/problems/SBSWAP",
+      "subs": "23",
+      "acc": "19.58"
+    },
+    {
+      "problemCode": "PAINTREE",
+      "problemName": "Painting Tree",
+      "link": "https://www.codechef.com/problems/PAINTREE",
+      "subs": "23",
+      "acc": "41.43"
+    },
+    {
+      "problemCode": "POLITRI",
+      "problemName": "Points, Lines, Triangles and Graphs",
+      "link": "https://www.codechef.com/problems/POLITRI",
+      "subs": "23",
+      "acc": "22.73"
+    },
+    {
+      "problemCode": "MAXTAX",
+      "problemName": "Maximize the Tax",
+      "link": "https://www.codechef.com/problems/MAXTAX",
+      "subs": "23",
+      "acc": "12.56"
+    },
+    {
+      "problemCode": "TREASURE",
+      "problemName": "Treasure Hunt",
+      "link": "https://www.codechef.com/problems/TREASURE",
+      "subs": "23",
+      "acc": "36.89"
+    },
+    {
+      "problemCode": "CHGORAM2",
+      "problemName": "Chef and Gordon Ramsay 2",
+      "link": "https://www.codechef.com/problems/CHGORAM2",
+      "subs": "23",
+      "acc": "21.66"
+    },
+    {
+      "problemCode": "BOMBING",
+      "problemName": "Bombing",
+      "link": "https://www.codechef.com/problems/BOMBING",
+      "subs": "24",
+      "acc": "9.52"
+    },
+    {
+      "problemCode": "GROUPING",
+      "problemName": "Grouping Chefs",
+      "link": "https://www.codechef.com/problems/GROUPING",
+      "subs": "24",
+      "acc": "30.51"
+    },
+    {
+      "problemCode": "LUCKY4",
+      "problemName": "Lucky Array",
+      "link": "https://www.codechef.com/problems/LUCKY4",
+      "subs": "24",
+      "acc": "34.18"
+    },
+    {
+      "problemCode": "DIREL",
+      "problemName": "Distant Relatives",
+      "link": "https://www.codechef.com/problems/DIREL",
+      "subs": "24",
+      "acc": "10.46"
+    },
+    {
+      "problemCode": "TREERGB",
+      "problemName": "Paint the Tree",
+      "link": "https://www.codechef.com/problems/TREERGB",
+      "subs": "24",
+      "acc": "50.85"
+    },
+    {
+      "problemCode": "HBIRD",
+      "problemName": "Chef And Hungry Birds",
+      "link": "https://www.codechef.com/problems/HBIRD",
+      "subs": "24",
+      "acc": "11.18"
+    },
+    {
+      "problemCode": "KOL1508",
+      "problemName": "Antichains",
+      "link": "https://www.codechef.com/problems/KOL1508",
+      "subs": "24",
+      "acc": "19.59"
+    },
+    {
+      "problemCode": "CHN02",
+      "problemName": "Animesh decides to settle down",
+      "link": "https://www.codechef.com/problems/CHN02",
+      "subs": "24",
+      "acc": "38.89"
+    },
+    {
+      "problemCode": "COLORING",
+      "problemName": "Tree Coloring",
+      "link": "https://www.codechef.com/problems/COLORING",
+      "subs": "24",
+      "acc": "17.5"
+    },
+    {
+      "problemCode": "ZUBPASSR",
+      "problemName": "E - Password Riddle",
+      "link": "https://www.codechef.com/problems/ZUBPASSR",
+      "subs": "24",
+      "acc": "19.78"
+    },
+    {
+      "problemCode": "NPORP",
+      "problemName": "Solve what you want",
+      "link": "https://www.codechef.com/problems/NPORP",
+      "subs": "24",
+      "acc": "30.34"
+    },
+    {
+      "problemCode": "SAVJEW",
+      "problemName": "Save Jewels",
+      "link": "https://www.codechef.com/problems/SAVJEW",
+      "subs": "24",
+      "acc": "22.48"
+    },
+    {
+      "problemCode": "BINPALIN",
+      "problemName": "Binary Palindrome",
+      "link": "https://www.codechef.com/problems/BINPALIN",
+      "subs": "24",
+      "acc": "23.62"
+    },
+    {
+      "problemCode": "CHEFPRTY",
+      "problemName": "Chefina and Dishes",
+      "link": "https://www.codechef.com/problems/CHEFPRTY",
+      "subs": "24",
+      "acc": "35.29"
+    },
+    {
+      "problemCode": "B3",
+      "problemName": "Battleship V",
+      "link": "https://www.codechef.com/problems/B3",
+      "subs": "25",
+      "acc": "10.34"
+    },
+    {
+      "problemCode": "C3",
+      "problemName": "Prime words",
+      "link": "https://www.codechef.com/problems/C3",
+      "subs": "25",
+      "acc": "13.02"
+    },
+    {
+      "problemCode": "SEABUB",
+      "problemName": "Sereja and Bubble Sort",
+      "link": "https://www.codechef.com/problems/SEABUB",
+      "subs": "25",
+      "acc": "26.27"
+    },
+    {
+      "problemCode": "ANUBTT",
+      "problemName": "Build the Tree",
+      "link": "https://www.codechef.com/problems/ANUBTT",
+      "subs": "25",
+      "acc": "25.99"
+    },
+    {
+      "problemCode": "SEEDLING",
+      "problemName": "Buying Seedlings",
+      "link": "https://www.codechef.com/problems/SEEDLING",
+      "subs": "25",
+      "acc": "8.76"
+    },
+    {
+      "problemCode": "MXSM",
+      "problemName": "Chef and Maximum Sum Matrices ",
+      "link": "https://www.codechef.com/problems/MXSM",
+      "subs": "25",
+      "acc": "13.54"
+    },
+    {
+      "problemCode": "KOL1507",
+      "problemName": "The Christmas Cookies",
+      "link": "https://www.codechef.com/problems/KOL1507",
+      "subs": "25",
+      "acc": "19.09"
+    },
+    {
+      "problemCode": "AHWORK",
+      "problemName": "Akhil And Pending Homework",
+      "link": "https://www.codechef.com/problems/AHWORK",
+      "subs": "25",
+      "acc": "18.5"
+    },
+    {
+      "problemCode": "QUEHEA",
+      "problemName": "Queen of Hearts",
+      "link": "https://www.codechef.com/problems/QUEHEA",
+      "subs": "25",
+      "acc": "23.85"
+    },
+    {
+      "problemCode": "TELEPORT",
+      "problemName": "Teleports",
+      "link": "https://www.codechef.com/problems/TELEPORT",
+      "subs": "25",
+      "acc": "15.17"
+    },
+    {
+      "problemCode": "BUILDIT",
+      "problemName": "Expected Buildings",
+      "link": "https://www.codechef.com/problems/BUILDIT",
+      "subs": "25",
+      "acc": "14.84"
+    },
+    {
+      "problemCode": "VARMIN",
+      "problemName": "Minimum Variance",
+      "link": "https://www.codechef.com/problems/VARMIN",
+      "subs": "25",
+      "acc": "65.98"
+    },
+    {
+      "problemCode": "EXTREME",
+      "problemName": "I Hate Symbo-LIS-m",
+      "link": "https://www.codechef.com/problems/EXTREME",
+      "subs": "25",
+      "acc": "30.53"
+    },
+    {
+      "problemCode": "INVERACT",
+      "problemName": "An Inveractive Problem",
+      "link": "https://www.codechef.com/problems/INVERACT",
+      "subs": "25",
+      "acc": "11.95"
+    },
+    {
+      "problemCode": "STADIUM",
+      "problemName": "The Siruseri Sports Stadium",
+      "link": "https://www.codechef.com/problems/STADIUM",
+      "subs": "26",
+      "acc": "1.64"
+    },
+    {
+      "problemCode": "CANDY",
+      "problemName": "The Perfect Chocolate Candy",
+      "link": "https://www.codechef.com/problems/CANDY",
+      "subs": "26",
+      "acc": "12.98"
+    },
+    {
+      "problemCode": "PALIPALI",
+      "problemName": "Palindrome Palindrome",
+      "link": "https://www.codechef.com/problems/PALIPALI",
+      "subs": "26",
+      "acc": "13.85"
+    },
+    {
+      "problemCode": "DECORATE",
+      "problemName": "Lucy and the Flowers",
+      "link": "https://www.codechef.com/problems/DECORATE",
+      "subs": "26",
+      "acc": "22.95"
+    },
+    {
+      "problemCode": "DEVSHOW",
+      "problemName": "Devu and survival task of a reality show",
+      "link": "https://www.codechef.com/problems/DEVSHOW",
+      "subs": "26",
+      "acc": "15.2"
+    },
+    {
+      "problemCode": "POWSUMS",
+      "problemName": "Power Sums",
+      "link": "https://www.codechef.com/problems/POWSUMS",
+      "subs": "26",
+      "acc": "25.16"
+    },
+    {
+      "problemCode": "AMRACES",
+      "problemName": "Longest Races",
+      "link": "https://www.codechef.com/problems/AMRACES",
+      "subs": "26",
+      "acc": "23.35"
+    },
+    {
+      "problemCode": "COINPART",
+      "problemName": "Coin Partition",
+      "link": "https://www.codechef.com/problems/COINPART",
+      "subs": "26",
+      "acc": "19.53"
+    },
+    {
+      "problemCode": "BINARY",
+      "problemName": "Binary Movements",
+      "link": "https://www.codechef.com/problems/BINARY",
+      "subs": "26",
+      "acc": "7.38"
+    },
+    {
+      "problemCode": "MNMXAR",
+      "problemName": "Minimum and Maximum",
+      "link": "https://www.codechef.com/problems/MNMXAR",
+      "subs": "26",
+      "acc": "25"
+    },
+    {
+      "problemCode": "MNWLK",
+      "problemName": "Moonwalk",
+      "link": "https://www.codechef.com/problems/MNWLK",
+      "subs": "26",
+      "acc": "18.06"
+    },
+    {
+      "problemCode": "MMNN01",
+      "problemName": "Expected Number of Customers ",
+      "link": "https://www.codechef.com/problems/MMNN01",
+      "subs": "26",
+      "acc": "79.1"
+    },
+    {
+      "problemCode": "PAINTERP",
+      "problemName": "Painter Problem",
+      "link": "https://www.codechef.com/problems/PAINTERP",
+      "subs": "26",
+      "acc": "16.3"
+    },
+    {
+      "problemCode": "NSTROT",
+      "problemName": "Nested Rotation",
+      "link": "https://www.codechef.com/problems/NSTROT",
+      "subs": "26",
+      "acc": "10.81"
+    },
+    {
+      "problemCode": "LCASQRT",
+      "problemName": "Square Root of LCA Convolution",
+      "link": "https://www.codechef.com/problems/LCASQRT",
+      "subs": "26",
+      "acc": "32.65"
+    },
+    {
+      "problemCode": "COOKOFF",
+      "problemName": "Choosing Cook Off Problems",
+      "link": "https://www.codechef.com/problems/COOKOFF",
+      "subs": "27",
+      "acc": "17.86"
+    },
+    {
+      "problemCode": "CAREFUL",
+      "problemName": "Careful Calculation",
+      "link": "https://www.codechef.com/problems/CAREFUL",
+      "subs": "27",
+      "acc": "36.21"
+    },
+    {
+      "problemCode": "OLYMPIC",
+      "problemName": "Gifts at Olympics",
+      "link": "https://www.codechef.com/problems/OLYMPIC",
+      "subs": "27",
+      "acc": "10.6"
+    },
+    {
+      "problemCode": "CIRCLE",
+      "problemName": "Minion Circle",
+      "link": "https://www.codechef.com/problems/CIRCLE",
+      "subs": "27",
+      "acc": "16.67"
+    },
+    {
+      "problemCode": "DEFOREST",
+      "problemName": "Chef and Deforestation",
+      "link": "https://www.codechef.com/problems/DEFOREST",
+      "subs": "27",
+      "acc": "17.33"
+    },
+    {
+      "problemCode": "COUNTIT",
+      "problemName": "Count Arrays",
+      "link": "https://www.codechef.com/problems/COUNTIT",
+      "subs": "27",
+      "acc": "39.6"
+    },
+    {
+      "problemCode": "PLIND",
+      "problemName": "Almost Palindromic",
+      "link": "https://www.codechef.com/problems/PLIND",
+      "subs": "27",
+      "acc": "41.56"
+    },
+    {
+      "problemCode": "K3",
+      "problemName": "Maze of Digits",
+      "link": "https://www.codechef.com/problems/K3",
+      "subs": "28",
+      "acc": "48.6"
+    },
+    {
+      "problemCode": "YALOP",
+      "problemName": "Trial of Doom",
+      "link": "https://www.codechef.com/problems/YALOP",
+      "subs": "28",
+      "acc": "37.5"
+    },
+    {
+      "problemCode": "TARPRACT",
+      "problemName": "Target Practice",
+      "link": "https://www.codechef.com/problems/TARPRACT",
+      "subs": "28",
+      "acc": "17.1"
+    },
+    {
+      "problemCode": "LUCKYSWP",
+      "problemName": "Little Elephant and Swapping",
+      "link": "https://www.codechef.com/problems/LUCKYSWP",
+      "subs": "28",
+      "acc": "34.78"
+    },
+    {
+      "problemCode": "WSCAGAIN",
+      "problemName": "Deja Vu",
+      "link": "https://www.codechef.com/problems/WSCAGAIN",
+      "subs": "28",
+      "acc": "29.2"
+    },
+    {
+      "problemCode": "ANKLEX",
+      "problemName": "Lex Next",
+      "link": "https://www.codechef.com/problems/ANKLEX",
+      "subs": "28",
+      "acc": "16"
+    },
+    {
+      "problemCode": "MAXGRID",
+      "problemName": "Maximum Grid",
+      "link": "https://www.codechef.com/problems/MAXGRID",
+      "subs": "28",
+      "acc": "15.76"
+    },
+    {
+      "problemCode": "RNDGRID",
+      "problemName": "Bear and Random Grid",
+      "link": "https://www.codechef.com/problems/RNDGRID",
+      "subs": "28",
+      "acc": "24.43"
+    },
+    {
+      "problemCode": "FOURPTS",
+      "problemName": "Four Points",
+      "link": "https://www.codechef.com/problems/FOURPTS",
+      "subs": "28",
+      "acc": "16.89"
+    },
+    {
+      "problemCode": "NONOVSEG",
+      "problemName": "Non Overlapping Segments",
+      "link": "https://www.codechef.com/problems/NONOVSEG",
+      "subs": "28",
+      "acc": "23.56"
+    },
+    {
+      "problemCode": "ALFRED",
+      "problemName": "Almost Friends",
+      "link": "https://www.codechef.com/problems/ALFRED",
+      "subs": "28",
+      "acc": "50.72"
+    },
+    {
+      "problemCode": "QRYLAND",
+      "problemName": "Ivan Pesic and His World Tour",
+      "link": "https://www.codechef.com/problems/QRYLAND",
+      "subs": "28",
+      "acc": "27.78"
+    },
+    {
+      "problemCode": "COWSHEDS",
+      "problemName": "Kuroni and the Cowsheds",
+      "link": "https://www.codechef.com/problems/COWSHEDS",
+      "subs": "28",
+      "acc": "9.47"
+    },
+    {
+      "problemCode": "BUILDING",
+      "problemName": "Head office building",
+      "link": "https://www.codechef.com/problems/BUILDING",
+      "subs": "29",
+      "acc": "23.45"
+    },
+    {
+      "problemCode": "NEWREST",
+      "problemName": "New Restaurant",
+      "link": "https://www.codechef.com/problems/NEWREST",
+      "subs": "29",
+      "acc": "28.86"
+    },
+    {
+      "problemCode": "TCP",
+      "problemName": "Travelling Chef Problem",
+      "link": "https://www.codechef.com/problems/TCP",
+      "subs": "29",
+      "acc": "14.18"
+    },
+    {
+      "problemCode": "HAIRCUT",
+      "problemName": "Bear and Haircut",
+      "link": "https://www.codechef.com/problems/HAIRCUT",
+      "subs": "29",
+      "acc": "17.86"
+    },
+    {
+      "problemCode": "CHEFAT",
+      "problemName": "Chef at the Food Fair",
+      "link": "https://www.codechef.com/problems/CHEFAT",
+      "subs": "29",
+      "acc": "53.69"
+    },
+    {
+      "problemCode": "F2NDMAX",
+      "problemName": "Finding Second Maximum",
+      "link": "https://www.codechef.com/problems/F2NDMAX",
+      "subs": "29",
+      "acc": "26.92"
+    },
+    {
+      "problemCode": "TREDEG",
+      "problemName": "Trees and Degrees",
+      "link": "https://www.codechef.com/problems/TREDEG",
+      "subs": "29",
+      "acc": "34.23"
+    },
+    {
+      "problemCode": "XM",
+      "problemName": "XOR Magic",
+      "link": "https://www.codechef.com/problems/XM",
+      "subs": "29",
+      "acc": "12.06"
+    },
+    {
+      "problemCode": "MINMAXIN",
+      "problemName": "Minimum and Maximum",
+      "link": "https://www.codechef.com/problems/MINMAXIN",
+      "subs": "29",
+      "acc": "9.26"
+    },
+    {
+      "problemCode": "NRWP",
+      "problemName": "Not a Real World Problem",
+      "link": "https://www.codechef.com/problems/NRWP",
+      "subs": "29",
+      "acc": "27.63"
+    },
+    {
+      "problemCode": "CONVAIR",
+      "problemName": "Convenient Airports",
+      "link": "https://www.codechef.com/problems/CONVAIR",
+      "subs": "29",
+      "acc": "14.29"
+    },
+    {
+      "problemCode": "TR2",
+      "problemName": "Robot Game",
+      "link": "https://www.codechef.com/problems/TR2",
+      "subs": "30",
+      "acc": "33.54"
+    },
+    {
+      "problemCode": "PHOTOS",
+      "problemName": "The Traveling Photographer",
+      "link": "https://www.codechef.com/problems/PHOTOS",
+      "subs": "30",
+      "acc": "35.14"
+    },
+    {
+      "problemCode": "CHESSGM",
+      "problemName": "Chess Pushing Game",
+      "link": "https://www.codechef.com/problems/CHESSGM",
+      "subs": "30",
+      "acc": "42.22"
+    },
+    {
+      "problemCode": "TEAMSIZE",
+      "problemName": "Team Formation",
+      "link": "https://www.codechef.com/problems/TEAMSIZE",
+      "subs": "30",
+      "acc": "30.25"
+    },
+    {
+      "problemCode": "GRTRIP",
+      "problemName": "Greedy Trip",
+      "link": "https://www.codechef.com/problems/GRTRIP",
+      "subs": "30",
+      "acc": "13.24"
+    },
+    {
+      "problemCode": "STETSKLX",
+      "problemName": "Chef and Path",
+      "link": "https://www.codechef.com/problems/STETSKLX",
+      "subs": "30",
+      "acc": "7.04"
+    },
+    {
+      "problemCode": "CHEFNUM",
+      "problemName": "Chef and Amazingness of Numbers",
+      "link": "https://www.codechef.com/problems/CHEFNUM",
+      "subs": "30",
+      "acc": "19.9"
+    },
+    {
+      "problemCode": "LVGFT",
+      "problemName": "Lovers Gift",
+      "link": "https://www.codechef.com/problems/LVGFT",
+      "subs": "30",
+      "acc": "22.96"
+    },
+    {
+      "problemCode": "ABX03",
+      "problemName": "Four Friends",
+      "link": "https://www.codechef.com/problems/ABX03",
+      "subs": "30",
+      "acc": "10.12"
+    },
+    {
+      "problemCode": "PLANT",
+      "problemName": "Team Trees",
+      "link": "https://www.codechef.com/problems/PLANT",
+      "subs": "30",
+      "acc": "27.93"
+    },
+    {
+      "problemCode": "CHEFHALF",
+      "problemName": "Beautiful Subsequence",
+      "link": "https://www.codechef.com/problems/CHEFHALF",
+      "subs": "30",
+      "acc": "22.16"
+    },
+    {
+      "problemCode": "INVSMOD2",
+      "problemName": "Inversions",
+      "link": "https://www.codechef.com/problems/INVSMOD2",
+      "subs": "30",
+      "acc": "42.5"
+    },
+    {
+      "problemCode": "TILESQRS",
+      "problemName": "Guess the Tiling",
+      "link": "https://www.codechef.com/problems/TILESQRS",
+      "subs": "30",
+      "acc": "43.21"
+    },
+    {
+      "problemCode": "ORAND",
+      "problemName": "And-Or Game",
+      "link": "https://www.codechef.com/problems/ORAND",
+      "subs": "30",
+      "acc": "16.77"
+    },
+    {
+      "problemCode": "CHEFWD",
+      "problemName": "Chef World",
+      "link": "https://www.codechef.com/problems/CHEFWD",
+      "subs": "31",
+      "acc": "18.33"
+    },
+    {
+      "problemCode": "DIVPRO",
+      "problemName": "Dividing Products",
+      "link": "https://www.codechef.com/problems/DIVPRO",
+      "subs": "31",
+      "acc": "28.89"
+    },
+    {
+      "problemCode": "CNR",
+      "problemName": "Combinatorial Numbers",
+      "link": "https://www.codechef.com/problems/CNR",
+      "subs": "31",
+      "acc": "13.83"
+    },
+    {
+      "problemCode": "DEVVOTE",
+      "problemName": "Devus and their voting system",
+      "link": "https://www.codechef.com/problems/DEVVOTE",
+      "subs": "31",
+      "acc": "82.61"
+    },
+    {
+      "problemCode": "LOTERY",
+      "problemName": "LCM equation",
+      "link": "https://www.codechef.com/problems/LOTERY",
+      "subs": "31",
+      "acc": "14.84"
+    },
+    {
+      "problemCode": "LISLDS",
+      "problemName": "LIS and LDS",
+      "link": "https://www.codechef.com/problems/LISLDS",
+      "subs": "31",
+      "acc": "30.63"
+    },
+    {
+      "problemCode": "SWINDOW",
+      "problemName": "Sherlock and Smallest Window",
+      "link": "https://www.codechef.com/problems/SWINDOW",
+      "subs": "31",
+      "acc": "23.67"
+    },
+    {
+      "problemCode": "RESTPERM",
+      "problemName": "Restore the Permutation",
+      "link": "https://www.codechef.com/problems/RESTPERM",
+      "subs": "31",
+      "acc": "12.87"
+    },
+    {
+      "problemCode": "EBAIT",
+      "problemName": "Election Bait",
+      "link": "https://www.codechef.com/problems/EBAIT",
+      "subs": "31",
+      "acc": "43.71"
+    },
+    {
+      "problemCode": "KPRB",
+      "problemName": "K-Prob",
+      "link": "https://www.codechef.com/problems/KPRB",
+      "subs": "31",
+      "acc": "48.96"
+    },
+    {
+      "problemCode": "BINLAND",
+      "problemName": "Binary Land",
+      "link": "https://www.codechef.com/problems/BINLAND",
+      "subs": "31",
+      "acc": "10.97"
+    },
+    {
+      "problemCode": "BLKJK",
+      "problemName": "Blackjack",
+      "link": "https://www.codechef.com/problems/BLKJK",
+      "subs": "31",
+      "acc": "17.92"
+    },
+    {
+      "problemCode": "FACTSUM",
+      "problemName": "Super Factor Sum",
+      "link": "https://www.codechef.com/problems/FACTSUM",
+      "subs": "32",
+      "acc": "8.03"
+    },
+    {
+      "problemCode": "CIELQUIZ",
+      "problemName": "Ciel and Quiz Game",
+      "link": "https://www.codechef.com/problems/CIELQUIZ",
+      "subs": "32",
+      "acc": "20.44"
+    },
+    {
+      "problemCode": "MKSTR",
+      "problemName": "Make a String",
+      "link": "https://www.codechef.com/problems/MKSTR",
+      "subs": "32",
+      "acc": "21.76"
+    },
+    {
+      "problemCode": "TREEWALK",
+      "problemName": "Walk on Tree",
+      "link": "https://www.codechef.com/problems/TREEWALK",
+      "subs": "32",
+      "acc": "29.17"
+    },
+    {
+      "problemCode": "R2D2",
+      "problemName": "The Last Droid",
+      "link": "https://www.codechef.com/problems/R2D2",
+      "subs": "32",
+      "acc": "23.26"
+    },
+    {
+      "problemCode": "BOFS",
+      "problemName": "Beauty of Segments",
+      "link": "https://www.codechef.com/problems/BOFS",
+      "subs": "32",
+      "acc": "32.74"
+    },
+    {
+      "problemCode": "POFP",
+      "problemName": "Pairs of Pairs",
+      "link": "https://www.codechef.com/problems/POFP",
+      "subs": "32",
+      "acc": "63.01"
+    },
+    {
+      "problemCode": "BRBAL",
+      "problemName": "Balancing Game",
+      "link": "https://www.codechef.com/problems/BRBAL",
+      "subs": "32",
+      "acc": "26.34"
+    },
+    {
+      "problemCode": "PARPOLY",
+      "problemName": "Polynomial Partition Function",
+      "link": "https://www.codechef.com/problems/PARPOLY",
+      "subs": "33",
+      "acc": "26.82"
+    },
+    {
+      "problemCode": "COLCHAIN",
+      "problemName": "Colorful Chain",
+      "link": "https://www.codechef.com/problems/COLCHAIN",
+      "subs": "33",
+      "acc": "40"
+    },
+    {
+      "problemCode": "LEBINARY",
+      "problemName": "Asmany Number Verification",
+      "link": "https://www.codechef.com/problems/LEBINARY",
+      "subs": "33",
+      "acc": "30.15"
+    },
+    {
+      "problemCode": "CYLINDER",
+      "problemName": "Cylinder",
+      "link": "https://www.codechef.com/problems/CYLINDER",
+      "subs": "33",
+      "acc": "36.36"
+    },
+    {
+      "problemCode": "COINCHNG",
+      "problemName": "Paying optimally",
+      "link": "https://www.codechef.com/problems/COINCHNG",
+      "subs": "33",
+      "acc": "15.5"
+    },
+    {
+      "problemCode": "CHPLNTS",
+      "problemName": "Chef And Plants",
+      "link": "https://www.codechef.com/problems/CHPLNTS",
+      "subs": "33",
+      "acc": "13.16"
+    },
+    {
+      "problemCode": "TREEPROD",
+      "problemName": "Product on Tree",
+      "link": "https://www.codechef.com/problems/TREEPROD",
+      "subs": "33",
+      "acc": "16.74"
+    },
+    {
+      "problemCode": "WEAPONS",
+      "problemName": "Fusing Weapons ",
+      "link": "https://www.codechef.com/problems/WEAPONS",
+      "subs": "33",
+      "acc": "19.38"
+    },
+    {
+      "problemCode": "KOL16L",
+      "problemName": "Optimal BST Revisited",
+      "link": "https://www.codechef.com/problems/KOL16L",
+      "subs": "33",
+      "acc": "41.18"
+    },
+    {
+      "problemCode": "CK87MEAD",
+      "problemName": "Chef and Math Test",
+      "link": "https://www.codechef.com/problems/CK87MEAD",
+      "subs": "33",
+      "acc": "37.62"
+    },
+    {
+      "problemCode": "EDGEST",
+      "problemName": "Edges in Spanning Trees",
+      "link": "https://www.codechef.com/problems/EDGEST",
+      "subs": "33",
+      "acc": "25.58"
+    },
+    {
+      "problemCode": "LONCYC",
+      "problemName": "Lonely Cycles",
+      "link": "https://www.codechef.com/problems/LONCYC",
+      "subs": "33",
+      "acc": "21.13"
+    },
+    {
+      "problemCode": "YASPP",
+      "problemName": "Yet another shortest path problem",
+      "link": "https://www.codechef.com/problems/YASPP",
+      "subs": "33",
+      "acc": "22.99"
+    },
+    {
+      "problemCode": "MATPER",
+      "problemName": "Matchable Permutations",
+      "link": "https://www.codechef.com/problems/MATPER",
+      "subs": "33",
+      "acc": "15.83"
+    },
+    {
+      "problemCode": "FEWDIFF",
+      "problemName": "Few Different Elements",
+      "link": "https://www.codechef.com/problems/FEWDIFF",
+      "subs": "33",
+      "acc": "20.44"
+    },
+    {
+      "problemCode": "TREEANC",
+      "problemName": "Common Ancestors",
+      "link": "https://www.codechef.com/problems/TREEANC",
+      "subs": "33",
+      "acc": "47.62"
+    },
+    {
+      "problemCode": "TFOSS",
+      "problemName": "Fossil in the Ice",
+      "link": "https://www.codechef.com/problems/TFOSS",
+      "subs": "34",
+      "acc": "12.26"
+    },
+    {
+      "problemCode": "C2",
+      "problemName": "The powerful sum",
+      "link": "https://www.codechef.com/problems/C2",
+      "subs": "34",
+      "acc": "5.69"
+    },
+    {
+      "problemCode": "SNCK05",
+      "problemName": "SUM12",
+      "link": "https://www.codechef.com/problems/SNCK05",
+      "subs": "34",
+      "acc": "25.85"
+    },
+    {
+      "problemCode": "KUNIQUE",
+      "problemName": "K-Unique Sequence",
+      "link": "https://www.codechef.com/problems/KUNIQUE",
+      "subs": "34",
+      "acc": "19.63"
+    },
+    {
+      "problemCode": "PARALLEL",
+      "problemName": "Parallel Computing",
+      "link": "https://www.codechef.com/problems/PARALLEL",
+      "subs": "34",
+      "acc": "41.44"
+    },
+    {
+      "problemCode": "TRAINING",
+      "problemName": "Selection for Training Camps",
+      "link": "https://www.codechef.com/problems/TRAINING",
+      "subs": "34",
+      "acc": "20.29"
+    },
+    {
+      "problemCode": "TAACUTE",
+      "problemName": "Counting The Acute Triangles",
+      "link": "https://www.codechef.com/problems/TAACUTE",
+      "subs": "34",
+      "acc": "20.81"
+    },
+    {
+      "problemCode": "UNPAIR",
+      "problemName": "No Unpaired Chefs",
+      "link": "https://www.codechef.com/problems/UNPAIR",
+      "subs": "34",
+      "acc": "31.07"
+    },
+    {
+      "problemCode": "FAIRPAIR",
+      "problemName": "Fair Pairing",
+      "link": "https://www.codechef.com/problems/FAIRPAIR",
+      "subs": "34",
+      "acc": "31.58"
+    },
+    {
+      "problemCode": "PREFIXOR",
+      "problemName": "Prefix XOR",
+      "link": "https://www.codechef.com/problems/PREFIXOR",
+      "subs": "34",
+      "acc": "19.37"
+    },
+    {
+      "problemCode": "SUMCUBE",
+      "problemName": "Sum of Cubes",
+      "link": "https://www.codechef.com/problems/SUMCUBE",
+      "subs": "34",
+      "acc": "28.89"
+    },
+    {
+      "problemCode": "XYHUMOQ",
+      "problemName": "A humongous Query",
+      "link": "https://www.codechef.com/problems/XYHUMOQ",
+      "subs": "34",
+      "acc": "21.64"
+    },
+    {
+      "problemCode": "AMLEX",
+      "problemName": "Poetic word",
+      "link": "https://www.codechef.com/problems/AMLEX",
+      "subs": "34",
+      "acc": "23.86"
+    },
+    {
+      "problemCode": "ADIMAT",
+      "problemName": "Adi and the Matrix",
+      "link": "https://www.codechef.com/problems/ADIMAT",
+      "subs": "34",
+      "acc": "68.97"
+    },
+    {
+      "problemCode": "CSUBSQ",
+      "problemName": "Count Subsequences",
+      "link": "https://www.codechef.com/problems/CSUBSQ",
+      "subs": "34",
+      "acc": "35.51"
+    },
+    {
+      "problemCode": "MOBCNT",
+      "problemName": "Counting Mobiles",
+      "link": "https://www.codechef.com/problems/MOBCNT",
+      "subs": "34",
+      "acc": "25.3"
+    },
+    {
+      "problemCode": "CHEFGIFT",
+      "problemName": "Birthday Gift",
+      "link": "https://www.codechef.com/problems/CHEFGIFT",
+      "subs": "35",
+      "acc": "28.18"
+    },
+    {
+      "problemCode": "STREGGS",
+      "problemName": "Ciel and Eggs",
+      "link": "https://www.codechef.com/problems/STREGGS",
+      "subs": "35",
+      "acc": "23.83"
+    },
+    {
+      "problemCode": "LUCKY9",
+      "problemName": "Lucky Balance",
+      "link": "https://www.codechef.com/problems/LUCKY9",
+      "subs": "35",
+      "acc": "41.9"
+    },
+    {
+      "problemCode": "CHEFHCK2",
+      "problemName": "End Of The World 2",
+      "link": "https://www.codechef.com/problems/CHEFHCK2",
+      "subs": "35",
+      "acc": "19.86"
+    },
+    {
+      "problemCode": "LFEB14A",
+      "problemName": "Sereja and Two Arrays",
+      "link": "https://www.codechef.com/problems/LFEB14A",
+      "subs": "35",
+      "acc": "20.48"
+    },
+    {
+      "problemCode": "IDOLS",
+      "problemName": "Idols and Fans",
+      "link": "https://www.codechef.com/problems/IDOLS",
+      "subs": "35",
+      "acc": "17.14"
+    },
+    {
+      "problemCode": "DINING",
+      "problemName": "Dining",
+      "link": "https://www.codechef.com/problems/DINING",
+      "subs": "35",
+      "acc": "17.58"
+    },
+    {
+      "problemCode": "FLOORDIS",
+      "problemName": "Floor Distribution",
+      "link": "https://www.codechef.com/problems/FLOORDIS",
+      "subs": "35",
+      "acc": "34.11"
+    },
+    {
+      "problemCode": "MAZE",
+      "problemName": "Maze",
+      "link": "https://www.codechef.com/problems/MAZE",
+      "subs": "35",
+      "acc": "11.89"
+    },
+    {
+      "problemCode": "KIRMEME",
+      "problemName": "Kirito in Memeland",
+      "link": "https://www.codechef.com/problems/KIRMEME",
+      "subs": "35",
+      "acc": "17.04"
+    },
+    {
+      "problemCode": "PHOTOCOM",
+      "problemName": "Sasha and Photos",
+      "link": "https://www.codechef.com/problems/PHOTOCOM",
+      "subs": "35",
+      "acc": "17.48"
+    },
+    {
+      "problemCode": "CHEFOFR",
+      "problemName": "Offer for Chef",
+      "link": "https://www.codechef.com/problems/CHEFOFR",
+      "subs": "35",
+      "acc": "23.74"
+    },
+    {
+      "problemCode": "M3",
+      "problemName": "Soccer League",
+      "link": "https://www.codechef.com/problems/M3",
+      "subs": "36",
+      "acc": "15.93"
+    },
+    {
+      "problemCode": "GERALD3",
+      "problemName": "Chef and Substrings",
+      "link": "https://www.codechef.com/problems/GERALD3",
+      "subs": "36",
+      "acc": "11.88"
+    },
+    {
+      "problemCode": "ES",
+      "problemName": "Euler Sum",
+      "link": "https://www.codechef.com/problems/ES",
+      "subs": "36",
+      "acc": "13.9"
+    },
+    {
+      "problemCode": "BREAK",
+      "problemName": "Break",
+      "link": "https://www.codechef.com/problems/BREAK",
+      "subs": "36",
+      "acc": "8.3"
+    },
+    {
+      "problemCode": "MACGUN",
+      "problemName": "Machine Gun",
+      "link": "https://www.codechef.com/problems/MACGUN",
+      "subs": "37",
+      "acc": "13.78"
+    },
+    {
+      "problemCode": "CHITHH",
+      "problemName": "Chef and Science",
+      "link": "https://www.codechef.com/problems/CHITHH",
+      "subs": "37",
+      "acc": "14.42"
+    },
+    {
+      "problemCode": "PUPPYPLM",
+      "problemName": "Puppy and Palindromes",
+      "link": "https://www.codechef.com/problems/PUPPYPLM",
+      "subs": "37",
+      "acc": "36.75"
+    },
+    {
+      "problemCode": "BEAUTY",
+      "problemName": "Beautiful Sandwich",
+      "link": "https://www.codechef.com/problems/BEAUTY",
+      "subs": "37",
+      "acc": "15.96"
+    },
+    {
+      "problemCode": "COUNTIES",
+      "problemName": "The Counties",
+      "link": "https://www.codechef.com/problems/COUNTIES",
+      "subs": "37",
+      "acc": "14.53"
+    },
+    {
+      "problemCode": "ALEXROSE",
+      "problemName": "Roses for Alexey",
+      "link": "https://www.codechef.com/problems/ALEXROSE",
+      "subs": "37",
+      "acc": "23.66"
+    },
+    {
+      "problemCode": "LIKECS05",
+      "problemName": "Mixing Colors",
+      "link": "https://www.codechef.com/problems/LIKECS05",
+      "subs": "37",
+      "acc": "22.82"
+    },
+    {
+      "problemCode": "AREAFIGR",
+      "problemName": "Area of an amazing figure",
+      "link": "https://www.codechef.com/problems/AREAFIGR",
+      "subs": "37",
+      "acc": "36.49"
+    },
+    {
+      "problemCode": "CBFEAST",
+      "problemName": "Colorblind Feast",
+      "link": "https://www.codechef.com/problems/CBFEAST",
+      "subs": "37",
+      "acc": "16.98"
+    },
+    {
+      "problemCode": "SUBSUMX",
+      "problemName": "Subset Sums Revisited",
+      "link": "https://www.codechef.com/problems/SUBSUMX",
+      "subs": "37",
+      "acc": "25.14"
+    },
+    {
+      "problemCode": "BALSUB",
+      "problemName": "Balanced Parenthesis Substrings",
+      "link": "https://www.codechef.com/problems/BALSUB",
+      "subs": "37",
+      "acc": "20.85"
+    },
+    {
+      "problemCode": "EZRMQ",
+      "problemName": "Carry Bed",
+      "link": "https://www.codechef.com/problems/EZRMQ",
+      "subs": "37",
+      "acc": "29.61"
+    },
+    {
+      "problemCode": "LEBLOCKS",
+      "problemName": "Little Elephant and Blocks",
+      "link": "https://www.codechef.com/problems/LEBLOCKS",
+      "subs": "38",
+      "acc": "30.43"
+    },
+    {
+      "problemCode": "TREEFUN",
+      "problemName": "Tree Fun",
+      "link": "https://www.codechef.com/problems/TREEFUN",
+      "subs": "38",
+      "acc": "19.86"
+    },
+    {
+      "problemCode": "LUCKG",
+      "problemName": "Lucky Game",
+      "link": "https://www.codechef.com/problems/LUCKG",
+      "subs": "38",
+      "acc": "32.06"
+    },
+    {
+      "problemCode": "SEAGCD2",
+      "problemName": "Sereja and GCD 2",
+      "link": "https://www.codechef.com/problems/SEAGCD2",
+      "subs": "38",
+      "acc": "16.61"
+    },
+    {
+      "problemCode": "CHEFKLCS",
+      "problemName": "Chef and LCS",
+      "link": "https://www.codechef.com/problems/CHEFKLCS",
+      "subs": "38",
+      "acc": "21.37"
+    },
+    {
+      "problemCode": "XORQUERY",
+      "problemName": "Chef and XOR Queries",
+      "link": "https://www.codechef.com/problems/XORQUERY",
+      "subs": "38",
+      "acc": "34.62"
+    },
+    {
+      "problemCode": "CLSUMG",
+      "problemName": "Sum of Primes",
+      "link": "https://www.codechef.com/problems/CLSUMG",
+      "subs": "38",
+      "acc": "28.04"
+    },
+    {
+      "problemCode": "STRTF",
+      "problemName": "Strange Transform",
+      "link": "https://www.codechef.com/problems/STRTF",
+      "subs": "38",
+      "acc": "27.23"
+    },
+    {
+      "problemCode": "DIVPERMS",
+      "problemName": "Permutations",
+      "link": "https://www.codechef.com/problems/DIVPERMS",
+      "subs": "38",
+      "acc": "37.13"
+    },
+    {
+      "problemCode": "KINT",
+      "problemName": "How to Choose a Subset",
+      "link": "https://www.codechef.com/problems/KINT",
+      "subs": "39",
+      "acc": "44.83"
+    },
+    {
+      "problemCode": "KOL1503",
+      "problemName": "The Parenthesis Tree",
+      "link": "https://www.codechef.com/problems/KOL1503",
+      "subs": "39",
+      "acc": "22.9"
+    },
+    {
+      "problemCode": "LTM40GH",
+      "problemName": "Chef and Tree",
+      "link": "https://www.codechef.com/problems/LTM40GH",
+      "subs": "39",
+      "acc": "14.44"
+    },
+    {
+      "problemCode": "STICKS2",
+      "problemName": "Sticks",
+      "link": "https://www.codechef.com/problems/STICKS2",
+      "subs": "39",
+      "acc": "8.35"
+    },
+    {
+      "problemCode": "TWOTREES",
+      "problemName": "A tale of two trees",
+      "link": "https://www.codechef.com/problems/TWOTREES",
+      "subs": "39",
+      "acc": "17.71"
+    },
+    {
+      "problemCode": "SAUNA",
+      "problemName": "Sauna Cred",
+      "link": "https://www.codechef.com/problems/SAUNA",
+      "subs": "39",
+      "acc": "13.41"
+    },
+    {
+      "problemCode": "EXPGCD",
+      "problemName": "Expected GCD",
+      "link": "https://www.codechef.com/problems/EXPGCD",
+      "subs": "39",
+      "acc": "21.86"
+    },
+    {
+      "problemCode": "BESTSUM",
+      "problemName": "Best Sums",
+      "link": "https://www.codechef.com/problems/BESTSUM",
+      "subs": "40",
+      "acc": "3.66"
+    },
+    {
+      "problemCode": "J3",
+      "problemName": "The N Queens Puzzle Revisited",
+      "link": "https://www.codechef.com/problems/J3",
+      "subs": "40",
+      "acc": "34.9"
+    },
+    {
+      "problemCode": "TMRATING",
+      "problemName": "Best Buggy Ratings",
+      "link": "https://www.codechef.com/problems/TMRATING",
+      "subs": "40",
+      "acc": "44.7"
+    },
+    {
+      "problemCode": "CHN07",
+      "problemName": "Malvika and Animesh play Red-Blue cards Game",
+      "link": "https://www.codechef.com/problems/CHN07",
+      "subs": "40",
+      "acc": "26.28"
+    },
+    {
+      "problemCode": "TREEDIAM",
+      "problemName": "Product of Diameters",
+      "link": "https://www.codechef.com/problems/TREEDIAM",
+      "subs": "40",
+      "acc": "29.86"
+    },
+    {
+      "problemCode": "SHUFFL",
+      "problemName": "Shuffling",
+      "link": "https://www.codechef.com/problems/SHUFFL",
+      "subs": "40",
+      "acc": "26.7"
+    },
+    {
+      "problemCode": "DOTIT",
+      "problemName": "Dot It",
+      "link": "https://www.codechef.com/problems/DOTIT",
+      "subs": "40",
+      "acc": "22.8"
+    },
+    {
+      "problemCode": "MAFIASYN",
+      "problemName": "Mafia Syndicate",
+      "link": "https://www.codechef.com/problems/MAFIASYN",
+      "subs": "40",
+      "acc": "34.02"
+    },
+    {
+      "problemCode": "CORTREE",
+      "problemName": "Coronavirus",
+      "link": "https://www.codechef.com/problems/CORTREE",
+      "subs": "40",
+      "acc": "21.77"
+    },
+    {
+      "problemCode": "MMADNESS",
+      "problemName": "Monitoring Madness",
+      "link": "https://www.codechef.com/problems/MMADNESS",
+      "subs": "41",
+      "acc": "8.93"
+    },
+    {
+      "problemCode": "LUCKY3",
+      "problemName": "Lucky Sum",
+      "link": "https://www.codechef.com/problems/LUCKY3",
+      "subs": "41",
+      "acc": "40.3"
+    },
+    {
+      "problemCode": "HLDOTS",
+      "problemName": "Heavy-light Decompositions",
+      "link": "https://www.codechef.com/problems/HLDOTS",
+      "subs": "41",
+      "acc": "22.71"
+    },
+    {
+      "problemCode": "CHEFCLOS",
+      "problemName": "Will and Closed Set",
+      "link": "https://www.codechef.com/problems/CHEFCLOS",
+      "subs": "41",
+      "acc": "17.27"
+    },
+    {
+      "problemCode": "BRIBETR",
+      "problemName": "Bear and Bribing Tree",
+      "link": "https://www.codechef.com/problems/BRIBETR",
+      "subs": "41",
+      "acc": "23.16"
+    },
+    {
+      "problemCode": "BIPARTRE",
+      "problemName": "Bipartite Graph from Trees",
+      "link": "https://www.codechef.com/problems/BIPARTRE",
+      "subs": "41",
+      "acc": "29.95"
+    },
+    {
+      "problemCode": "TRAVELAL",
+      "problemName": "Travel to all Points",
+      "link": "https://www.codechef.com/problems/TRAVELAL",
+      "subs": "41",
+      "acc": "18.98"
+    },
+    {
+      "problemCode": "CIRCINTE",
+      "problemName": "Circular Intervals",
+      "link": "https://www.codechef.com/problems/CIRCINTE",
+      "subs": "41",
+      "acc": "17.33"
+    },
+    {
+      "problemCode": "CATS",
+      "problemName": "Cats and Tree",
+      "link": "https://www.codechef.com/problems/CATS",
+      "subs": "41",
+      "acc": "34.78"
+    },
+    {
+      "problemCode": "COOLCHEF",
+      "problemName": "Chef and His Dish",
+      "link": "https://www.codechef.com/problems/COOLCHEF",
+      "subs": "41",
+      "acc": "7.95"
+    },
+    {
+      "problemCode": "BALLSUM",
+      "problemName": "Colorful Balloons",
+      "link": "https://www.codechef.com/problems/BALLSUM",
+      "subs": "41",
+      "acc": "74.87"
+    },
+    {
+      "problemCode": "H2",
+      "problemName": "Kayaks",
+      "link": "https://www.codechef.com/problems/H2",
+      "subs": "42",
+      "acc": "17"
+    },
+    {
+      "problemCode": "KCHIPS",
+      "problemName": "Angry Chef - Crispy Chips",
+      "link": "https://www.codechef.com/problems/KCHIPS",
+      "subs": "42",
+      "acc": "18.77"
+    },
+    {
+      "problemCode": "NI04",
+      "problemName": "Small Airport",
+      "link": "https://www.codechef.com/problems/NI04",
+      "subs": "42",
+      "acc": "24.06"
+    },
+    {
+      "problemCode": "AMSEQT",
+      "problemName": "Sequence Transmission",
+      "link": "https://www.codechef.com/problems/AMSEQT",
+      "subs": "42",
+      "acc": "31.95"
+    },
+    {
+      "problemCode": "CARDLINE",
+      "problemName": "Chef and the Cards",
+      "link": "https://www.codechef.com/problems/CARDLINE",
+      "subs": "42",
+      "acc": "20.49"
+    },
+    {
+      "problemCode": "DIGVIRUS",
+      "problemName": "Bear and Digit Virus",
+      "link": "https://www.codechef.com/problems/DIGVIRUS",
+      "subs": "42",
+      "acc": "17.3"
+    },
+    {
+      "problemCode": "DLINE",
+      "problemName": "Drawing Lines",
+      "link": "https://www.codechef.com/problems/DLINE",
+      "subs": "42",
+      "acc": "23.79"
+    },
+    {
+      "problemCode": "BBSYSTEM",
+      "problemName": "Box and Ball System",
+      "link": "https://www.codechef.com/problems/BBSYSTEM",
+      "subs": "43",
+      "acc": "26.03"
+    },
+    {
+      "problemCode": "SEAPERM2",
+      "problemName": "Sereja and Permutations",
+      "link": "https://www.codechef.com/problems/SEAPERM2",
+      "subs": "43",
+      "acc": "25.26"
+    },
+    {
+      "problemCode": "MTMXSUM",
+      "problemName": "Matrix Maximum Sum",
+      "link": "https://www.codechef.com/problems/MTMXSUM",
+      "subs": "43",
+      "acc": "23.66"
+    },
+    {
+      "problemCode": "VAIMIN",
+      "problemName": "Vaibhav and Ministers",
+      "link": "https://www.codechef.com/problems/VAIMIN",
+      "subs": "43",
+      "acc": "14.4"
+    },
+    {
+      "problemCode": "ADITREE",
+      "problemName": "Adi and the Tree",
+      "link": "https://www.codechef.com/problems/ADITREE",
+      "subs": "43",
+      "acc": "40.56"
+    },
+    {
+      "problemCode": "TWOARR",
+      "problemName": "The Most Amazing Dish",
+      "link": "https://www.codechef.com/problems/TWOARR",
+      "subs": "43",
+      "acc": "18.91"
+    },
+    {
+      "problemCode": "SUBSETS",
+      "problemName": "Nice Subsets",
+      "link": "https://www.codechef.com/problems/SUBSETS",
+      "subs": "43",
+      "acc": "21.76"
+    },
+    {
+      "problemCode": "DOOFST",
+      "problemName": "Doofish Set",
+      "link": "https://www.codechef.com/problems/DOOFST",
+      "subs": "43",
+      "acc": "27.94"
+    },
+    {
+      "problemCode": "GRAPHCON",
+      "problemName": "Special Graph Construction",
+      "link": "https://www.codechef.com/problems/GRAPHCON",
+      "subs": "43",
+      "acc": "71.11"
+    },
+    {
+      "problemCode": "EQDIV",
+      "problemName": "Divide Candies",
+      "link": "https://www.codechef.com/problems/EQDIV",
+      "subs": "43",
+      "acc": "14.04"
+    },
+    {
+      "problemCode": "MEDIAN",
+      "problemName": "Little Elephant and Median",
+      "link": "https://www.codechef.com/problems/MEDIAN",
+      "subs": "44",
+      "acc": "18.82"
+    },
+    {
+      "problemCode": "PERSHFTS",
+      "problemName": "Cyclic shifts in permutation",
+      "link": "https://www.codechef.com/problems/PERSHFTS",
+      "subs": "44",
+      "acc": "11.8"
+    },
+    {
+      "problemCode": "STRINGRA",
+      "problemName": "Strings and Graphs",
+      "link": "https://www.codechef.com/problems/STRINGRA",
+      "subs": "44",
+      "acc": "21.59"
+    },
+    {
+      "problemCode": "MANCBST",
+      "problemName": "Chef Counts Semi-BSTs",
+      "link": "https://www.codechef.com/problems/MANCBST",
+      "subs": "44",
+      "acc": "60.71"
+    },
+    {
+      "problemCode": "ROOKPATH",
+      "problemName": "Rook Path",
+      "link": "https://www.codechef.com/problems/ROOKPATH",
+      "subs": "44",
+      "acc": "19.09"
+    },
+    {
+      "problemCode": "C5",
+      "problemName": "An interesting subsequence",
+      "link": "https://www.codechef.com/problems/C5",
+      "subs": "45",
+      "acc": "11.04"
+    },
+    {
+      "problemCode": "KNIGHTS",
+      "problemName": "N Knights Problem",
+      "link": "https://www.codechef.com/problems/KNIGHTS",
+      "subs": "45",
+      "acc": "29.69"
+    },
+    {
+      "problemCode": "TRIPCOST",
+      "problemName": "Optimal Trip",
+      "link": "https://www.codechef.com/problems/TRIPCOST",
+      "subs": "45",
+      "acc": "33.77"
+    },
+    {
+      "problemCode": "MAXMATCH",
+      "problemName": "Maximum Matching",
+      "link": "https://www.codechef.com/problems/MAXMATCH",
+      "subs": "45",
+      "acc": "37.06"
+    },
+    {
+      "problemCode": "ANKNIM2",
+      "problemName": "Bored of Nim",
+      "link": "https://www.codechef.com/problems/ANKNIM2",
+      "subs": "45",
+      "acc": "25.47"
+    },
+    {
+      "problemCode": "KOL16K",
+      "problemName": "Chef and Points",
+      "link": "https://www.codechef.com/problems/KOL16K",
+      "subs": "45",
+      "acc": "22.47"
+    },
+    {
+      "problemCode": "ZUBGOLD",
+      "problemName": "B - Get The Gold",
+      "link": "https://www.codechef.com/problems/ZUBGOLD",
+      "subs": "45",
+      "acc": "34.78"
+    },
+    {
+      "problemCode": "ACMKANPB",
+      "problemName": "Bonus",
+      "link": "https://www.codechef.com/problems/ACMKANPB",
+      "subs": "46",
+      "acc": "14.96"
+    },
+    {
+      "problemCode": "BAKE",
+      "problemName": "The Baking Business",
+      "link": "https://www.codechef.com/problems/BAKE",
+      "subs": "46",
+      "acc": "26.13"
+    },
+    {
+      "problemCode": "ANDOOR",
+      "problemName": "A New Door",
+      "link": "https://www.codechef.com/problems/ANDOOR",
+      "subs": "46",
+      "acc": "21.02"
+    },
+    {
+      "problemCode": "LMA1",
+      "problemName": "Lucy and the Math Analysis",
+      "link": "https://www.codechef.com/problems/LMA1",
+      "subs": "46",
+      "acc": "30.77"
+    },
+    {
+      "problemCode": "REDBLUE",
+      "problemName": "Red and blue points",
+      "link": "https://www.codechef.com/problems/REDBLUE",
+      "subs": "46",
+      "acc": "18.55"
+    },
+    {
+      "problemCode": "CRYPCUR",
+      "problemName": "Crypto Trading",
+      "link": "https://www.codechef.com/problems/CRYPCUR",
+      "subs": "46",
+      "acc": "28.86"
+    },
+    {
+      "problemCode": "SNOWMAN",
+      "problemName": "Do You Want to Build a Snowman",
+      "link": "https://www.codechef.com/problems/SNOWMAN",
+      "subs": "46",
+      "acc": "36.91"
+    },
+    {
+      "problemCode": "DICITIES",
+      "problemName": "Disconnecting Cities",
+      "link": "https://www.codechef.com/problems/DICITIES",
+      "subs": "46",
+      "acc": "29.95"
+    },
+    {
+      "problemCode": "CDSUMS",
+      "problemName": "Counting Spaghetti",
+      "link": "https://www.codechef.com/problems/CDSUMS",
+      "subs": "46",
+      "acc": "14.82"
+    },
+    {
+      "problemCode": "TAUT",
+      "problemName": "Tautology",
+      "link": "https://www.codechef.com/problems/TAUT",
+      "subs": "47",
+      "acc": "32.85"
+    },
+    {
+      "problemCode": "SUBINVER",
+      "problemName": "SubInversing",
+      "link": "https://www.codechef.com/problems/SUBINVER",
+      "subs": "47",
+      "acc": "25.51"
+    },
+    {
+      "problemCode": "PWRTREE",
+      "problemName": "Power Tree",
+      "link": "https://www.codechef.com/problems/PWRTREE",
+      "subs": "47",
+      "acc": "29.38"
+    },
+    {
+      "problemCode": "G3",
+      "problemName": "A Coin Game",
+      "link": "https://www.codechef.com/problems/G3",
+      "subs": "48",
+      "acc": "22.09"
+    },
+    {
+      "problemCode": "PATTMATC",
+      "problemName": "Pattern matching",
+      "link": "https://www.codechef.com/problems/PATTMATC",
+      "subs": "48",
+      "acc": "12.61"
+    },
+    {
+      "problemCode": "TOMJERGA",
+      "problemName": "Tom & Jerry",
+      "link": "https://www.codechef.com/problems/TOMJERGA",
+      "subs": "48",
+      "acc": "15.17"
+    },
+    {
+      "problemCode": "GAMOFNUM",
+      "problemName": "Game of numbers",
+      "link": "https://www.codechef.com/problems/GAMOFNUM",
+      "subs": "48",
+      "acc": "26.54"
+    },
+    {
+      "problemCode": "SOSTD",
+      "problemName": "Swag Subsets",
+      "link": "https://www.codechef.com/problems/SOSTD",
+      "subs": "48",
+      "acc": "32.69"
+    },
+    {
+      "problemCode": "SHUFGRID",
+      "problemName": "Grid Shuffle",
+      "link": "https://www.codechef.com/problems/SHUFGRID",
+      "subs": "48",
+      "acc": "47.2"
+    },
+    {
+      "problemCode": "DDILEMMA",
+      "problemName": "Domain Dilemma",
+      "link": "https://www.codechef.com/problems/DDILEMMA",
+      "subs": "49",
+      "acc": "9.86"
+    },
+    {
+      "problemCode": "JUNONGF",
+      "problemName": "Juno Puzzle for May",
+      "link": "https://www.codechef.com/problems/JUNONGF",
+      "subs": "49",
+      "acc": "19.38"
+    },
+    {
+      "problemCode": "INVITES",
+      "problemName": "Party Planning",
+      "link": "https://www.codechef.com/problems/INVITES",
+      "subs": "49",
+      "acc": "29.3"
+    },
+    {
+      "problemCode": "CLOSEFAR",
+      "problemName": "So Close Yet So Far",
+      "link": "https://www.codechef.com/problems/CLOSEFAR",
+      "subs": "49",
+      "acc": "10.16"
+    },
+    {
+      "problemCode": "SHTARR",
+      "problemName": "Shooting on the array",
+      "link": "https://www.codechef.com/problems/SHTARR",
+      "subs": "49",
+      "acc": "16.71"
+    },
+    {
+      "problemCode": "TRECYB",
+      "problemName": "Cybertree",
+      "link": "https://www.codechef.com/problems/TRECYB",
+      "subs": "49",
+      "acc": "59.14"
+    },
+    {
+      "problemCode": "RSRECIPE",
+      "problemName": "Restore the Recipe",
+      "link": "https://www.codechef.com/problems/RSRECIPE",
+      "subs": "50",
+      "acc": "36.61"
+    },
+    {
+      "problemCode": "TANGLED",
+      "problemName": "Entangled Strings",
+      "link": "https://www.codechef.com/problems/TANGLED",
+      "subs": "50",
+      "acc": "12.66"
+    },
+    {
+      "problemCode": "EXNETWRK",
+      "problemName": "Computer Network",
+      "link": "https://www.codechef.com/problems/EXNETWRK",
+      "subs": "50",
+      "acc": "20.34"
+    },
+    {
+      "problemCode": "DISTNUM3",
+      "problemName": "Primitive Queries",
+      "link": "https://www.codechef.com/problems/DISTNUM3",
+      "subs": "50",
+      "acc": "21.5"
+    },
+    {
+      "problemCode": "FOURSQ",
+      "problemName": "Fantastic Four",
+      "link": "https://www.codechef.com/problems/FOURSQ",
+      "subs": "50",
+      "acc": "12.86"
+    },
+    {
+      "problemCode": "SPANTREE",
+      "problemName": "Spanning Tree",
+      "link": "https://www.codechef.com/problems/SPANTREE",
+      "subs": "50",
+      "acc": "31.1"
+    },
+    {
+      "problemCode": "CSUBSEQ",
+      "problemName": "Chef and Chefness",
+      "link": "https://www.codechef.com/problems/CSUBSEQ",
+      "subs": "50",
+      "acc": "36.55"
+    },
+    {
+      "problemCode": "FFT",
+      "problemName": "Fast forward travelling",
+      "link": "https://www.codechef.com/problems/FFT",
+      "subs": "50",
+      "acc": "27.96"
+    },
+    {
+      "problemCode": "RIPPLE",
+      "problemName": "Ripple-Carry Adder",
+      "link": "https://www.codechef.com/problems/RIPPLE",
+      "subs": "51",
+      "acc": "23.7"
+    },
+    {
+      "problemCode": "LOGGERS",
+      "problemName": "Logging Game",
+      "link": "https://www.codechef.com/problems/LOGGERS",
+      "subs": "51",
+      "acc": "42.28"
+    },
+    {
+      "problemCode": "SHGAME",
+      "problemName": "A Game With a Sheet of Paper",
+      "link": "https://www.codechef.com/problems/SHGAME",
+      "subs": "51",
+      "acc": "28.5"
+    },
+    {
+      "problemCode": "CHEFPOLY",
+      "problemName": "Chef and Polygons",
+      "link": "https://www.codechef.com/problems/CHEFPOLY",
+      "subs": "51",
+      "acc": "26.43"
+    },
+    {
+      "problemCode": "KALADIN",
+      "problemName": "Proprietary Probabilistic Problem",
+      "link": "https://www.codechef.com/problems/KALADIN",
+      "subs": "51",
+      "acc": "50.34"
+    },
+    {
+      "problemCode": "PEOPLOVE",
+      "problemName": "Love among People",
+      "link": "https://www.codechef.com/problems/PEOPLOVE",
+      "subs": "52",
+      "acc": "34.18"
+    },
+    {
+      "problemCode": "GHVSSI",
+      "problemName": "Ghayeeth vs Siroj",
+      "link": "https://www.codechef.com/problems/GHVSSI",
+      "subs": "52",
+      "acc": "20.21"
+    },
+    {
+      "problemCode": "MYSAR",
+      "problemName": "Mysterious Sequence",
+      "link": "https://www.codechef.com/problems/MYSAR",
+      "subs": "52",
+      "acc": "30"
+    },
+    {
+      "problemCode": "CALLSCHE",
+      "problemName": "Call Center Schedule",
+      "link": "https://www.codechef.com/problems/CALLSCHE",
+      "subs": "53",
+      "acc": "15.47"
+    },
+    {
+      "problemCode": "SEREJA",
+      "problemName": "Sereja and Data Structures ",
+      "link": "https://www.codechef.com/problems/SEREJA",
+      "subs": "54",
+      "acc": "25.63"
+    },
+    {
+      "problemCode": "AMMAGIC",
+      "problemName": "Magic Board",
+      "link": "https://www.codechef.com/problems/AMMAGIC",
+      "subs": "54",
+      "acc": "35.57"
+    },
+    {
+      "problemCode": "LEFEED",
+      "problemName": "Andrew and the Birthday",
+      "link": "https://www.codechef.com/problems/LEFEED",
+      "subs": "55",
+      "acc": "37.85"
+    },
+    {
+      "problemCode": "TACHEMIS",
+      "problemName": "Compressed String",
+      "link": "https://www.codechef.com/problems/TACHEMIS",
+      "subs": "55",
+      "acc": "12.4"
+    },
+    {
+      "problemCode": "UNIQUE",
+      "problemName": "Chef and Uniqueness",
+      "link": "https://www.codechef.com/problems/UNIQUE",
+      "subs": "55",
+      "acc": "27.88"
+    },
+    {
+      "problemCode": "XORPATH",
+      "problemName": "Xortest Path",
+      "link": "https://www.codechef.com/problems/XORPATH",
+      "subs": "55",
+      "acc": "57.39"
+    },
+    {
+      "problemCode": "ADDMULT",
+      "problemName": "To add or to multiply game",
+      "link": "https://www.codechef.com/problems/ADDMULT",
+      "subs": "55",
+      "acc": "19.28"
+    },
+    {
+      "problemCode": "LIKECS04",
+      "problemName": "Numbers Game",
+      "link": "https://www.codechef.com/problems/LIKECS04",
+      "subs": "55",
+      "acc": "34.87"
+    },
+    {
+      "problemCode": "HISTJUNK",
+      "problemName": "Historical Junctions",
+      "link": "https://www.codechef.com/problems/HISTJUNK",
+      "subs": "56",
+      "acc": "26.87"
+    },
+    {
+      "problemCode": "MANYLIST",
+      "problemName": "Many Lists",
+      "link": "https://www.codechef.com/problems/MANYLIST",
+      "subs": "56",
+      "acc": "14.72"
+    },
+    {
+      "problemCode": "SVNTR",
+      "problemName": "Save the nature",
+      "link": "https://www.codechef.com/problems/SVNTR",
+      "subs": "56",
+      "acc": "17.5"
+    },
+    {
+      "problemCode": "XORSUMS",
+      "problemName": "Bear and Xor of Sums",
+      "link": "https://www.codechef.com/problems/XORSUMS",
+      "subs": "56",
+      "acc": "23.05"
+    },
+    {
+      "problemCode": "RECARR",
+      "problemName": "Recover Array",
+      "link": "https://www.codechef.com/problems/RECARR",
+      "subs": "56",
+      "acc": "51.98"
+    },
+    {
+      "problemCode": "FCUBE",
+      "problemName": "The First Cube",
+      "link": "https://www.codechef.com/problems/FCUBE",
+      "subs": "57",
+      "acc": "9.36"
+    },
+    {
+      "problemCode": "HCLEAN",
+      "problemName": "House Cleaning",
+      "link": "https://www.codechef.com/problems/HCLEAN",
+      "subs": "57",
+      "acc": "39.76"
+    },
+    {
+      "problemCode": "COFFEE",
+      "problemName": "Coffee Breaks",
+      "link": "https://www.codechef.com/problems/COFFEE",
+      "subs": "57",
+      "acc": "6"
+    },
+    {
+      "problemCode": "CO92TREE",
+      "problemName": "Chef Chooses a Subset",
+      "link": "https://www.codechef.com/problems/CO92TREE",
+      "subs": "57",
+      "acc": "28.28"
+    },
+    {
+      "problemCode": "GIIKLUB",
+      "problemName": "Gii and His Club",
+      "link": "https://www.codechef.com/problems/GIIKLUB",
+      "subs": "57",
+      "acc": "23.22"
+    },
+    {
+      "problemCode": "CHEFPASS",
+      "problemName": "Codechef Password Recovery",
+      "link": "https://www.codechef.com/problems/CHEFPASS",
+      "subs": "58",
+      "acc": "57.66"
+    },
+    {
+      "problemCode": "TRAVTREE",
+      "problemName": "Travelling in a tree",
+      "link": "https://www.codechef.com/problems/TRAVTREE",
+      "subs": "58",
+      "acc": "25.81"
+    },
+    {
+      "problemCode": "ROBOTDAG",
+      "problemName": "Robots in a DAG",
+      "link": "https://www.codechef.com/problems/ROBOTDAG",
+      "subs": "58",
+      "acc": "25.32"
+    },
+    {
+      "problemCode": "STMINCUT",
+      "problemName": "S-T Mincut",
+      "link": "https://www.codechef.com/problems/STMINCUT",
+      "subs": "58",
+      "acc": "31.03"
+    },
+    {
+      "problemCode": "CK87DANC",
+      "problemName": "Chef and Dancing Steps",
+      "link": "https://www.codechef.com/problems/CK87DANC",
+      "subs": "58",
+      "acc": "25.39"
+    },
+    {
+      "problemCode": "QTRAGAIN",
+      "problemName": "Queries on tree again",
+      "link": "https://www.codechef.com/problems/QTRAGAIN",
+      "subs": "58",
+      "acc": "29.82"
+    },
+    {
+      "problemCode": "CRISIS",
+      "problemName": "CPI Crisis",
+      "link": "https://www.codechef.com/problems/CRISIS",
+      "subs": "58",
+      "acc": "24.56"
+    },
+    {
+      "problemCode": "BINSTR",
+      "problemName": "Binary Strings",
+      "link": "https://www.codechef.com/problems/BINSTR",
+      "subs": "58",
+      "acc": "15.7"
+    },
+    {
+      "problemCode": "INTRPATH",
+      "problemName": "Intersecting Paths",
+      "link": "https://www.codechef.com/problems/INTRPATH",
+      "subs": "58",
+      "acc": "13.76"
+    },
+    {
+      "problemCode": "PROPOSAL",
+      "problemName": "Primary Proposal",
+      "link": "https://www.codechef.com/problems/PROPOSAL",
+      "subs": "59",
+      "acc": "53.59"
+    },
+    {
+      "problemCode": "CBARS",
+      "problemName": "A Wonderful Chocolate",
+      "link": "https://www.codechef.com/problems/CBARS",
+      "subs": "59",
+      "acc": "45.63"
+    },
+    {
+      "problemCode": "TASTYD",
+      "problemName": "Tasty Dishes",
+      "link": "https://www.codechef.com/problems/TASTYD",
+      "subs": "59",
+      "acc": "7.91"
+    },
+    {
+      "problemCode": "SEAPAIR",
+      "problemName": "Sereja and Pairs",
+      "link": "https://www.codechef.com/problems/SEAPAIR",
+      "subs": "59",
+      "acc": "25.94"
+    },
+    {
+      "problemCode": "TREES",
+      "problemName": "Trees Again",
+      "link": "https://www.codechef.com/problems/TREES",
+      "subs": "60",
+      "acc": "40"
+    },
+    {
+      "problemCode": "HOB2",
+      "problemName": "Hotel Balifornia 2",
+      "link": "https://www.codechef.com/problems/HOB2",
+      "subs": "60",
+      "acc": "24.7"
+    },
+    {
+      "problemCode": "RRBIGNUM",
+      "problemName": "Big Number",
+      "link": "https://www.codechef.com/problems/RRBIGNUM",
+      "subs": "60",
+      "acc": "17.91"
+    },
+    {
+      "problemCode": "GANGAAM",
+      "problemName": "Interrogating Gangsters",
+      "link": "https://www.codechef.com/problems/GANGAAM",
+      "subs": "60",
+      "acc": "36.92"
+    },
+    {
+      "problemCode": "SEAPROAR",
+      "problemName": "Sereja and Random Array",
+      "link": "https://www.codechef.com/problems/SEAPROAR",
+      "subs": "60",
+      "acc": "44.24"
+    },
+    {
+      "problemCode": "GAMSTICK",
+      "problemName": "Game on Stick",
+      "link": "https://www.codechef.com/problems/GAMSTICK",
+      "subs": "60",
+      "acc": "15.02"
+    },
+    {
+      "problemCode": "SCRRCP",
+      "problemName": "Chef and Secret Recipe",
+      "link": "https://www.codechef.com/problems/SCRRCP",
+      "subs": "60",
+      "acc": "14.48"
+    },
+    {
+      "problemCode": "PREPARE",
+      "problemName": "Preparing Dishes",
+      "link": "https://www.codechef.com/problems/PREPARE",
+      "subs": "61",
+      "acc": "21.16"
+    },
+    {
+      "problemCode": "TASTRMAT",
+      "problemName": "String Matching",
+      "link": "https://www.codechef.com/problems/TASTRMAT",
+      "subs": "61",
+      "acc": "30.47"
+    },
+    {
+      "problemCode": "NTHCIR",
+      "problemName": "Rohith and Circles",
+      "link": "https://www.codechef.com/problems/NTHCIR",
+      "subs": "61",
+      "acc": "15.46"
+    },
+    {
+      "problemCode": "CHSPARR",
+      "problemName": "Chef and Super Array",
+      "link": "https://www.codechef.com/problems/CHSPARR",
+      "subs": "61",
+      "acc": "16.45"
+    },
+    {
+      "problemCode": "KOL16A",
+      "problemName": "Playing World War II",
+      "link": "https://www.codechef.com/problems/KOL16A",
+      "subs": "61",
+      "acc": "23.08"
+    },
+    {
+      "problemCode": "ZUBWALLT",
+      "problemName": "Organize The Wallet",
+      "link": "https://www.codechef.com/problems/ZUBWALLT",
+      "subs": "61",
+      "acc": "43.65"
+    },
+    {
+      "problemCode": "BLREDSET",
+      "problemName": "Black and Red vertices of Tree",
+      "link": "https://www.codechef.com/problems/BLREDSET",
+      "subs": "61",
+      "acc": "30.31"
+    },
+    {
+      "problemCode": "SPECTAC",
+      "problemName": "Spectacular Activity Selection",
+      "link": "https://www.codechef.com/problems/SPECTAC",
+      "subs": "61",
+      "acc": "61.76"
+    },
+    {
+      "problemCode": "PALPATH",
+      "problemName": "Palindromic Walks",
+      "link": "https://www.codechef.com/problems/PALPATH",
+      "subs": "61",
+      "acc": "31.27"
+    },
+    {
+      "problemCode": "CHFDIV",
+      "problemName": "Must Be Divisible",
+      "link": "https://www.codechef.com/problems/CHFDIV",
+      "subs": "61",
+      "acc": "34.47"
+    },
+    {
+      "problemCode": "HIRING",
+      "problemName": "Hiring Chefs",
+      "link": "https://www.codechef.com/problems/HIRING",
+      "subs": "61",
+      "acc": "32.49"
+    },
+    {
+      "problemCode": "WALL",
+      "problemName": "Wall",
+      "link": "https://www.codechef.com/problems/WALL",
+      "subs": "62",
+      "acc": "8.27"
+    },
+    {
+      "problemCode": "DIGITLIS",
+      "problemName": "Digit Longest Increasing Subsequences",
+      "link": "https://www.codechef.com/problems/DIGITLIS",
+      "subs": "62",
+      "acc": "35.03"
+    },
+    {
+      "problemCode": "WEASELTX",
+      "problemName": "Weasel does Xor on Tree",
+      "link": "https://www.codechef.com/problems/WEASELTX",
+      "subs": "62",
+      "acc": "19.14"
+    },
+    {
+      "problemCode": "SEAGM",
+      "problemName": "Sereja and Game",
+      "link": "https://www.codechef.com/problems/SEAGM",
+      "subs": "63",
+      "acc": "49.26"
+    },
+    {
+      "problemCode": "CAOS3",
+      "problemName": "CAO Stage-3",
+      "link": "https://www.codechef.com/problems/CAOS3",
+      "subs": "63",
+      "acc": "33.21"
+    },
+    {
+      "problemCode": "CHEFCIRC",
+      "problemName": "Chef and Circle",
+      "link": "https://www.codechef.com/problems/CHEFCIRC",
+      "subs": "63",
+      "acc": "24.9"
+    },
+    {
+      "problemCode": "SORTVS",
+      "problemName": "Sorting Vases",
+      "link": "https://www.codechef.com/problems/SORTVS",
+      "subs": "63",
+      "acc": "17.65"
+    },
+    {
+      "problemCode": "THEGAME",
+      "problemName": "Filling the maze",
+      "link": "https://www.codechef.com/problems/THEGAME",
+      "subs": "64",
+      "acc": "30.04"
+    },
+    {
+      "problemCode": "SEQLCS",
+      "problemName": "Chef and the Number Sequence",
+      "link": "https://www.codechef.com/problems/SEQLCS",
+      "subs": "64",
+      "acc": "43.81"
+    },
+    {
+      "problemCode": "AMXOR",
+      "problemName": "XOR Sum",
+      "link": "https://www.codechef.com/problems/AMXOR",
+      "subs": "65",
+      "acc": "45.05"
+    },
+    {
+      "problemCode": "TRERMB",
+      "problemName": "A Tree to Remember",
+      "link": "https://www.codechef.com/problems/TRERMB",
+      "subs": "65",
+      "acc": "35.59"
+    },
+    {
+      "problemCode": "LUCKY8",
+      "problemName": "Little Elephant and Product",
+      "link": "https://www.codechef.com/problems/LUCKY8",
+      "subs": "66",
+      "acc": "23.29"
+    },
+    {
+      "problemCode": "MPROD",
+      "problemName": "Minimum Product",
+      "link": "https://www.codechef.com/problems/MPROD",
+      "subs": "66",
+      "acc": "12.88"
+    },
+    {
+      "problemCode": "CHEFSHOP",
+      "problemName": "Ingredients",
+      "link": "https://www.codechef.com/problems/CHEFSHOP",
+      "subs": "66",
+      "acc": "40.65"
+    },
+    {
+      "problemCode": "ROTPTS",
+      "problemName": "Rotate Point",
+      "link": "https://www.codechef.com/problems/ROTPTS",
+      "subs": "66",
+      "acc": "32.88"
+    },
+    {
+      "problemCode": "KTTREE",
+      "problemName": "K-Tuple Tree",
+      "link": "https://www.codechef.com/problems/KTTREE",
+      "subs": "66",
+      "acc": "17.49"
+    },
+    {
+      "problemCode": "REPSTR",
+      "problemName": "Repeated String",
+      "link": "https://www.codechef.com/problems/REPSTR",
+      "subs": "67",
+      "acc": "31.87"
+    },
+    {
+      "problemCode": "METEORAK",
+      "problemName": "Meteor",
+      "link": "https://www.codechef.com/problems/METEORAK",
+      "subs": "67",
+      "acc": "41.95"
+    },
+    {
+      "problemCode": "DIVIDE",
+      "problemName": "Dividing the Students",
+      "link": "https://www.codechef.com/problems/DIVIDE",
+      "subs": "67",
+      "acc": "34.8"
+    },
+    {
+      "problemCode": "KOL1510",
+      "problemName": "The Revenge of Jalebi Bai",
+      "link": "https://www.codechef.com/problems/KOL1510",
+      "subs": "67",
+      "acc": "39.35"
+    },
+    {
+      "problemCode": "VRTXCOVR",
+      "problemName": "Vertex Cover",
+      "link": "https://www.codechef.com/problems/VRTXCOVR",
+      "subs": "67",
+      "acc": "25.89"
+    },
+    {
+      "problemCode": "HPIRATES",
+      "problemName": "Heap Pirates",
+      "link": "https://www.codechef.com/problems/HPIRATES",
+      "subs": "67",
+      "acc": "30.89"
+    },
+    {
+      "problemCode": "MYS00T",
+      "problemName": "Mystery Tree",
+      "link": "https://www.codechef.com/problems/MYS00T",
+      "subs": "67",
+      "acc": "22.36"
+    },
+    {
+      "problemCode": "ANDPREF",
+      "problemName": "Prefix And",
+      "link": "https://www.codechef.com/problems/ANDPREF",
+      "subs": "67",
+      "acc": "29.73"
+    },
+    {
+      "problemCode": "GRAPART",
+      "problemName": "Partition the Graph",
+      "link": "https://www.codechef.com/problems/GRAPART",
+      "subs": "68",
+      "acc": "35.43"
+    },
+    {
+      "problemCode": "XOR",
+      "problemName": "Xor it",
+      "link": "https://www.codechef.com/problems/XOR",
+      "subs": "69",
+      "acc": "9.86"
+    },
+    {
+      "problemCode": "FREQFUN",
+      "problemName": "Frequency Function",
+      "link": "https://www.codechef.com/problems/FREQFUN",
+      "subs": "69",
+      "acc": "28.27"
+    },
+    {
+      "problemCode": "EQUATIO",
+      "problemName": "Equation Solver",
+      "link": "https://www.codechef.com/problems/EQUATIO",
+      "subs": "70",
+      "acc": "33.47"
+    },
+    {
+      "problemCode": "WPLAY",
+      "problemName": "Word Play",
+      "link": "https://www.codechef.com/problems/WPLAY",
+      "subs": "70",
+      "acc": "26.99"
+    },
+    {
+      "problemCode": "KFORK",
+      "problemName": "Knight Fork",
+      "link": "https://www.codechef.com/problems/KFORK",
+      "subs": "70",
+      "acc": "18.94"
+    },
+    {
+      "problemCode": "PAINTBOX",
+      "problemName": "Painting the Boxes",
+      "link": "https://www.codechef.com/problems/PAINTBOX",
+      "subs": "70",
+      "acc": "23.14"
+    },
+    {
+      "problemCode": "CHEFPRAD",
+      "problemName": "Chef and Pairs",
+      "link": "https://www.codechef.com/problems/CHEFPRAD",
+      "subs": "70",
+      "acc": "32.45"
+    },
+    {
+      "problemCode": "B5",
+      "problemName": "Squash the Bugs",
+      "link": "https://www.codechef.com/problems/B5",
+      "subs": "71",
+      "acc": "20.67"
+    },
+    {
+      "problemCode": "CANDYGAM",
+      "problemName": "Candy Collecting Game",
+      "link": "https://www.codechef.com/problems/CANDYGAM",
+      "subs": "71",
+      "acc": "28.46"
+    },
+    {
+      "problemCode": "ALOST",
+      "problemName": "Akhil Recovers The Lost Array",
+      "link": "https://www.codechef.com/problems/ALOST",
+      "subs": "71",
+      "acc": "34.02"
+    },
+    {
+      "problemCode": "TREE",
+      "problemName": "Tree Counting",
+      "link": "https://www.codechef.com/problems/TREE",
+      "subs": "72",
+      "acc": "51.55"
+    },
+    {
+      "problemCode": "URBANDEV",
+      "problemName": "Urban Development",
+      "link": "https://www.codechef.com/problems/URBANDEV",
+      "subs": "72",
+      "acc": "18.75"
+    },
+    {
+      "problemCode": "DEVGOSTR",
+      "problemName": "Devu and good strings",
+      "link": "https://www.codechef.com/problems/DEVGOSTR",
+      "subs": "72",
+      "acc": "24.03"
+    },
+    {
+      "problemCode": "TWOCOINS",
+      "problemName": "Two Coins",
+      "link": "https://www.codechef.com/problems/TWOCOINS",
+      "subs": "72",
+      "acc": "18.13"
+    },
+    {
+      "problemCode": "RCTEXSCC",
+      "problemName": "Expected Number of SCCs",
+      "link": "https://www.codechef.com/problems/RCTEXSCC",
+      "subs": "72",
+      "acc": "34.31"
+    },
+    {
+      "problemCode": "CHXORR",
+      "problemName": "Chef and Pie",
+      "link": "https://www.codechef.com/problems/CHXORR",
+      "subs": "73",
+      "acc": "8.79"
+    },
+    {
+      "problemCode": "ANDTUPLE",
+      "problemName": "And Tuples",
+      "link": "https://www.codechef.com/problems/ANDTUPLE",
+      "subs": "73",
+      "acc": "25.66"
+    },
+    {
+      "problemCode": "TASUMOBC",
+      "problemName": "Sum Of Binomial Coefficent ",
+      "link": "https://www.codechef.com/problems/TASUMOBC",
+      "subs": "73",
+      "acc": "23.47"
+    },
+    {
+      "problemCode": "MOREFB",
+      "problemName": "Another Fibonacci",
+      "link": "https://www.codechef.com/problems/MOREFB",
+      "subs": "73",
+      "acc": "21.9"
+    },
+    {
+      "problemCode": "KTHCON",
+      "problemName": "The potato problem",
+      "link": "https://www.codechef.com/problems/KTHCON",
+      "subs": "73",
+      "acc": "22.64"
+    },
+    {
+      "problemCode": "WEAKMID",
+      "problemName": "Weak in the Middle",
+      "link": "https://www.codechef.com/problems/WEAKMID",
+      "subs": "73",
+      "acc": "17.03"
+    },
+    {
+      "problemCode": "TWOSTRS",
+      "problemName": "Buying a New String",
+      "link": "https://www.codechef.com/problems/TWOSTRS",
+      "subs": "73",
+      "acc": "13.99"
+    },
+    {
+      "problemCode": "CHEFSQUD",
+      "problemName": "Chefland Squads and the Army Chief",
+      "link": "https://www.codechef.com/problems/CHEFSQUD",
+      "subs": "73",
+      "acc": "25.25"
+    },
+    {
+      "problemCode": "LIGHT",
+      "problemName": "Lights",
+      "link": "https://www.codechef.com/problems/LIGHT",
+      "subs": "74",
+      "acc": "29.18"
+    },
+    {
+      "problemCode": "CHEFINV",
+      "problemName": "Chef and Swaps",
+      "link": "https://www.codechef.com/problems/CHEFINV",
+      "subs": "74",
+      "acc": "18.61"
+    },
+    {
+      "problemCode": "SEABAL",
+      "problemName": "Sereja and Ballons",
+      "link": "https://www.codechef.com/problems/SEABAL",
+      "subs": "75",
+      "acc": "36.16"
+    },
+    {
+      "problemCode": "CHSEQ22",
+      "problemName": "Chef and Favourite Sequence",
+      "link": "https://www.codechef.com/problems/CHSEQ22",
+      "subs": "75",
+      "acc": "47.19"
+    },
+    {
+      "problemCode": "FAVNUM",
+      "problemName": "Favourite Numbers",
+      "link": "https://www.codechef.com/problems/FAVNUM",
+      "subs": "76",
+      "acc": "26.91"
+    },
+    {
+      "problemCode": "CHEFGIRL",
+      "problemName": "Chef and Girls",
+      "link": "https://www.codechef.com/problems/CHEFGIRL",
+      "subs": "76",
+      "acc": "49.47"
+    },
+    {
+      "problemCode": "WRKWAYS",
+      "problemName": "Ways to Work",
+      "link": "https://www.codechef.com/problems/WRKWAYS",
+      "subs": "76",
+      "acc": "17.58"
+    },
+    {
+      "problemCode": "ADAROKS2",
+      "problemName": "Ada Rooks 2",
+      "link": "https://www.codechef.com/problems/ADAROKS2",
+      "subs": "76",
+      "acc": "27.38"
+    },
+    {
+      "problemCode": "STDPRGS",
+      "problemName": "Estimating progress",
+      "link": "https://www.codechef.com/problems/STDPRGS",
+      "subs": "77",
+      "acc": "17.97"
+    },
+    {
+      "problemCode": "SHAIKHGN",
+      "problemName": "Funny gnomes",
+      "link": "https://www.codechef.com/problems/SHAIKHGN",
+      "subs": "77",
+      "acc": "30.26"
+    },
+    {
+      "problemCode": "INCXOR",
+      "problemName": "Increasing Xor Sequence",
+      "link": "https://www.codechef.com/problems/INCXOR",
+      "subs": "77",
+      "acc": "76.23"
+    },
+    {
+      "problemCode": "BORDER",
+      "problemName": "Prefix borders",
+      "link": "https://www.codechef.com/problems/BORDER",
+      "subs": "77",
+      "acc": "15.96"
+    },
+    {
+      "problemCode": "AMBALLS",
+      "problemName": "Andrew and the Balls",
+      "link": "https://www.codechef.com/problems/AMBALLS",
+      "subs": "78",
+      "acc": "45.42"
+    },
+    {
+      "problemCode": "CORRCHK",
+      "problemName": "Statements Checking",
+      "link": "https://www.codechef.com/problems/CORRCHK",
+      "subs": "78",
+      "acc": "31.56"
+    },
+    {
+      "problemCode": "RRJAM",
+      "problemName": "Jam",
+      "link": "https://www.codechef.com/problems/RRJAM",
+      "subs": "78",
+      "acc": "23.16"
+    },
+    {
+      "problemCode": "KOL16E",
+      "problemName": "Divide Me Please",
+      "link": "https://www.codechef.com/problems/KOL16E",
+      "subs": "78",
+      "acc": "29.66"
+    },
+    {
+      "problemCode": "SONYASEG",
+      "problemName": "Sonya and Segments",
+      "link": "https://www.codechef.com/problems/SONYASEG",
+      "subs": "78",
+      "acc": "30.17"
+    },
+    {
+      "problemCode": "MDSWIN2",
+      "problemName": "Winning Ways 2",
+      "link": "https://www.codechef.com/problems/MDSWIN2",
+      "subs": "78",
+      "acc": "13.35"
+    },
+    {
+      "problemCode": "CHEFGRPH",
+      "problemName": "Time to Study Graphs with Chef",
+      "link": "https://www.codechef.com/problems/CHEFGRPH",
+      "subs": "79",
+      "acc": "16.74"
+    },
+    {
+      "problemCode": "LCH15CD",
+      "problemName": "Candidate walk",
+      "link": "https://www.codechef.com/problems/LCH15CD",
+      "subs": "79",
+      "acc": "20.12"
+    },
+    {
+      "problemCode": "CHEFUNI",
+      "problemName": "Chef and Universe",
+      "link": "https://www.codechef.com/problems/CHEFUNI",
+      "subs": "79",
+      "acc": "13.59"
+    },
+    {
+      "problemCode": "BBRICKS",
+      "problemName": "Beautiful Bricks",
+      "link": "https://www.codechef.com/problems/BBRICKS",
+      "subs": "79",
+      "acc": "23.39"
+    },
+    {
+      "problemCode": "BEAUTPAR",
+      "problemName": "Beautiful Partitions",
+      "link": "https://www.codechef.com/problems/BEAUTPAR",
+      "subs": "80",
+      "acc": "17.8"
+    },
+    {
+      "problemCode": "GUESSG",
+      "problemName": "Guessing Game",
+      "link": "https://www.codechef.com/problems/GUESSG",
+      "subs": "80",
+      "acc": "6.3"
+    },
+    {
+      "problemCode": "MINXOR",
+      "problemName": "XOR Minimization",
+      "link": "https://www.codechef.com/problems/MINXOR",
+      "subs": "81",
+      "acc": "12.78"
+    },
+    {
+      "problemCode": "HILLJUMP",
+      "problemName": "Hill Jumping",
+      "link": "https://www.codechef.com/problems/HILLJUMP",
+      "subs": "81",
+      "acc": "12.81"
+    },
+    {
+      "problemCode": "GRAPHAND",
+      "problemName": "AND on Graph",
+      "link": "https://www.codechef.com/problems/GRAPHAND",
+      "subs": "81",
+      "acc": "30.89"
+    },
+    {
+      "problemCode": "XORMIN",
+      "problemName": "Mininum XOR over Tree",
+      "link": "https://www.codechef.com/problems/XORMIN",
+      "subs": "81",
+      "acc": "9.67"
+    },
+    {
+      "problemCode": "PALIN3",
+      "problemName": "3-Palindromes",
+      "link": "https://www.codechef.com/problems/PALIN3",
+      "subs": "82",
+      "acc": "14.25"
+    },
+    {
+      "problemCode": "PP",
+      "problemName": "Palindrome Pairs",
+      "link": "https://www.codechef.com/problems/PP",
+      "subs": "83",
+      "acc": "14.58"
+    },
+    {
+      "problemCode": "MADHAT",
+      "problemName": "Math Hatter",
+      "link": "https://www.codechef.com/problems/MADHAT",
+      "subs": "83",
+      "acc": "26.65"
+    },
+    {
+      "problemCode": "ANDSQR",
+      "problemName": "AND Square Subsegments",
+      "link": "https://www.codechef.com/problems/ANDSQR",
+      "subs": "83",
+      "acc": "18.64"
+    },
+    {
+      "problemCode": "LEBOBBLE",
+      "problemName": "Little Elephant and Bubble Sort",
+      "link": "https://www.codechef.com/problems/LEBOBBLE",
+      "subs": "84",
+      "acc": "34.53"
+    },
+    {
+      "problemCode": "GQR",
+      "problemName": "Queries with GCD",
+      "link": "https://www.codechef.com/problems/GQR",
+      "subs": "84",
+      "acc": "12.9"
+    },
+    {
+      "problemCode": "DOTTIME",
+      "problemName": "Dot Time",
+      "link": "https://www.codechef.com/problems/DOTTIME",
+      "subs": "84",
+      "acc": "18.69"
+    },
+    {
+      "problemCode": "ANUAHR",
+      "problemName": "Abhijeet and rectangles",
+      "link": "https://www.codechef.com/problems/ANUAHR",
+      "subs": "86",
+      "acc": "22.06"
+    },
+    {
+      "problemCode": "CHEFDTRE",
+      "problemName": "Chef and Sets",
+      "link": "https://www.codechef.com/problems/CHEFDTRE",
+      "subs": "86",
+      "acc": "19.18"
+    },
+    {
+      "problemCode": "FAVGAME",
+      "problemName": "Completing favorite game",
+      "link": "https://www.codechef.com/problems/FAVGAME",
+      "subs": "86",
+      "acc": "31.1"
+    },
+    {
+      "problemCode": "FOMBRO",
+      "problemName": "Zombinatorial",
+      "link": "https://www.codechef.com/problems/FOMBRO",
+      "subs": "87",
+      "acc": "45.11"
+    },
+    {
+      "problemCode": "MAKELIS",
+      "problemName": "Longest Increasing Subsequences",
+      "link": "https://www.codechef.com/problems/MAKELIS",
+      "subs": "87",
+      "acc": "29.15"
+    },
+    {
+      "problemCode": "LAZERTST",
+      "problemName": "Lasers Everywhere Alternative",
+      "link": "https://www.codechef.com/problems/LAZERTST",
+      "subs": "87",
+      "acc": "27.76"
+    },
+    {
+      "problemCode": "STRAB",
+      "problemName": "How to Write a Message",
+      "link": "https://www.codechef.com/problems/STRAB",
+      "subs": "89",
+      "acc": "58.25"
+    },
+    {
+      "problemCode": "XORGRID",
+      "problemName": "Devu and most energetic minion",
+      "link": "https://www.codechef.com/problems/XORGRID",
+      "subs": "89",
+      "acc": "38.98"
+    },
+    {
+      "problemCode": "TRGAME",
+      "problemName": "Game on Tree",
+      "link": "https://www.codechef.com/problems/TRGAME",
+      "subs": "89",
+      "acc": "34.3"
+    },
+    {
+      "problemCode": "CHGORAM",
+      "problemName": "Chef and Gordon Ramsay",
+      "link": "https://www.codechef.com/problems/CHGORAM",
+      "subs": "90",
+      "acc": "14.96"
+    },
+    {
+      "problemCode": "BACREP",
+      "problemName": "Bacterial Reproduction",
+      "link": "https://www.codechef.com/problems/BACREP",
+      "subs": "90",
+      "acc": "18.08"
+    },
+    {
+      "problemCode": "FAILURE",
+      "problemName": "Single Point of Failure",
+      "link": "https://www.codechef.com/problems/FAILURE",
+      "subs": "90",
+      "acc": "28.31"
+    },
+    {
+      "problemCode": "CHEFCOMP",
+      "problemName": "Chefina and Strange Tree",
+      "link": "https://www.codechef.com/problems/CHEFCOMP",
+      "subs": "90",
+      "acc": "15.44"
+    },
+    {
+      "problemCode": "TAKEAWAY",
+      "problemName": "Zeta-Nim Game",
+      "link": "https://www.codechef.com/problems/TAKEAWAY",
+      "subs": "91",
+      "acc": "39.61"
+    },
+    {
+      "problemCode": "BESTPATH",
+      "problemName": "Find Best Path",
+      "link": "https://www.codechef.com/problems/BESTPATH",
+      "subs": "91",
+      "acc": "24.11"
+    },
+    {
+      "problemCode": "SHOOTING",
+      "problemName": "Shooting",
+      "link": "https://www.codechef.com/problems/SHOOTING",
+      "subs": "92",
+      "acc": "25.65"
+    },
+    {
+      "problemCode": "CALCULUS",
+      "problemName": "Calculus",
+      "link": "https://www.codechef.com/problems/CALCULUS",
+      "subs": "92",
+      "acc": "50.74"
+    },
+    {
+      "problemCode": "TKCHOCS",
+      "problemName": "Collect the Chocolate Chips",
+      "link": "https://www.codechef.com/problems/TKCHOCS",
+      "subs": "93",
+      "acc": "29.67"
+    },
+    {
+      "problemCode": "TWINRO",
+      "problemName": "Twin Robots",
+      "link": "https://www.codechef.com/problems/TWINRO",
+      "subs": "93",
+      "acc": "51.57"
+    },
+    {
+      "problemCode": "SNDISCUS",
+      "problemName": "Snakes and their Discussions",
+      "link": "https://www.codechef.com/problems/SNDISCUS",
+      "subs": "93",
+      "acc": "75.84"
+    },
+    {
+      "problemCode": "RIVPILE",
+      "problemName": "Across the River",
+      "link": "https://www.codechef.com/problems/RIVPILE",
+      "subs": "94",
+      "acc": "21.45"
+    },
+    {
+      "problemCode": "ICECREM",
+      "problemName": "Ice Cream Queue",
+      "link": "https://www.codechef.com/problems/ICECREM",
+      "subs": "94",
+      "acc": "18.69"
+    },
+    {
+      "problemCode": "DGTCNT",
+      "problemName": "Chef and Digits",
+      "link": "https://www.codechef.com/problems/DGTCNT",
+      "subs": "96",
+      "acc": "23.16"
+    },
+    {
+      "problemCode": "THSTRS",
+      "problemName": "Three Strings",
+      "link": "https://www.codechef.com/problems/THSTRS",
+      "subs": "96",
+      "acc": "23.65"
+    },
+    {
+      "problemCode": "CHIEFETT",
+      "problemName": "Pleasing Chief",
+      "link": "https://www.codechef.com/problems/CHIEFETT",
+      "subs": "97",
+      "acc": "23.52"
+    },
+    {
+      "problemCode": "PPLUCKY",
+      "problemName": "Polo the Penguin and the Lucky String",
+      "link": "https://www.codechef.com/problems/PPLUCKY",
+      "subs": "97",
+      "acc": "13.81"
+    },
+    {
+      "problemCode": "LFIVES",
+      "problemName": "Lucky Fives",
+      "link": "https://www.codechef.com/problems/LFIVES",
+      "subs": "97",
+      "acc": "24.65"
+    },
+    {
+      "problemCode": "MOU2H",
+      "problemName": "Mountain Holidays 2",
+      "link": "https://www.codechef.com/problems/MOU2H",
+      "subs": "98",
+      "acc": "20.66"
+    },
+    {
+      "problemCode": "ANUCBC",
+      "problemName": "Cards, bags and coins",
+      "link": "https://www.codechef.com/problems/ANUCBC",
+      "subs": "98",
+      "acc": "15.53"
+    },
+    {
+      "problemCode": "ANUTDP",
+      "problemName": "The Dirty Path",
+      "link": "https://www.codechef.com/problems/ANUTDP",
+      "subs": "98",
+      "acc": "19.29"
+    },
+    {
+      "problemCode": "COLLECT",
+      "problemName": "Collecting Magical Berries",
+      "link": "https://www.codechef.com/problems/COLLECT",
+      "subs": "99",
+      "acc": "32.6"
+    },
+    {
+      "problemCode": "PALINDR",
+      "problemName": "Lucy and Palindromes",
+      "link": "https://www.codechef.com/problems/PALINDR",
+      "subs": "99",
+      "acc": "23.86"
+    },
+    {
+      "problemCode": "MAXEXPR",
+      "problemName": "Maximize an Expression",
+      "link": "https://www.codechef.com/problems/MAXEXPR",
+      "subs": "100",
+      "acc": "21.05"
+    },
+    {
+      "problemCode": "NI05",
+      "problemName": "Retail Shop",
+      "link": "https://www.codechef.com/problems/NI05",
+      "subs": "101",
+      "acc": "62.03"
+    },
+    {
+      "problemCode": "SEAKAM",
+      "problemName": "Sereja and Salesman",
+      "link": "https://www.codechef.com/problems/SEAKAM",
+      "subs": "101",
+      "acc": "28.03"
+    },
+    {
+      "problemCode": "UNSQUERS",
+      "problemName": "Unusual Queries",
+      "link": "https://www.codechef.com/problems/UNSQUERS",
+      "subs": "102",
+      "acc": "30.25"
+    },
+    {
+      "problemCode": "CHANOQ",
+      "problemName": "Chef and odd queries",
+      "link": "https://www.codechef.com/problems/CHANOQ",
+      "subs": "104",
+      "acc": "26.7"
+    },
+    {
+      "problemCode": "ANGLE",
+      "problemName": "Nearest Angle",
+      "link": "https://www.codechef.com/problems/ANGLE",
+      "subs": "104",
+      "acc": "12.52"
+    },
+    {
+      "problemCode": "CFTREE",
+      "problemName": "Chef And Fibonacci Tree",
+      "link": "https://www.codechef.com/problems/CFTREE",
+      "subs": "105",
+      "acc": "17.66"
+    },
+    {
+      "problemCode": "MATCH2",
+      "problemName": "Match the Streams",
+      "link": "https://www.codechef.com/problems/MATCH2",
+      "subs": "106",
+      "acc": "9.22"
+    },
+    {
+      "problemCode": "ABSNX",
+      "problemName": "Absolute Min Max",
+      "link": "https://www.codechef.com/problems/ABSNX",
+      "subs": "106",
+      "acc": "16.86"
+    },
+    {
+      "problemCode": "CAKECUT",
+      "problemName": "Cutting Cake",
+      "link": "https://www.codechef.com/problems/CAKECUT",
+      "subs": "107",
+      "acc": "43.03"
+    },
+    {
+      "problemCode": "FRJUMP",
+      "problemName": "Chef and cities",
+      "link": "https://www.codechef.com/problems/FRJUMP",
+      "subs": "108",
+      "acc": "8.85"
+    },
+    {
+      "problemCode": "SUBSEG2",
+      "problemName": "Chef and his study plans",
+      "link": "https://www.codechef.com/problems/SUBSEG2",
+      "subs": "108",
+      "acc": "24.44"
+    },
+    {
+      "problemCode": "PUPPYCT",
+      "problemName": "Puppy and cats",
+      "link": "https://www.codechef.com/problems/PUPPYCT",
+      "subs": "109",
+      "acc": "10.4"
+    },
+    {
+      "problemCode": "MONSTBAT",
+      "problemName": "Monsters Battle",
+      "link": "https://www.codechef.com/problems/MONSTBAT",
+      "subs": "109",
+      "acc": "28.81"
+    },
+    {
+      "problemCode": "SANDWICH",
+      "problemName": "Long Sandwich ",
+      "link": "https://www.codechef.com/problems/SANDWICH",
+      "subs": "110",
+      "acc": "27.77"
+    },
+    {
+      "problemCode": "CCC",
+      "problemName": "Hit the Coconuts",
+      "link": "https://www.codechef.com/problems/CCC",
+      "subs": "110",
+      "acc": "15.7"
+    },
+    {
+      "problemCode": "EXPALIN",
+      "problemName": "Exponential Sub-Palindromes",
+      "link": "https://www.codechef.com/problems/EXPALIN",
+      "subs": "111",
+      "acc": "26.73"
+    },
+    {
+      "problemCode": "WALKTREE",
+      "problemName": "Not So Random Walks",
+      "link": "https://www.codechef.com/problems/WALKTREE",
+      "subs": "111",
+      "acc": "38.66"
+    },
+    {
+      "problemCode": "CHEFGM",
+      "problemName": "Chef Game",
+      "link": "https://www.codechef.com/problems/CHEFGM",
+      "subs": "112",
+      "acc": "29.83"
+    },
+    {
+      "problemCode": "BICO",
+      "problemName": "BiCo Gaming Grid",
+      "link": "https://www.codechef.com/problems/BICO",
+      "subs": "112",
+      "acc": "27.95"
+    },
+    {
+      "problemCode": "MAKPALIN",
+      "problemName": "Make Palindrome",
+      "link": "https://www.codechef.com/problems/MAKPALIN",
+      "subs": "112",
+      "acc": "27.11"
+    },
+    {
+      "problemCode": "CLONEME",
+      "problemName": "Cloning",
+      "link": "https://www.codechef.com/problems/CLONEME",
+      "subs": "112",
+      "acc": "14.48"
+    },
+    {
+      "problemCode": "COOKFOOD",
+      "problemName": "Cooking dishes",
+      "link": "https://www.codechef.com/problems/COOKFOOD",
+      "subs": "113",
+      "acc": "32.72"
+    },
+    {
+      "problemCode": "SUBSGM",
+      "problemName": "Nice SubSegments",
+      "link": "https://www.codechef.com/problems/SUBSGM",
+      "subs": "113",
+      "acc": "23.67"
+    },
+    {
+      "problemCode": "LSTGRPH",
+      "problemName": "Lost Graph",
+      "link": "https://www.codechef.com/problems/LSTGRPH",
+      "subs": "113",
+      "acc": "24.16"
+    },
+    {
+      "problemCode": "TOOLS",
+      "problemName": "Fetching Cooking Tools",
+      "link": "https://www.codechef.com/problems/TOOLS",
+      "subs": "114",
+      "acc": "49.08"
+    },
+    {
+      "problemCode": "CHEFINS",
+      "problemName": "Chef and Numbers",
+      "link": "https://www.codechef.com/problems/CHEFINS",
+      "subs": "114",
+      "acc": "22.66"
+    },
+    {
+      "problemCode": "EXPCH",
+      "problemName": "Expected Change",
+      "link": "https://www.codechef.com/problems/EXPCH",
+      "subs": "115",
+      "acc": "20.61"
+    },
+    {
+      "problemCode": "CHONQ",
+      "problemName": "Cheating on Queue",
+      "link": "https://www.codechef.com/problems/CHONQ",
+      "subs": "116",
+      "acc": "12.53"
+    },
+    {
+      "problemCode": "RANDCHCL",
+      "problemName": "Random Chocolates",
+      "link": "https://www.codechef.com/problems/RANDCHCL",
+      "subs": "116",
+      "acc": "39.58"
+    },
+    {
+      "problemCode": "SCALSUM",
+      "problemName": "Scalar Product Tree",
+      "link": "https://www.codechef.com/problems/SCALSUM",
+      "subs": "116",
+      "acc": "8.77"
+    },
+    {
+      "problemCode": "TRIQUERY",
+      "problemName": "Triangular Queries",
+      "link": "https://www.codechef.com/problems/TRIQUERY",
+      "subs": "117",
+      "acc": "32.45"
+    },
+    {
+      "problemCode": "COUNTWAY",
+      "problemName": "Sherlock Counts Ways",
+      "link": "https://www.codechef.com/problems/COUNTWAY",
+      "subs": "118",
+      "acc": "25.38"
+    },
+    {
+      "problemCode": "DEVBDAY",
+      "problemName": "Devu, his friends and birthday gifts",
+      "link": "https://www.codechef.com/problems/DEVBDAY",
+      "subs": "120",
+      "acc": "13.85"
+    },
+    {
+      "problemCode": "BLOCKING",
+      "problemName": "Block Game",
+      "link": "https://www.codechef.com/problems/BLOCKING",
+      "subs": "121",
+      "acc": "34.79"
+    },
+    {
+      "problemCode": "TABUS",
+      "problemName": "Traveling Plan",
+      "link": "https://www.codechef.com/problems/TABUS",
+      "subs": "121",
+      "acc": "8.8"
+    },
+    {
+      "problemCode": "EQUAKE",
+      "problemName": "Earthquake",
+      "link": "https://www.codechef.com/problems/EQUAKE",
+      "subs": "122",
+      "acc": "23.16"
+    },
+    {
+      "problemCode": "CHEFTRIP",
+      "problemName": "Chefina on a Trip",
+      "link": "https://www.codechef.com/problems/CHEFTRIP",
+      "subs": "123",
+      "acc": "27.1"
+    },
+    {
+      "problemCode": "PPDIV",
+      "problemName": "Perfect Power Divisors",
+      "link": "https://www.codechef.com/problems/PPDIV",
+      "subs": "124",
+      "acc": "15.98"
+    },
+    {
+      "problemCode": "SEAGM2",
+      "problemName": "Sereja and Game 2",
+      "link": "https://www.codechef.com/problems/SEAGM2",
+      "subs": "125",
+      "acc": "21.73"
+    },
+    {
+      "problemCode": "SEATR2",
+      "problemName": "Sereja and Tree 2",
+      "link": "https://www.codechef.com/problems/SEATR2",
+      "subs": "125",
+      "acc": "26.82"
+    },
+    {
+      "problemCode": "CHEFDAG",
+      "problemName": "Chef and DAG",
+      "link": "https://www.codechef.com/problems/CHEFDAG",
+      "subs": "126",
+      "acc": "31.08"
+    },
+    {
+      "problemCode": "TAPOINT",
+      "problemName": "Find The Point",
+      "link": "https://www.codechef.com/problems/TAPOINT",
+      "subs": "127",
+      "acc": "205.17"
+    },
+    {
+      "problemCode": "CHEFWORD",
+      "problemName": "Chef and Words",
+      "link": "https://www.codechef.com/problems/CHEFWORD",
+      "subs": "128",
+      "acc": "24.39"
+    },
+    {
+      "problemCode": "CARLOS",
+      "problemName": "Inversion sorting",
+      "link": "https://www.codechef.com/problems/CARLOS",
+      "subs": "128",
+      "acc": "21.74"
+    },
+    {
+      "problemCode": "COOK82D",
+      "problemName": "Nasty Queries",
+      "link": "https://www.codechef.com/problems/COOK82D",
+      "subs": "129",
+      "acc": "38.53"
+    },
+    {
+      "problemCode": "CONTAIN",
+      "problemName": "The Delicious Cake",
+      "link": "https://www.codechef.com/problems/CONTAIN",
+      "subs": "129",
+      "acc": "19.08"
+    },
+    {
+      "problemCode": "EXGCD",
+      "problemName": "Expected Greatest Common Divisor",
+      "link": "https://www.codechef.com/problems/EXGCD",
+      "subs": "132",
+      "acc": "49.12"
+    },
+    {
+      "problemCode": "LEMOVIE",
+      "problemName": "Little Elephant and Movies",
+      "link": "https://www.codechef.com/problems/LEMOVIE",
+      "subs": "133",
+      "acc": "35.73"
+    },
+    {
+      "problemCode": "MAGICHF2",
+      "problemName": "Magician versus Chef 2",
+      "link": "https://www.codechef.com/problems/MAGICHF2",
+      "subs": "135",
+      "acc": "22.77"
+    },
+    {
+      "problemCode": "MLCHEF",
+      "problemName": "Merciless Chef",
+      "link": "https://www.codechef.com/problems/MLCHEF",
+      "subs": "136",
+      "acc": "27.58"
+    },
+    {
+      "problemCode": "PSHTBRTH",
+      "problemName": "Pishty and birthday",
+      "link": "https://www.codechef.com/problems/PSHTBRTH",
+      "subs": "136",
+      "acc": "26.92"
+    },
+    {
+      "problemCode": "ROTSTRNG",
+      "problemName": "Rotate the String",
+      "link": "https://www.codechef.com/problems/ROTSTRNG",
+      "subs": "137",
+      "acc": "12.88"
+    },
+    {
+      "problemCode": "FUNC",
+      "problemName": "Chef and Functions",
+      "link": "https://www.codechef.com/problems/FUNC",
+      "subs": "137",
+      "acc": "13.7"
+    },
+    {
+      "problemCode": "SEGPROD",
+      "problemName": "Product on the segment by modulo ",
+      "link": "https://www.codechef.com/problems/SEGPROD",
+      "subs": "137",
+      "acc": "17.18"
+    },
+    {
+      "problemCode": "SNCK01",
+      "problemName": "The Matrix Game",
+      "link": "https://www.codechef.com/problems/SNCK01",
+      "subs": "138",
+      "acc": "29.33"
+    },
+    {
+      "problemCode": "SOLDIER",
+      "problemName": "Help the soldier",
+      "link": "https://www.codechef.com/problems/SOLDIER",
+      "subs": "139",
+      "acc": "23.98"
+    },
+    {
+      "problemCode": "DFMTRX",
+      "problemName": "Doofish Matrix",
+      "link": "https://www.codechef.com/problems/DFMTRX",
+      "subs": "139",
+      "acc": "37.64"
+    },
+    {
+      "problemCode": "AMSTRING",
+      "problemName": "Andrew and the Strings",
+      "link": "https://www.codechef.com/problems/AMSTRING",
+      "subs": "140",
+      "acc": "36.95"
+    },
+    {
+      "problemCode": "MBOARD",
+      "problemName": "Magic Board",
+      "link": "https://www.codechef.com/problems/MBOARD",
+      "subs": "141",
+      "acc": "26.17"
+    },
+    {
+      "problemCode": "FRCTNS",
+      "problemName": "Fractions",
+      "link": "https://www.codechef.com/problems/FRCTNS",
+      "subs": "142",
+      "acc": "18.91"
+    },
+    {
+      "problemCode": "SQUIRREL",
+      "problemName": "Squirrel and chestnut",
+      "link": "https://www.codechef.com/problems/SQUIRREL",
+      "subs": "143",
+      "acc": "21.9"
+    },
+    {
+      "problemCode": "CHEFNUMK",
+      "problemName": "Chef and Queries",
+      "link": "https://www.codechef.com/problems/CHEFNUMK",
+      "subs": "143",
+      "acc": "21.44"
+    },
+    {
+      "problemCode": "MINIONS",
+      "problemName": "Masha and Minions",
+      "link": "https://www.codechef.com/problems/MINIONS",
+      "subs": "143",
+      "acc": "23.22"
+    },
+    {
+      "problemCode": "POINPOLY",
+      "problemName": "Points Inside A Polygon",
+      "link": "https://www.codechef.com/problems/POINPOLY",
+      "subs": "145",
+      "acc": "17.67"
+    },
+    {
+      "problemCode": "GCDCNT",
+      "problemName": "Chef and Gcd Queries",
+      "link": "https://www.codechef.com/problems/GCDCNT",
+      "subs": "145",
+      "acc": "48.14"
+    },
+    {
+      "problemCode": "CHEFLAND",
+      "problemName": "Chef Land",
+      "link": "https://www.codechef.com/problems/CHEFLAND",
+      "subs": "146",
+      "acc": "17.13"
+    },
+    {
+      "problemCode": "MDIST",
+      "problemName": "Devu and Manhattan Distance",
+      "link": "https://www.codechef.com/problems/MDIST",
+      "subs": "148",
+      "acc": "24.08"
+    },
+    {
+      "problemCode": "CHEFLKJ",
+      "problemName": "Chef and Array",
+      "link": "https://www.codechef.com/problems/CHEFLKJ",
+      "subs": "148",
+      "acc": "22.75"
+    },
+    {
+      "problemCode": "ADDFRAC",
+      "problemName": "Adding Fractions",
+      "link": "https://www.codechef.com/problems/ADDFRAC",
+      "subs": "149",
+      "acc": "14.7"
+    },
+    {
+      "problemCode": "COMB4SUM",
+      "problemName": "Adding Special Sum",
+      "link": "https://www.codechef.com/problems/COMB4SUM",
+      "subs": "152",
+      "acc": "33.22"
+    },
+    {
+      "problemCode": "MSTQS",
+      "problemName": "MST Queries",
+      "link": "https://www.codechef.com/problems/MSTQS",
+      "subs": "152",
+      "acc": "18.34"
+    },
+    {
+      "problemCode": "POLYEVAL",
+      "problemName": "Evaluate the polynomial",
+      "link": "https://www.codechef.com/problems/POLYEVAL",
+      "subs": "153",
+      "acc": "23.53"
+    },
+    {
+      "problemCode": "JTREE",
+      "problemName": "JosephLand",
+      "link": "https://www.codechef.com/problems/JTREE",
+      "subs": "154",
+      "acc": "32.03"
+    },
+    {
+      "problemCode": "ANURRZ",
+      "problemName": "Random Rudreshwar",
+      "link": "https://www.codechef.com/problems/ANURRZ",
+      "subs": "156",
+      "acc": "26.38"
+    },
+    {
+      "problemCode": "ANCESTOR",
+      "problemName": "Ancestors in Two Trees",
+      "link": "https://www.codechef.com/problems/ANCESTOR",
+      "subs": "156",
+      "acc": "29.67"
+    },
+    {
+      "problemCode": "POWERMUL",
+      "problemName": "Fombinatorial",
+      "link": "https://www.codechef.com/problems/POWERMUL",
+      "subs": "158",
+      "acc": "7.67"
+    },
+    {
+      "problemCode": "D2",
+      "problemName": "The Lucky Draw",
+      "link": "https://www.codechef.com/problems/D2",
+      "subs": "160",
+      "acc": "12.81"
+    },
+    {
+      "problemCode": "WPROB",
+      "problemName": "The Warehouse",
+      "link": "https://www.codechef.com/problems/WPROB",
+      "subs": "161",
+      "acc": "45.43"
+    },
+    {
+      "problemCode": "SHIFTPAL",
+      "problemName": "Shifted Palindrome",
+      "link": "https://www.codechef.com/problems/SHIFTPAL",
+      "subs": "162",
+      "acc": "20.32"
+    },
+    {
+      "problemCode": "RRTREE",
+      "problemName": "Tree",
+      "link": "https://www.codechef.com/problems/RRTREE",
+      "subs": "163",
+      "acc": "42.97"
+    },
+    {
+      "problemCode": "CUTPLANT",
+      "problemName": "Cutting Plants",
+      "link": "https://www.codechef.com/problems/CUTPLANT",
+      "subs": "165",
+      "acc": "24.92"
+    },
+    {
+      "problemCode": "J2",
+      "problemName": "The LCS Problem Revisited",
+      "link": "https://www.codechef.com/problems/J2",
+      "subs": "166",
+      "acc": "24.63"
+    },
+    {
+      "problemCode": "MONEY",
+      "problemName": "Money Matters",
+      "link": "https://www.codechef.com/problems/MONEY",
+      "subs": "166",
+      "acc": "14.21"
+    },
+    {
+      "problemCode": "DIVPAIR",
+      "problemName": "Divisible Pairs",
+      "link": "https://www.codechef.com/problems/DIVPAIR",
+      "subs": "167",
+      "acc": "19.58"
+    },
+    {
+      "problemCode": "ENCODING",
+      "problemName": "Encoding",
+      "link": "https://www.codechef.com/problems/ENCODING",
+      "subs": "168",
+      "acc": "18.07"
+    },
+    {
+      "problemCode": "MONSTER",
+      "problemName": "Killing Monsters",
+      "link": "https://www.codechef.com/problems/MONSTER",
+      "subs": "169",
+      "acc": "22.4"
+    },
+    {
+      "problemCode": "CNTSOLS",
+      "problemName": "The Number Of Solutions",
+      "link": "https://www.codechef.com/problems/CNTSOLS",
+      "subs": "172",
+      "acc": "23.43"
+    },
+    {
+      "problemCode": "ANUGCD",
+      "problemName": "Maximum number, GCD condition",
+      "link": "https://www.codechef.com/problems/ANUGCD",
+      "subs": "172",
+      "acc": "26.35"
+    },
+    {
+      "problemCode": "SEATSR",
+      "problemName": "Sereja and two strings",
+      "link": "https://www.codechef.com/problems/SEATSR",
+      "subs": "173",
+      "acc": "15.15"
+    },
+    {
+      "problemCode": "TANGDIV",
+      "problemName": "Divide the Tangerine",
+      "link": "https://www.codechef.com/problems/TANGDIV",
+      "subs": "173",
+      "acc": "31.15"
+    },
+    {
+      "problemCode": "SNGRAPH",
+      "problemName": "Snakes and Graph",
+      "link": "https://www.codechef.com/problems/SNGRAPH",
+      "subs": "173",
+      "acc": "202.77"
+    },
+    {
+      "problemCode": "JABO",
+      "problemName": "Jam Board",
+      "link": "https://www.codechef.com/problems/JABO",
+      "subs": "175",
+      "acc": "16.79"
+    },
+    {
+      "problemCode": "RRSERVER",
+      "problemName": "Servers",
+      "link": "https://www.codechef.com/problems/RRSERVER",
+      "subs": "175",
+      "acc": "52.78"
+    },
+    {
+      "problemCode": "SEAGCD",
+      "problemName": "Sereja and GCD",
+      "link": "https://www.codechef.com/problems/SEAGCD",
+      "subs": "176",
+      "acc": "19.3"
+    },
+    {
+      "problemCode": "KNODES",
+      "problemName": "Path containing K Nodes",
+      "link": "https://www.codechef.com/problems/KNODES",
+      "subs": "178",
+      "acc": "18.23"
+    },
+    {
+      "problemCode": "CHEFKO",
+      "problemName": "Chef and K Segments",
+      "link": "https://www.codechef.com/problems/CHEFKO",
+      "subs": "182",
+      "acc": "38.71"
+    },
+    {
+      "problemCode": "BUTTONS",
+      "problemName": "Buttons",
+      "link": "https://www.codechef.com/problems/BUTTONS",
+      "subs": "183",
+      "acc": "10.97"
+    },
+    {
+      "problemCode": "QCHEF",
+      "problemName": "Chef and Problems",
+      "link": "https://www.codechef.com/problems/QCHEF",
+      "subs": "184",
+      "acc": "15.73"
+    },
+    {
+      "problemCode": "GPD",
+      "problemName": "Gotham PD",
+      "link": "https://www.codechef.com/problems/GPD",
+      "subs": "184",
+      "acc": "35.98"
+    },
+    {
+      "problemCode": "CHINSM",
+      "problemName": "Chef and insomnia",
+      "link": "https://www.codechef.com/problems/CHINSM",
+      "subs": "185",
+      "acc": "17.36"
+    },
+    {
+      "problemCode": "STICNOT",
+      "problemName": "Sticky Notes",
+      "link": "https://www.codechef.com/problems/STICNOT",
+      "subs": "186",
+      "acc": "38.08"
+    },
+    {
+      "problemCode": "SMARKET",
+      "problemName": "Stable market",
+      "link": "https://www.codechef.com/problems/SMARKET",
+      "subs": "187",
+      "acc": "26.71"
+    },
+    {
+      "problemCode": "CHGLSTGT",
+      "problemName": "Girl Friend and String Gift",
+      "link": "https://www.codechef.com/problems/CHGLSTGT",
+      "subs": "189",
+      "acc": "20.79"
+    },
+    {
+      "problemCode": "XORCMPNT",
+      "problemName": "Bitsetbaba and Power Grid",
+      "link": "https://www.codechef.com/problems/XORCMPNT",
+      "subs": "189",
+      "acc": "49.48"
+    },
+    {
+      "problemCode": "SPOONS",
+      "problemName": "Project Spoon",
+      "link": "https://www.codechef.com/problems/SPOONS",
+      "subs": "194",
+      "acc": "32.25"
+    },
+    {
+      "problemCode": "PARITREE",
+      "problemName": "Parity tree",
+      "link": "https://www.codechef.com/problems/PARITREE",
+      "subs": "194",
+      "acc": "23.83"
+    },
+    {
+      "problemCode": "REIGN2",
+      "problemName": "Reign 2",
+      "link": "https://www.codechef.com/problems/REIGN2",
+      "subs": "197",
+      "acc": "40.68"
+    },
+    {
+      "problemCode": "TAEDITOR",
+      "problemName": "Simple Editor",
+      "link": "https://www.codechef.com/problems/TAEDITOR",
+      "subs": "199",
+      "acc": "16.27"
+    },
+    {
+      "problemCode": "KOL15C",
+      "problemName": "Just Update and Print the array",
+      "link": "https://www.codechef.com/problems/KOL15C",
+      "subs": "199",
+      "acc": "35.27"
+    },
+    {
+      "problemCode": "BROCLK",
+      "problemName": "Broken Clock",
+      "link": "https://www.codechef.com/problems/BROCLK",
+      "subs": "199",
+      "acc": "28.96"
+    },
+    {
+      "problemCode": "LCH15JEF",
+      "problemName": "Just multiply",
+      "link": "https://www.codechef.com/problems/LCH15JEF",
+      "subs": "200",
+      "acc": "22.37"
+    },
+    {
+      "problemCode": "CSUBQ",
+      "problemName": "Chef and Subarray Queries",
+      "link": "https://www.codechef.com/problems/CSUBQ",
+      "subs": "205",
+      "acc": "22.34"
+    },
+    {
+      "problemCode": "MAXPRODU",
+      "problemName": "Maximize Product",
+      "link": "https://www.codechef.com/problems/MAXPRODU",
+      "subs": "205",
+      "acc": "26.37"
+    },
+    {
+      "problemCode": "FRBSUM",
+      "problemName": "ForbiddenSum",
+      "link": "https://www.codechef.com/problems/FRBSUM",
+      "subs": "206",
+      "acc": "43.15"
+    },
+    {
+      "problemCode": "MARRAYS",
+      "problemName": "Chef and Magic Arrays",
+      "link": "https://www.codechef.com/problems/MARRAYS",
+      "subs": "206",
+      "acc": "24.51"
+    },
+    {
+      "problemCode": "DDIMMST",
+      "problemName": "D-Dimensional MST",
+      "link": "https://www.codechef.com/problems/DDIMMST",
+      "subs": "207",
+      "acc": "20.11"
+    },
+    {
+      "problemCode": "KOL1505",
+      "problemName": "Jalebi Bai and Decks of Sweets",
+      "link": "https://www.codechef.com/problems/KOL1505",
+      "subs": "208",
+      "acc": "54.76"
+    },
+    {
+      "problemCode": "DRGNDEN",
+      "problemName": "Chef and Dragon Dens",
+      "link": "https://www.codechef.com/problems/DRGNDEN",
+      "subs": "208",
+      "acc": "19.24"
+    },
+    {
+      "problemCode": "CNTWAYS",
+      "problemName": "The Uncountable Ways",
+      "link": "https://www.codechef.com/problems/CNTWAYS",
+      "subs": "214",
+      "acc": "26.39"
+    },
+    {
+      "problemCode": "WORKCHEF",
+      "problemName": "Chef and special numbers",
+      "link": "https://www.codechef.com/problems/WORKCHEF",
+      "subs": "214",
+      "acc": "13.01"
+    },
+    {
+      "problemCode": "RRDAG",
+      "problemName": "Present for Andrii",
+      "link": "https://www.codechef.com/problems/RRDAG",
+      "subs": "215",
+      "acc": "21.19"
+    },
+    {
+      "problemCode": "DIVSET",
+      "problemName": "Divide the Set",
+      "link": "https://www.codechef.com/problems/DIVSET",
+      "subs": "215",
+      "acc": "21.45"
+    },
+    {
+      "problemCode": "CHEFDIV",
+      "problemName": "Chef and Divisor Tree",
+      "link": "https://www.codechef.com/problems/CHEFDIV",
+      "subs": "221",
+      "acc": "22.75"
+    },
+    {
+      "problemCode": "FCTRE",
+      "problemName": "Factor Tree",
+      "link": "https://www.codechef.com/problems/FCTRE",
+      "subs": "222",
+      "acc": "12.74"
+    },
+    {
+      "problemCode": "SORTING",
+      "problemName": "Sorting",
+      "link": "https://www.codechef.com/problems/SORTING",
+      "subs": "223",
+      "acc": "18.9"
+    },
+    {
+      "problemCode": "LSTBTF",
+      "problemName": "Smallest Beautiful Number",
+      "link": "https://www.codechef.com/problems/LSTBTF",
+      "subs": "223",
+      "acc": "29.36"
+    },
+    {
+      "problemCode": "WSC",
+      "problemName": "A wolf, a sheep and cabbage",
+      "link": "https://www.codechef.com/problems/WSC",
+      "subs": "224",
+      "acc": "28.32"
+    },
+    {
+      "problemCode": "FDIVGAME",
+      "problemName": "Floor Division Game",
+      "link": "https://www.codechef.com/problems/FDIVGAME",
+      "subs": "229",
+      "acc": "33.38"
+    },
+    {
+      "problemCode": "QNUMBER",
+      "problemName": "Queries About Numbers",
+      "link": "https://www.codechef.com/problems/QNUMBER",
+      "subs": "231",
+      "acc": "18.22"
+    },
+    {
+      "problemCode": "PSHTTR",
+      "problemName": "Pishty and tree",
+      "link": "https://www.codechef.com/problems/PSHTTR",
+      "subs": "231",
+      "acc": "23.34"
+    },
+    {
+      "problemCode": "SUBARRAY",
+      "problemName": "Parenthesis with Maximum Sum Subarray",
+      "link": "https://www.codechef.com/problems/SUBARRAY",
+      "subs": "233",
+      "acc": "22.83"
+    },
+    {
+      "problemCode": "CHEFPSA",
+      "problemName": "Chefina and Prefix Suffix Sums",
+      "link": "https://www.codechef.com/problems/CHEFPSA",
+      "subs": "234",
+      "acc": "12.58"
+    },
+    {
+      "problemCode": "SHSPOONS",
+      "problemName": "Shifting Spoons",
+      "link": "https://www.codechef.com/problems/SHSPOONS",
+      "subs": "237",
+      "acc": "22.4"
+    },
+    {
+      "problemCode": "KMHAMHA",
+      "problemName": "Kamehameha",
+      "link": "https://www.codechef.com/problems/KMHAMHA",
+      "subs": "239",
+      "acc": "75.69"
+    },
+    {
+      "problemCode": "TASTR",
+      "problemName": "Level Of Difference",
+      "link": "https://www.codechef.com/problems/TASTR",
+      "subs": "240",
+      "acc": "15.37"
+    },
+    {
+      "problemCode": "MOU1H",
+      "problemName": "Mountain Holidays",
+      "link": "https://www.codechef.com/problems/MOU1H",
+      "subs": "240",
+      "acc": "25.84"
+    },
+    {
+      "problemCode": "CYCLRACE",
+      "problemName": "Cyclist Race",
+      "link": "https://www.codechef.com/problems/CYCLRACE",
+      "subs": "240",
+      "acc": "37.24"
+    },
+    {
+      "problemCode": "CARDS777",
+      "problemName": "Yet Another Card Game",
+      "link": "https://www.codechef.com/problems/CARDS777",
+      "subs": "244",
+      "acc": "68.02"
+    },
+    {
+      "problemCode": "TREESORT",
+      "problemName": "Sort the Leaves",
+      "link": "https://www.codechef.com/problems/TREESORT",
+      "subs": "250",
+      "acc": "133.38"
+    },
+    {
+      "problemCode": "CNPIIM",
+      "problemName": "Counting Matrices",
+      "link": "https://www.codechef.com/problems/CNPIIM",
+      "subs": "252",
+      "acc": "25.61"
+    },
+    {
+      "problemCode": "ANDMIN",
+      "problemName": "Range Minimum Queries ",
+      "link": "https://www.codechef.com/problems/ANDMIN",
+      "subs": "252",
+      "acc": "26.93"
+    },
+    {
+      "problemCode": "EXPGAME",
+      "problemName": "Exponential Game",
+      "link": "https://www.codechef.com/problems/EXPGAME",
+      "subs": "256",
+      "acc": "28.87"
+    },
+    {
+      "problemCode": "SKIING",
+      "problemName": "Skiing",
+      "link": "https://www.codechef.com/problems/SKIING",
+      "subs": "256",
+      "acc": "39.32"
+    },
+    {
+      "problemCode": "WW2",
+      "problemName": "World War 2",
+      "link": "https://www.codechef.com/problems/WW2",
+      "subs": "257",
+      "acc": "37.7"
+    },
+    {
+      "problemCode": "AMR15C",
+      "problemName": "Kalakeya",
+      "link": "https://www.codechef.com/problems/AMR15C",
+      "subs": "259",
+      "acc": "13.55"
+    },
+    {
+      "problemCode": "EQUALMOD",
+      "problemName": "Modulo Equality",
+      "link": "https://www.codechef.com/problems/EQUALMOD",
+      "subs": "259",
+      "acc": "19.27"
+    },
+    {
+      "problemCode": "TETRA",
+      "problemName": "Sphere in a tetrahedron",
+      "link": "https://www.codechef.com/problems/TETRA",
+      "subs": "262",
+      "acc": "124.02"
+    },
+    {
+      "problemCode": "SUBARR",
+      "problemName": "Perfect Subarrays",
+      "link": "https://www.codechef.com/problems/SUBARR",
+      "subs": "274",
+      "acc": "21"
+    },
+    {
+      "problemCode": "TACNTSTR",
+      "problemName": "Counting Strings",
+      "link": "https://www.codechef.com/problems/TACNTSTR",
+      "subs": "274",
+      "acc": "170.49"
+    },
+    {
+      "problemCode": "ANUBGC",
+      "problemName": "Book Game with Chef",
+      "link": "https://www.codechef.com/problems/ANUBGC",
+      "subs": "275",
+      "acc": "35.14"
+    },
+    {
+      "problemCode": "MMPROD",
+      "problemName": "Best Maximum Product",
+      "link": "https://www.codechef.com/problems/MMPROD",
+      "subs": "275",
+      "acc": "14.91"
+    },
+    {
+      "problemCode": "PAIRCLST",
+      "problemName": "Two Closest",
+      "link": "https://www.codechef.com/problems/PAIRCLST",
+      "subs": "277",
+      "acc": "26.86"
+    },
+    {
+      "problemCode": "PENS",
+      "problemName": "Pen Pineapple Apple Pen",
+      "link": "https://www.codechef.com/problems/PENS",
+      "subs": "277",
+      "acc": "36.01"
+    },
+    {
+      "problemCode": "BINTREEQ",
+      "problemName": "Queries on a Binary Tree",
+      "link": "https://www.codechef.com/problems/BINTREEQ",
+      "subs": "283",
+      "acc": "35.31"
+    },
+    {
+      "problemCode": "REBXOR",
+      "problemName": "Nikitosh and xor",
+      "link": "https://www.codechef.com/problems/REBXOR",
+      "subs": "284",
+      "acc": "18.07"
+    },
+    {
+      "problemCode": "CHEFHOME",
+      "problemName": "A Home for Chef",
+      "link": "https://www.codechef.com/problems/CHEFHOME",
+      "subs": "289",
+      "acc": "39.07"
+    },
+    {
+      "problemCode": "CHEFANUP",
+      "problemName": "Chef Anup",
+      "link": "https://www.codechef.com/problems/CHEFANUP",
+      "subs": "297",
+      "acc": "39.63"
+    },
+    {
+      "problemCode": "ENGLISH",
+      "problemName": "English",
+      "link": "https://www.codechef.com/problems/ENGLISH",
+      "subs": "297",
+      "acc": "31.02"
+    },
+    {
+      "problemCode": "NUMSUM",
+      "problemName": "Sum of numbers",
+      "link": "https://www.codechef.com/problems/NUMSUM",
+      "subs": "300",
+      "acc": "11.63"
+    },
+    {
+      "problemCode": "CHEFGAME",
+      "problemName": "ChefGame",
+      "link": "https://www.codechef.com/problems/CHEFGAME",
+      "subs": "300",
+      "acc": "22.8"
+    },
+    {
+      "problemCode": "TAQTREE",
+      "problemName": "Queries On Tree",
+      "link": "https://www.codechef.com/problems/TAQTREE",
+      "subs": "304",
+      "acc": "24.45"
+    },
+    {
+      "problemCode": "CHRL3",
+      "problemName": "Chef and Numbers",
+      "link": "https://www.codechef.com/problems/CHRL3",
+      "subs": "307",
+      "acc": "24.82"
+    },
+    {
+      "problemCode": "CHSQARR",
+      "problemName": "Chef and Rectangle Array",
+      "link": "https://www.codechef.com/problems/CHSQARR",
+      "subs": "307",
+      "acc": "33.08"
+    },
+    {
+      "problemCode": "MIKE2",
+      "problemName": "Mike and Task Packages",
+      "link": "https://www.codechef.com/problems/MIKE2",
+      "subs": "308",
+      "acc": "21.24"
+    },
+    {
+      "problemCode": "SEARRAYS",
+      "problemName": "Sereja and Arrays",
+      "link": "https://www.codechef.com/problems/SEARRAYS",
+      "subs": "317",
+      "acc": "52.71"
+    },
+    {
+      "problemCode": "MOSTDIST",
+      "problemName": "Most Distant Points",
+      "link": "https://www.codechef.com/problems/MOSTDIST",
+      "subs": "322",
+      "acc": "42.51"
+    },
+    {
+      "problemCode": "AMR15B",
+      "problemName": "Devasena",
+      "link": "https://www.codechef.com/problems/AMR15B",
+      "subs": "322",
+      "acc": "16.67"
+    },
+    {
+      "problemCode": "SEAD",
+      "problemName": "Sereja and D",
+      "link": "https://www.codechef.com/problems/SEAD",
+      "subs": "323",
+      "acc": "34.63"
+    },
+    {
+      "problemCode": "SQNUMBF",
+      "problemName": "Square in numbers",
+      "link": "https://www.codechef.com/problems/SQNUMBF",
+      "subs": "331",
+      "acc": "10.38"
+    },
+    {
+      "problemCode": "SSTORY",
+      "problemName": "A Story with Strings",
+      "link": "https://www.codechef.com/problems/SSTORY",
+      "subs": "332",
+      "acc": "15.59"
+    },
+    {
+      "problemCode": "MAXOR",
+      "problemName": "Good Pairs",
+      "link": "https://www.codechef.com/problems/MAXOR",
+      "subs": "332",
+      "acc": "26.33"
+    },
+    {
+      "problemCode": "COALSCAM",
+      "problemName": "Coal Scam",
+      "link": "https://www.codechef.com/problems/COALSCAM",
+      "subs": "337",
+      "acc": "30.09"
+    },
+    {
+      "problemCode": "MARCHA4",
+      "problemName": "The Rise and Fall of Power",
+      "link": "https://www.codechef.com/problems/MARCHA4",
+      "subs": "338",
+      "acc": "7.2"
+    },
+    {
+      "problemCode": "DYNAINV",
+      "problemName": "Dynamic Inversion",
+      "link": "https://www.codechef.com/problems/DYNAINV",
+      "subs": "343",
+      "acc": "20.89"
+    },
+    {
+      "problemCode": "NWAYS",
+      "problemName": "Number of Ways ",
+      "link": "https://www.codechef.com/problems/NWAYS",
+      "subs": "346",
+      "acc": "27.22"
+    },
+    {
+      "problemCode": "DIVGAME",
+      "problemName": "Game of Divisors",
+      "link": "https://www.codechef.com/problems/DIVGAME",
+      "subs": "349",
+      "acc": "31.31"
+    },
+    {
+      "problemCode": "CHFQUEUE",
+      "problemName": "Chefs in Queue",
+      "link": "https://www.codechef.com/problems/CHFQUEUE",
+      "subs": "359",
+      "acc": "34.15"
+    },
+    {
+      "problemCode": "ABROADS",
+      "problemName": "Ancient Berland Roads",
+      "link": "https://www.codechef.com/problems/ABROADS",
+      "subs": "381",
+      "acc": "23.27"
+    },
+    {
+      "problemCode": "PSHTRG",
+      "problemName": "Pishty and Triangles",
+      "link": "https://www.codechef.com/problems/PSHTRG",
+      "subs": "381",
+      "acc": "43.37"
+    },
+    {
+      "problemCode": "CHEFCODE",
+      "problemName": "Chef and Subsequences",
+      "link": "https://www.codechef.com/problems/CHEFCODE",
+      "subs": "384",
+      "acc": "17.71"
+    },
+    {
+      "problemCode": "ADDSQURE",
+      "problemName": "Adding Squares",
+      "link": "https://www.codechef.com/problems/ADDSQURE",
+      "subs": "390",
+      "acc": "24.53"
+    },
+    {
+      "problemCode": "FRMQ",
+      "problemName": "Chef and Array",
+      "link": "https://www.codechef.com/problems/FRMQ",
+      "subs": "396",
+      "acc": "11.15"
+    },
+    {
+      "problemCode": "LEPAINT",
+      "problemName": "Little Elephant and Painting",
+      "link": "https://www.codechef.com/problems/LEPAINT",
+      "subs": "399",
+      "acc": "58.44"
+    },
+    {
+      "problemCode": "PRMQ",
+      "problemName": "Chef and Prime Queries",
+      "link": "https://www.codechef.com/problems/PRMQ",
+      "subs": "400",
+      "acc": "22.33"
+    },
+    {
+      "problemCode": "COPAR",
+      "problemName": "Cute Chef Gift",
+      "link": "https://www.codechef.com/problems/COPAR",
+      "subs": "401",
+      "acc": "22.14"
+    },
+    {
+      "problemCode": "ARRP",
+      "problemName": "Partitions",
+      "link": "https://www.codechef.com/problems/ARRP",
+      "subs": "410",
+      "acc": "35.98"
+    },
+    {
+      "problemCode": "STRPTRE",
+      "problemName": "Strip in a Tree!",
+      "link": "https://www.codechef.com/problems/STRPTRE",
+      "subs": "412",
+      "acc": "37.48"
+    },
+    {
+      "problemCode": "GIVCANDY",
+      "problemName": "Sharing Candies",
+      "link": "https://www.codechef.com/problems/GIVCANDY",
+      "subs": "421",
+      "acc": "30.99"
+    },
+    {
+      "problemCode": "MTRICK",
+      "problemName": "Magic Trick",
+      "link": "https://www.codechef.com/problems/MTRICK",
+      "subs": "429",
+      "acc": "21.94"
+    },
+    {
+      "problemCode": "KOL15B",
+      "problemName": "Finding Hardest Sum Value",
+      "link": "https://www.codechef.com/problems/KOL15B",
+      "subs": "436",
+      "acc": "41.43"
+    },
+    {
+      "problemCode": "CHEFAOR",
+      "problemName": "Chef and Bitwise OR Operation",
+      "link": "https://www.codechef.com/problems/CHEFAOR",
+      "subs": "444",
+      "acc": "22.28"
+    },
+    {
+      "problemCode": "ASHIGIFT",
+      "problemName": "Saving a gift of love",
+      "link": "https://www.codechef.com/problems/ASHIGIFT",
+      "subs": "450",
+      "acc": "22.99"
+    },
+    {
+      "problemCode": "PPXOR",
+      "problemName": "Polo the Penguin and the XOR",
+      "link": "https://www.codechef.com/problems/PPXOR",
+      "subs": "451",
+      "acc": "32.5"
+    },
+    {
+      "problemCode": "QSET",
+      "problemName": "Queries on the String",
+      "link": "https://www.codechef.com/problems/QSET",
+      "subs": "460",
+      "acc": "27.25"
+    },
+    {
+      "problemCode": "CHEFB",
+      "problemName": "Chef and easy problem 2",
+      "link": "https://www.codechef.com/problems/CHEFB",
+      "subs": "461",
+      "acc": "21.95"
+    },
+    {
+      "problemCode": "CHEFEXQ",
+      "problemName": "Chef And Easy Xor Queries",
+      "link": "https://www.codechef.com/problems/CHEFEXQ",
+      "subs": "469",
+      "acc": "17.35"
+    },
+    {
+      "problemCode": "CHEFD",
+      "problemName": "Chef and medium problem 2",
+      "link": "https://www.codechef.com/problems/CHEFD",
+      "subs": "478",
+      "acc": "29.84"
+    },
+    {
+      "problemCode": "TYTACTIC",
+      "problemName": "Tywins Tactics",
+      "link": "https://www.codechef.com/problems/TYTACTIC",
+      "subs": "479",
+      "acc": "23.5"
+    },
+    {
+      "problemCode": "WORDS1",
+      "problemName": "Play on Words",
+      "link": "https://www.codechef.com/problems/WORDS1",
+      "subs": "502",
+      "acc": "13.18"
+    },
+    {
+      "problemCode": "MATRIX2",
+      "problemName": "Matrix",
+      "link": "https://www.codechef.com/problems/MATRIX2",
+      "subs": "529",
+      "acc": "30.27"
+    },
+    {
+      "problemCode": "PHYSICS",
+      "problemName": "Physics Class",
+      "link": "https://www.codechef.com/problems/PHYSICS",
+      "subs": "557",
+      "acc": "28.07"
+    },
+    {
+      "problemCode": "CHGIFT1",
+      "problemName": "Chef and Gift",
+      "link": "https://www.codechef.com/problems/CHGIFT1",
+      "subs": "575",
+      "acc": "16.93"
+    },
+    {
+      "problemCode": "COPRIME3",
+      "problemName": "Coprime Triples",
+      "link": "https://www.codechef.com/problems/COPRIME3",
+      "subs": "617",
+      "acc": "26.06"
+    },
+    {
+      "problemCode": "PPERM",
+      "problemName": "Prime Permutations",
+      "link": "https://www.codechef.com/problems/PPERM",
+      "subs": "619",
+      "acc": "35.65"
+    },
+    {
+      "problemCode": "STABLEMP",
+      "problemName": "Stable Marriage Problem",
+      "link": "https://www.codechef.com/problems/STABLEMP",
+      "subs": "620",
+      "acc": "37.89"
+    },
+    {
+      "problemCode": "LPAIR",
+      "problemName": "Chef and Reunion",
+      "link": "https://www.codechef.com/problems/LPAIR",
+      "subs": "653",
+      "acc": "35.99"
+    },
+    {
+      "problemCode": "STROPERS",
+      "problemName": "String Operations",
+      "link": "https://www.codechef.com/problems/STROPERS",
+      "subs": "653",
+      "acc": "54.7"
+    },
+    {
+      "problemCode": "TWONIM",
+      "problemName": "Dual Nim",
+      "link": "https://www.codechef.com/problems/TWONIM",
+      "subs": "668",
+      "acc": "52.65"
+    },
+    {
+      "problemCode": "COUPON",
+      "problemName": "Online Shopping",
+      "link": "https://www.codechef.com/problems/COUPON",
+      "subs": "723",
+      "acc": "21.12"
+    },
+    {
+      "problemCode": "CSS2",
+      "problemName": "Cascading Style Sheets",
+      "link": "https://www.codechef.com/problems/CSS2",
+      "subs": "734",
+      "acc": "34.4"
+    },
+    {
+      "problemCode": "SSO",
+      "problemName": "Chef Is Just Throwing Random Words",
+      "link": "https://www.codechef.com/problems/SSO",
+      "subs": "755",
+      "acc": "40.13"
+    },
+    {
+      "problemCode": "CHRL1",
+      "problemName": "Chef and Shop",
+      "link": "https://www.codechef.com/problems/CHRL1",
+      "subs": "759",
+      "acc": "37.66"
+    },
+    {
+      "problemCode": "KNPSK",
+      "problemName": "Knapsack Problem",
+      "link": "https://www.codechef.com/problems/KNPSK",
+      "subs": "853",
+      "acc": "15.4"
+    },
+    {
+      "problemCode": "TALCA",
+      "problemName": "Lowest Common Ancestor",
+      "link": "https://www.codechef.com/problems/TALCA",
+      "subs": "917",
+      "acc": "28.71"
+    },
+    {
+      "problemCode": "SUBLCM",
+      "problemName": "Subarray LCM",
+      "link": "https://www.codechef.com/problems/SUBLCM",
+      "subs": "921",
+      "acc": "21.93"
+    },
+    {
+      "problemCode": "RRPLAYER",
+      "problemName": "Player",
+      "link": "https://www.codechef.com/problems/RRPLAYER",
+      "subs": "950",
+      "acc": "69.14"
+    },
+    {
+      "problemCode": "ABCSTR",
+      "problemName": "ABC-Strings",
+      "link": "https://www.codechef.com/problems/ABCSTR",
+      "subs": "953",
+      "acc": "27.32"
+    },
+    {
+      "problemCode": "DIVSUBS",
+      "problemName": "Divisible Subset",
+      "link": "https://www.codechef.com/problems/DIVSUBS",
+      "subs": "954",
+      "acc": "24.54"
+    },
+    {
+      "problemCode": "RRFRNDS",
+      "problemName": "Friends",
+      "link": "https://www.codechef.com/problems/RRFRNDS",
+      "subs": "1005",
+      "acc": "19.74"
+    },
+    {
+      "problemCode": "POUR1",
+      "problemName": "Pouring water",
+      "link": "https://www.codechef.com/problems/POUR1",
+      "subs": "1106",
+      "acc": "41.66"
+    },
+    {
+      "problemCode": "MULTQ3",
+      "problemName": "Multiples of 3",
+      "link": "https://www.codechef.com/problems/MULTQ3",
+      "subs": "1232",
+      "acc": "15.71"
+    },
+    {
+      "problemCode": "TSHIRTS",
+      "problemName": "Little Elephant and T-Shirts",
+      "link": "https://www.codechef.com/problems/TSHIRTS",
+      "subs": "1393",
+      "acc": "44.02"
+    },
+    {
+      "problemCode": "ANUMLA",
+      "problemName": "Mahesh and his lost array",
+      "link": "https://www.codechef.com/problems/ANUMLA",
+      "subs": "1768",
+      "acc": "25.16"
+    },
+    {
+      "problemCode": "TASHIFT",
+      "problemName": "Shift The String",
+      "link": "https://www.codechef.com/problems/TASHIFT",
+      "subs": "1819",
+      "acc": "27.34"
+    },
+    {
+      "problemCode": "MIXTURES",
+      "problemName": "Mixtures",
+      "link": "https://www.codechef.com/problems/MIXTURES",
+      "subs": "1945",
+      "acc": "31.34"
+    },
+    {
+      "problemCode": "TAAND",
+      "problemName": "And Operation",
+      "link": "https://www.codechef.com/problems/TAAND",
+      "subs": "2017",
+      "acc": "30.54"
+    },
+    {
+      "problemCode": "ONEKING",
+      "problemName": "One Dimensional Kingdoms",
+      "link": "https://www.codechef.com/problems/ONEKING",
+      "subs": "2034",
+      "acc": "28.25"
+    },
+    {
+      "problemCode": "ARRAYTRM",
+      "problemName": "Array Transform",
+      "link": "https://www.codechef.com/problems/ARRAYTRM",
+      "subs": "2094",
+      "acc": "32.81"
+    },
+    {
+      "problemCode": "NOKIA",
+      "problemName": "Connecting Soldiers",
+      "link": "https://www.codechef.com/problems/NOKIA",
+      "subs": "2410",
+      "acc": "47.62"
+    },
+    {
+      "problemCode": "AND",
+      "problemName": "Pairwise AND sum",
+      "link": "https://www.codechef.com/problems/AND",
+      "subs": "2566",
+      "acc": "21.74"
+    },
+    {
+      "problemCode": "TADELIVE",
+      "problemName": "Delivery Man",
+      "link": "https://www.codechef.com/problems/TADELIVE",
+      "subs": "2717",
+      "acc": "86.53"
+    },
+    {
+      "problemCode": "SEAVOTE",
+      "problemName": "Sereja and Votes",
+      "link": "https://www.codechef.com/problems/SEAVOTE",
+      "subs": "3055",
+      "acc": "27.83"
+    },
+    {
+      "problemCode": "NUMFACT",
+      "problemName": "Number of Factors",
+      "link": "https://www.codechef.com/problems/NUMFACT",
+      "subs": "3192",
+      "acc": "21.21"
+    },
+    {
+      "problemCode": "FLIPCOIN",
+      "problemName": "Flipping Coins",
+      "link": "https://www.codechef.com/problems/FLIPCOIN",
+      "subs": "3471",
+      "acc": "34.23"
+    },
+    {
+      "problemCode": "TREEROOT",
+      "problemName": "Root of the Problem",
+      "link": "https://www.codechef.com/problems/TREEROOT",
+      "subs": "4937",
+      "acc": "70.29"
+    },
+    {
+      "problemCode": "MARBLES",
+      "problemName": "Marbles",
+      "link": "https://www.codechef.com/problems/MARBLES",
+      "subs": "7087",
+      "acc": "29.95"
+    },
+    {
+      "problemCode": "COINS",
+      "problemName": "Bytelandian gold coins",
+      "link": "https://www.codechef.com/problems/COINS",
+      "subs": "17060",
+      "acc": "31.23"
+    }
+  ]
