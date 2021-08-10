@@ -17,3 +17,5 @@ to initiate the bot
  <br/>
 
  **5.** start the bot with **`node kebab.js`**<br/>
+## **TUTORIAL** 
+[<img src="https://github.com/arjundvn24/my-images/blob/main/Capture.PNG" width="917" height="515">]<br/>
